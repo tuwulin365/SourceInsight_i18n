@@ -1,0 +1,90 @@
+Files
+文件
+
+Opening Files
+打开的文件
+
+Sharing: Let other programs modify files
+允许其他程序修改文件
+
+Reload externally modified files automatically
+文件被外部修改时自动重载
+
+Note: "Reload Modified Files" command will also reload files.
+注意:"重载被修改的文件"命令也会重载文件。
+
+Ask before reloading modified files
+重载被修改文件前询问
+
+Assume ^Z (ASCII 26) is End-Of-File
+接受^Z(ASCII 26)为EOF
+
+Open all backup files as read-only
+备份文件只读打开
+
+Customize 'Open' Command...
+自定义"打开"命令...
+
+Saving Files
+保存文件
+
+Make backup files when saving
+保存时生成备份
+
+Remove backup files older than (days):
+移除超过x天的备份文件:
+
+Save All operation will query on each file separately
+保存所有文件时分别询问
+
+Save All operation saves without prompts
+保存所有文件时提示
+
+Save all files when Source Insight program is deactivated
+程序失去焦点时保存所有文件
+
+Preserve Undo data and revision marks after saving
+保存后保留撤销记录和修改标记
+
+Confirm saving over modified files
+保存外修改的文件时提示
+
+Save over read-only files without prompting
+无条件保存只读文件
+
+Remove extra white space when saving
+保存时移除多余空白
+
+Other
+其他
+
+Allow editing read-only file buffers
+允许编辑只读文件缓存
+
+Confirm all file deletions
+删除文件时询问
+
+Default line ending:
+默认换行符:
+
+Default encoding:
+默认编码:
+
+Open Command Options
+"打开"命令选项
+
+The 'Open' Command Activates:
+用"打开"命令打开:
+
+Project &File List view in Project Window
+项目文件列表视图
+
+Project &Directory view in Project Window
+项目目录视图
+
+&Load File command dialog box
+载入文件对话框
+
+&Standard Open dialog box
+标准打开对话框
+

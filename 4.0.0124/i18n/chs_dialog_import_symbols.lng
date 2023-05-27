@@ -1,0 +1,24 @@
+Import External Symbols for New Project
+为新项目导入外部符号
+
+Import External Symbols for %s Project
+为 %s 项目导入外部符号
+
+Import External Symbols (For All Projects)
+为所有项目导入外部符号
+
+You can import symbol information from external sources, such as .NET assemblies, Java classes, C/C++ header files, and other source trees. Symbols are used for auto-completion, showing definitions, and syntax formatting.
+你可以从外部源导入符号信息，如.NET assemblies, Java classes, C/C++头文件等。符号用于自动完成，显示定义和语法高亮。
+
+Imported Libraries
+导入库
+
+Properties...
+属性...
+
+Move Dow&n
+下移
+
+Move &Up
+上移
+

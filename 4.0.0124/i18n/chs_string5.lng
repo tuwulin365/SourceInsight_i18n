@@ -1,0 +1,510 @@
+Please enter a full directory path for the project data files.
+请输入项目数据文件的完整路径。
+
+%s should be a simple file name, without path characters.
+%s 应该是一个简单文件名，不带路径。
+
+Please enter a project name.
+请输入项目名。
+
+Project "%s" not closed.
+项目 %s 没有关闭。
+
+File "%s" is not part of project "%s".
+文件 %s 不在项目 %s 里。
+
+Add to Project: "%s"
+添加到项目 %s。
+
+%d files will be added to the project.\n\nOK to continue?
+这 %d 个文件将添加到项目。\n\n确认继续？
+
+No files found.
+没找到文件
+
+Are you sure you want to remove project "%s"?
+确认要移除项目 %s？
+
+Cannot remove "%s".  Some project files are open.
+无法移除 %s，某些项目文件已被打开。
+
+Project %s is currently open.\n\nAre you sure you want to delete it?
+项目 %s 已经打开。\n\n确认要删除它？
+
+The project was not renamed or moved.
+项目没有被重命名或移除。
+
+The project could not be copied or renamed.
+无法复制或重命名项目。
+
+The project contains %d backup source files, which may take a while to copy. Do you want to copy the backup files?
+项目包含 %d 个备份文件，复制需要点时间。确认复制备份文件？
+
+The project cannot be copied or renamed because a project already exists with that name. Please specify a different project name.
+无法重命名或移除项目，同名项目已经存在。请指定另一个项目名。
+
+The project cannot be copied or renamed because the name was not changed. Please specify a different project name.
+无法重命名或移除项目，名称已经被修改。请指定另一个项目名。
+
+You can use this to rename the current project, or to move the data file location. Your source files will not be moved or touched. We recommend a local non-networked drive for the project data directory.
+你可以重命名当前项目，或移动数据文件位置。不会移动源码文件。建议项目数据文件存放在非网盘。
+
+OK to Close current project: "%s"?
+确认关闭当前项目: %s?
+
+There was an error creating project "%s".
+创建项目 %s 时发生错误。
+
+Are you sure you want to remove %d files in the selected directory trees?
+确认要从所选的目录树里移除这 %d 个文件？
+
+The selected directory trees did not contain any project files.
+所选目录树不含任何项目文件。
+
+Out of memory while processing %s.  Do you want to continue?
+运行 %s 是内存不足。是否继续？
+
+OK to remove ALL files from the project?
+确认从项目移除所有文件？
+
+OK to remove all %d files from the project?
+确认从项目移除这 %d 个文件？
+
+No changes found.
+没找到修改。
+
+The URL you entered is missing the %%S search term. OK to leave it missing?\n\nURL: %s
+输入的URL缺少 %%S。确认继续？\n\nURL: %s
+
+Please enter a URL string for the search engine query.
+请输入URL字符串，用于搜索引擎查询。
+
+Please enter a name for the search engine.
+请输入搜索引擎名称。
+
+URL Query Spec (use %S as the search term)
+URL查询规则 (使用 %S 替代搜索词)
+
+The %s engine already exists in the list. Do you want to replace it?
+%s 已经在列表中。替换它？
+
+Are you sure you want to reset all the Search Engines to defaults?
+确认要重置所有搜索引擎？
+
+Use this to edit the Internet search engines used by the Search Web command. Each search engine has a URL specification that indicates the search text with %S.
+编辑网页搜索命令使用的网络搜索引擎。每个搜索引擎都有一套URL规则，使用%S表示要搜索的文本 。
+
+Other styles inherit from %s.\n\nAre you sure you want to delete it and remove all references to it?
+有其他风格继承自 %s。\n\n确认要删除它，并移除对它的所有引用？
+
+Do you want to discard your changes to the style settings?
+放弃对风格设置的修改？
+
+The Parent Style relationship cannot have circular references.\n\nYou cannot base %s style on %s style because %s is already based (possibly indirectly) on %s.  
+父风格关联没有循环引用。\n\n%s 风格无法继承 %s 风格，因为 %s 已经(间接)继承自 %s。
+
+Several files in %s need synchronizing with the Symbol Database.  Synchronize now?
+%s 的几个文件需要同步符号数据库。立即同步？
+
+Not implemented yet.
+还没有实现。
+
+OK to link all windows so they will scroll together?
+确认要关联所有窗口，实现同步滚动？
+
+The Default Configuration has been loaded because the Reset option was used to start Source Insight.\n\nThe original configuration file was copied to %s
+已经载入默认配置，因为启动Source Insight时使用了复位选项。\n\n源配置文件已被复制到 %s。
+
+%s is not a valid configuration file.\nIt cannot be opened.
+%s 不是一个有效的配置文件。\n无法打开它。
+
+//This is a Source Insight configuration file.
+//这是 Source Insight 配置文件。
+//
+//Prefix with 'project_data:' the file is relative to the project data directory.
+//带"project_data:"前缀的文件是相对于项目数据目录。
+//
+//Prefix with 'project_source:' the file is relative to the project source directory.
+//带"project_source:"前缀的文件是相对于项目源文件目录。
+//
+//It tells Source Insight where to store and get configuration settings.
+//这告诉 Source Insight 哪里存储和获取配置设置。
+//
+//This is a Master configuration file.
+//这是主配置文件。
+//
+Window transparency is not supported or is disabled.
+不支持窗口透明度或被禁用。
+
+Window transparency is disabled in the remote session. See Options > Preferences:Remote.
+远程会话模式禁用窗口透明度。查看"选项 > 首选项:远程"。
+
+//This is a Source Insight desktop layout file.
+//这是 Source Insight 桌面布局文件。
+//
+Are you sure you want to reset the window layout to the default setting?
+确认要重置窗口布局？
+
+The Default Window Layout has been loaded because the Reset option was used to start Source Insight.\n\nThe original file was copied to %s
+已经载入默认窗口布局，因为启动Source Insight时使用了复位选项。\n\n源配置文件已经被复制到 %s。
+
+The layout cannot be loaded because it has not been saved yet.\n\nDo you want to save the current desktop now as Layout %c?\n\nYou can also save it later with View > Save Layout.
+无法载入布局，因为还没有保存。\n\n保存当前桌面为布局%c？\n\n也可以之后保存，使用"视图 > 保存布局"。
+
+"%s" is busy or opened by another process.\nWrite access was denied.
+%s 繁忙或被另一个进程打开。\n写入被拒绝。
+
+Too many lines in file.  Cannot open.
+文件太多行。不能打开。
+
+Cannot use the current file.
+无法使用当前文件。
+
+%s already contains text.\nReplace it or Append to it?
+%s 已经包含内容。\n替换或者追加？
+
+Search Results already contains text.\nReplace it or Append to it?
+搜索结果已经包含内容。\n替换或者追加？
+
+Unable to connect to FTP site '%s'. Cannot download %s.
+无法连接FTP站点 %s。不能下载 %s。
+
+The FTP site '%s' is unknown. Check the site list in the FTP Window.
+未知的FTP站点 %s。请确认FTP窗的站点列表。
+
+%s has been changed outside of Source Insight since it was loaded.\n\nDo you want to continue and overwrite it?
+%s 已经被外部编辑。\n\n继续并覆写它？
+
+Do you want to add "%s" to the current project?
+添加 %s 到当前项目？
+
+Cannot save to %s because it is already open.
+无法保存 %s，因为它已经被打开。
+
+Join operation results in a line that exceeds the maximum length.
+添加操作结果到某行，该行长度超限。
+
+Cannot edit while in Browser Mode. \n\nSelect Edit > Browse Mode to turn the mode off.
+浏览模式时无法编辑。\n\n通过"编辑 > 浏览模式"关闭该模式。
+
+Cannot modify a read-only file.
+无法修改只读文件。
+
+Cannot modify the file buffer of a macro that is running.
+无法修改文件缓存，该宏文件正在运行。
+
+Out of space for Undo.
+空间不足。
+
+Operation not allowed.
+操作不允许。
+
+Out of memory.
+内存不足。
+
+Too many lines.
+太多行。
+
+Cannot revert to original lines because the file is not saved yet.
+无法恢复原行，因为文件还没有保存。
+
+Cannot revert to original lines because the selected lines are unchanged.
+无法恢复原行，因为所选行没有改动。
+
+Can't copy to the same file buffer.
+无法复制到相同的缓存。
+
+Can't paste to the same file buffer.
+无法粘贴到相同的文件缓存。
+
+Editing in the File Compare window is disabled. Do you want to enable edits and continue?
+文件比较窗编辑被禁用。启用编辑并继续？
+
+The diff command could not be run. The command line is\n\n%s\n\nClick the Options button in the File Compare Window to edit the diff command.
+比较命令无法运行。命令行是\n\n%s\n\n单击文件比较窗的"选项"按钮去编辑比较命令。
+
+Do you want to continue opening files?
+继续打开文件？
+
+The directory scan was aborted.
+目录扫码被终止。
+
+Do you want to continue deleting files?
+继续删除文件？
+
+Are you sure you want to DELETE the selected files?
+确认要删除所选的文件？
+
+Do you want to continue copying files?
+继续复制文件？
+
+You are about to copy over a newer file.\n\nOK to replace:\n%s\n\nwith:\n%s ?
+将要覆盖更新的文件。\n\n确认替换:\n%s\n\n用:\n%s
+
+Are you sure you want to copy the selected files?
+确认要复制所选文件？
+
+Are you sure you want to copy all %d items?
+确认要复制这 %d 个组件？
+
+---- %s Search Errors Encountered (%d) ----
+---- 出现 %s个 搜索错误 (%d) ----
+
+The replacement expression contains invalid groups or is too complex.
+替换表达式包含无效的组或者太复杂。
+
+The remote host is not connected.  Do you want to connect now and upload the selected files?
+未连接远程主机。立即连接并上传所选文件？
+
+Are you sure you want to delete the selected files from the remote host?
+确认要删除所选的远程文件？
+
+Continue renaming the remaining items?
+继续重命名剩余的组件？
+
+You must enter a host address.
+必须输入主机地址。
+
+You must enter a host name.
+必须输入主机名。
+
+File transfer modes set to %s.\n
+文件传输模式设为 %s。
+
+Cannot accept connection.
+无法接受连接。
+
+Cannot obtain a listen socket.
+无法获取监听套接字。
+
+FTP transfer interrupted.
+FTP传输被中断。
+
+This will import symbols from external libraries and source files. Imported symbols are placed in a Source Insight Import Library project.\n\nPlease select the library symbols you want to import below.
+从外部库和源文件导入符号。导入的符号被放置在Source Insight导入库项目。\n\n请选择想要导入的库符号。
+
+Import from an INCLUDE path
+从头文件路径导入
+
+Import from a source code tree
+从源码树导入
+
+Import a directory tree of .NET assemblies
+从.NET assemblies的目录树导入
+
+Import a Java jar file
+从java jar文件导入
+
+Import a directory tree of Java classes
+从Java类的目录树导入
+
+Import from another Source Insight project
+从另一个Source Insight项目导入
+
+Import single file - .NET dll or exe, Java jar or class file
+导入单个文件 - .NET dll或exe，Java jar或类文件
+
+Source Insight was unable to launch the library reflection tool.\n\nCommand Line = %s
+Source Insight无法启动库反射工具。\n\n命令行 = %s
+
+There was an error creating the import project: %s\n\nPlease exit any other instances of Source Insight and try again.
+创建导入项目时发生错误: %s\n\n请退出Source Insight的其他实例并重试。
+
+There already is an import library project with the same name: %s\n\nDo you want to replace it?
+存在同名导入库项目: %s。\n\n替换它？
+
+You are trying to import into the current project. Please close the current project before importing.
+正在尝试导入到当前库。请关闭当前库再导入。
+
+The import library will be removed from the list:\n%s\n\nDo you want to also delete the Source Insight library data files?
+导入库将从列表移除:\n%s\n\n同时删除Source Insight库道具文件？
+
+A file I/O error occured while loading the .NET assembly. Make sure the file is unblocked if it came from a remote source.
+载入.NET assembly时发生文件IO错误。如果是远程文件，请确认它没有被锁定。
+
+java.exe could not be found. Make sure your PATH environment variable points to java.exe.
+未找到java.exe。确认环境变量PATH包含java.exe。
+
+Checkmark the directories you wish to scan for files containing symbol declarations.
+标记想要扫描的目录，目录里的文件包含符号描述。
+
+Please enter or paste the INCLUDE path. This can be any path list delimited with semi-colons. Source files in the path will be scanned for symbols.
+请输入或粘贴包含路径。路径之间用分号分隔。将扫码路径里的源文件的符号。
+
+Are you sure you want to import symbols from ALL versions of the Framework? Some symbols may be duplicated. If not, click 'No' and select a specific version subdirectory.
+确认要从全部版本的Framework导入符号？一些符号可能会重复。如果不是，请单击"No"，然后在子目录里选择一个特定的版本。
+
+Are you sure you want to import symbols from ALL versions of the JRE? Some symbols may be duplicated. If not, click 'No' and select a specific version subdirectory.
+确认要从全部版本的JRE导入符号？一些符号可能会重复。如果不是，请单击"No"，然后在子目录里选择一个特定的版本。
+
+Symbols were imported from a single library file.\n\nOriginal library file: %s\n\nImport-Project location: %s\n\nContains %d files and %d symbols.
+从库文件导入的符号。\n\n原库文件: %s\n\n导入项目位置: %s\n\n包含 %d 个文件和 %d 个符号。
+
+Symbols were imported from a directory tree.\n\nSource directory: %s\n\nImport-Project location: %s\n\nContains %d files and %d symbols.
+从目录树导入的符号。\n\n源目录: %s\n\n导入项目位置: %s\n\n包含 %d 个文件和 %d 个符号。
+
+You can <A HREF="www.sourceinsight.com">purchase an new serial number online</A>, or <A HREF=".">load a new license file</A>.
+你可以<A HREF="www.sourceinsight.com">在线购买一个新序列号</A>，或者<A HREF=".">载入新许可文件</A>。
+
+&Enter a purchased serial number to activate a license on this machine.
+输入购买的序列号以激活许可。
+
+Choose this option if a license file was sent to you.
+如果你收到许可文件请选择该项。
+
+A Trial license will be activated immediately and will run for 30 days.
+将激活试用许可，可以使用30天。
+
+You can <A HREF="www.sourceinsight.com">purchase an new serial number online</A>.
+你可以<A HREF="www.sourceinsight.com">在线购买一个新序列号</A>。
+
+Choose this option if you have a serial number for a purchased license. This will permanently activate your license.
+如果你有序列号请选择该项。这将永久激活许可。
+
+&Import a new license file.
+导入新许可文件。
+
+&Begin a 30-day Free Trial of Source Insight.
+开始试用 Source Insight 30天。
+
+&Enter your purchased serial number to activate a license on this machine.
+输入你购买的序列号。
+
+Please select an option to enable your license.
+请选择一个选项。
+
+Welcome to Source Insight.
+欢迎使用 Source Insight
+
+Exit Program
+退出程序
+
+Please confirm the information below. When you continue, a Trial license will be activated on your machine. This requires Internet access.
+请确认以下消息。接下来，将激活本机的试用许可。这需要网络接入。
+
+Please confirm the information below. When you continue, Source Insight will verify the license and activate it on your machine. This requires Internet access.
+请确认以下消息。接下来，Source Insight将验证本机的许可并激活它。这需要网络接入。
+
+Please enter your information below. When you continue, a Trial license will be activated on your machine. This requires Internet access.
+请输入以下消息。接下来，将激活本机的试用许可。这需要网络接入。
+
+Please enter your information below. When you continue, Source Insight will verify the license and activate it on your machine. This requires Internet access.
+请输入以下消息。接下来，Source Insight将验证本机的许可并激活它。这需要网络接入。
+
+Source Insight License Activation
+Source Insight 许可激活
+
+Please enter your Source Insight 4.x serial number. If you purchased your license online, then a serial number was emailed to you.
+请输入你的 Source Insight 4.x 序列号。如果是在线购买，那么序列号已经用E-mail发给你。
+
+&Serial Number (including dashes, eg. S4XX-XXXX-XXXX-XXXX)
+序列号 (包含横线，如S4XX-XXXX-XXXX-XXXX)
+
+There is no Internet connection.\n\nTo activate your license, Source Insight requires Internet access. Please check your Internet connection and try again.
+没有网络连接。\n\n为激活许可，Source Insight需要接入网络。请检查网络连接并重试。
+
+The two email addresses do not match.
+两次E-mail地址不匹配。
+
+Please enter a valid email address.
+请输入有效的E-mail地址。
+
+You must enter a user name to continue.
+你必须输入用户名。
+
+The Source Insight license has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+The Source Insight Beta license has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight Beta版许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+The Source Insight Trial has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight试用许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+There was an error processing the license, or the license file is invalid. Error code: %d\n\nPlease provide a serial number and re-activate the license on this machine.
+处理许可时发生错误，或者许可文件无效。错误码: %d\n\n请提供序列号，再次激活本机的许可。
+
+The license file does not work with this version of Source Insight.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件不能用于这个版本的Source Insight。\n\n请提供序列号，再次激活本机的许可。
+
+There was a network error while trying to connect to the licensing server. The certificate is not valid or missing. Code: %d\n\nPlease make sure the DigiCert Global Root CA and DigiCert SHA2 Secure Server CA certificates are installed in order to trust sls.sourceinsight.com.
+尝试链接许可系统时发生网络错误。证书无效或丢失。代码:%d\n\n为了信任sls.sourceinsight.com，请确认安装了DigiCert Global Root CA和DigiCert SHA2 Secure Server CA证书。
+
+There was a network error while trying to connect to the licensing system. Code: %d\n\nPlease make sure you have an Internet connection.
+尝试链接许可系统时发生网络错误。代码:%d\n\n确认右网络连接。
+
+The license file is not valid for this machine.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件无效。\n\n请提供序列号，再次激活本机的许可。
+
+The license file is not correct, or it is not a Source Insight license file.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件不正确，或者不是Source Insight许可文件。\n\n请提供序列号，再次激活本机的许可。
+
+The Trial license could not be activated because a trial license was already activated on this machine.
+不能激活使用许可，因为本机已经激活了试用许可。
+
+The license could not be activated because the serial number you provided has been disabled or revoked.\n\nPlease check the serial number that was provided to you, and re-enter it.
+无法激活许可，因为你输入的序列号已经被注销。\n\n请确认你的序列号，并重输。
+
+The license could not be activated because the serial number you provided is not valid.\n\nPlease check the serial number that was provided to you, and re-enter it. If you do not have a serial number, you can do one of the following on the next screen:\n\n1) Purchase a license and a serial number will be sent to you.\n2) Begin a 30-Day Trial.
+无法激活许可，因为你输入的序列号无效。\n\n请确认你的序列号，并重输。如果你没有序列号，可以选择如下操作:\n\n1) 购买许可，序列号将被发送给你。\n2) 开始30天试用。
+
+The old Source Insight version 3.x serial number you entered is not valid. Please try again.
+输入的旧版Source Insight 3.x版序列号无效。请重输。
+
+You have entered a serial number for an Upgrade license, however we were not able to find an old license for Source Insight on this machine.\n\nPlease have ready your old version 3.x serial number to enter at the next prompt.\n\nIf your old version of Source Insight is running, you can see the serial number by selecting Help > About Source Insight. Otherwise, the serial number was typically provided in an email activation message when you purchased the old license.
+你输入了升级许可序列号，但是在本机没有发现旧许可。\n\n请在下一个对话框输入旧版3.x序列号。\n\n如果旧版软件坐在运行，你可以通过"帮助 > 关于Source Insight"查看序列号。另外，序列号通常在你购买旧版许可时通过邮件发送给你。
+
+The trial is not available because your license activation is pending.
+无法开始试用，因为你的许可激活正挂起。
+
+Your license has been deactivated on this machine.
+你的许可已经被冻结。
+
+Your license has been temporarily activated to allow you to run Source Insight.\n\nThere was a network error, or the licensing system did not respond. Source Insight will attempt to register with the licensing system later.
+你的许可已经临时激活，可以运行Source Insight。\n\n出现网络错误，许可系统无响应。Source Insight之后将尝试注册。
+
+Your %s of Source Insight is now activated.\n\nThank you for using Source Insight!
+你的 Source Insight %s已经激活。\n\n感谢使用Source Insight！
+
+Sorry, but we could not validate your previous license. Please make sure you have the correct serial number for version 3.x.\n\nIf your old version of Source Insight is running, you can see the serial number by selecting Help > About Source Insight. Otherwise, the serial number was typically provided in an email activation message when you purchased the old license.
+抱歉，我们无法验证你先前的许可。请确认你拥有正确的3.x版序列号。\n\n如果旧版软件正在运行，你可以通过"帮助 > 关于..."查看序列号。另外，序列号通常在你购买旧版许可时通过邮件发送给你。
+
+The serial number cannot be used with the 'release' version of Source Insight.
+该序列号无法用于release版Source Insight。
+
+The serial number you entered is for a different version of Source Insight.\n\nThis version requires a version 4.x serial number.
+输入的序列号适用于其他版本。\n\n需要4.x版本序列号。
+
+The serial number you entered is not correct. A serial number for Source Insight version 4.x is required.\n\nPlease check the number and re-enter it.
+输入的序列号不正确。需要4.x版本序列号。\n\n请确认并重输。
+
+The serial number you entered is for version 3.x of Source Insight.\n\nThis version requires a version 4.x serial number.
+输入的是3.x版序列号。\n\n需要4.x版本序列号。
+
+The license is already activated.
+许可已经激活。
+
+The license could not be registered with the Source Insight license server. This could be a network problem.
+无法在Source Insight许可服务器上注册。可能是网络问题。
+
+The license is not valid or could have too many activations. Please consult your support staff or activation@sourceinsight.com.
+许可无效或激活次数太多。请联系技术支持或activation@sourceinsight.com。
+
+The license was successfully registered with the Source Insight license server.
+在Source Insight许可服务器上注册成功。
+
+Your license was activated on %s.
+许可激活于 %s。
+
+Your license expired on %s.
+你的许可激活于 %s。
+
+Your %s was activated on %s.
+你的 %s 激活于 %s。
+
+Your %s expired on %s.
+你的%s过期于 %s。
+
+Continue with the Source Insight Trial.
+继续试用Source Insight？
+

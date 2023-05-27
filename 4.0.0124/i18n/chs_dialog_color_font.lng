@@ -1,0 +1,88 @@
+Colors && Fonts
+颜色和字体
+
+Color Item:
+部件:
+
+Current Line Indicator
+当前行指示器
+
+Frame and Panel Background
+边框和面板背景
+
+Frame and Panel Text
+边框和面板文本
+
+Application Background
+应用程序背景
+
+Selection Bar
+选择栏
+
+Printed Default Text
+默认打印颜色
+
+Printed Window Background
+打印窗口背景
+
+Current Line Background
+当前行背景
+
+Current Line Text
+当前行文本
+
+Selection Background
+选中区背景
+
+Selection Text
+选中区文本
+
+End of File
+文件尾
+
+Saved Change Marks
+已存修改标记
+
+Change Marks
+修改标记
+
+//Default Text
+//默认文本
+//
+Window Background
+窗口背景
+
+Pick Color...
+选择颜色...
+
+Styles...
+风格...
+
+Themes...
+主题...
+
+This sets the fonts and colors used in all panels. You can also change each panel individually by clicking its 'Option' button.
+这里设置所有面板的字体和颜色。你也可以单独修改面板，通过单击面板的"选项"按钮。
+
+Set Panel Fonts and Colors...
+设置面板字体和颜色...
+
+Are you sure you want to return to the default color settings?
+确认要重置颜色设置到默认值？
+
+//Set Panel Fonts and Colors...
+Set All Panel Fonts & Colors
+设置所有面板字体和颜色
+
+Font and Color Sample:
+字体和颜色预览:
+
+Font...
+字体
+
+Text Color...
+文本颜色...
+
+Back Color...
+背景色...
+

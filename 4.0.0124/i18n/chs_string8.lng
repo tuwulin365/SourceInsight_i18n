@@ -1,0 +1,1542 @@
+%s in %s at line %d
+%s 在 %s 第%d行
+
+ (%d lines)
+ (共%d行)
+
+(%d lines) 
+(共%d行)
+
+Edit List...
+编辑列表...
+
+Edit Condition
+编辑条件
+
+Edit Condition Set:
+条件作用域:
+
+Project-Specific
+项目相关
+
+Global Conditions
+全局条件
+
+Untitled Project
+无名工程
+
+List Settings...
+列表设置...
+
+Connect To Host...
+连接主机...
+
+Disconnect
+断开
+
+Refresh List
+刷新列表
+
+Upload File...
+上传文件...
+
+Download File...
+下载文件...
+
+New File Name?
+新文件名？
+
+Remote Session
+远程会话
+
+Replace ? 
+替换？
+
+Search Web
+搜网页
+
+Search Engines
+搜索引擎
+
+Search Engine
+搜索引擎
+
+Search Engine Name:
+搜索引擎名称:
+
+Edit Web Search Engine
+编辑网页搜索引擎
+
+New Web Search Engine
+新网页搜索引擎
+
+Search Files
+搜索文件
+
+New File
+新文件
+
+%d bytes; modified on %s
+%d bytes; 修改于 %s
+
+Save Snippets...
+保存代码段...
+
+Load Snippets...
+加载代码段...
+
+Load Snippets
+加载代码段
+
+Project snippet storage
+项目片段库
+
+Global snippet storage
+全局片段库
+
+Load snippets into:
+加载到:
+
+Replace
+替换
+
+Replace Files
+替换文件
+
+Add New Language
+添加新语言
+
+New language name:
+新语言名称:
+
+Language Name:
+语言名称:
+
+Comment:
+注释:
+
+$nnnn Hex (Motorola)
+$nnnn 16进制
+
+nnnnh Hex (Intel)
+nnnnh 16进制
+
+&&Hnnnn Hex (Basic)
+&&Hnnnn 16进制
+
+0xnnnn Hex (C)
+0xnnnn 16进制
+
+nnnQ Octal (Intel)
+nnnQ 8进制
+
+nnnO Octal (Intel)
+nnnO 8进制
+
+&&Onnn Octal (Basic)
+&&Onnn 8进制
+
+Detect numbers
+检测数值
+
+Non-AlphaNum identifier chars:
+非字母数字标识符:
+
+Detect comment styles
+检测注释风格
+
+Use Syntax Formatting
+使用语法格式化
+
+Syntax
+语法
+
+Allow smart tab
+允许智能tab
+
+Uses C preprocessor
+使用C预处理
+
+Case sensitive text
+区分大小写
+
+Contains program source code
+包含程序源码
+
+New...
+新建
+
+Append
+追加
+
+inside %s at line %d
+被 %s 调用, 第%d行
+
+Searching Options...
+搜索选项...
+
+N&o to All
+全否
+
+Yes to &All
+全是
+
+&No
+否
+
+&Yes
+是
+
+Yes
+是
+
+No
+否
+
+Source Insight - Reload File
+Source Insight - 重载文件
+
+Activate Window
+激活窗口
+
+Tile Windows Vertically
+纵向平铺窗口
+
+Tile Windows Horizontal
+横向平铺窗口
+
+Restore Windows
+还原窗口
+
+Minimize Windows
+最小化窗口
+
+Save File As...
+另存文件...
+
+Save File
+保存
+
+Window List Options...
+窗口列表选项...
+
+Window List Options
+窗口列表选项
+
+Show current symbol
+显示当前符号
+
+Include open files without windows
+包含无窗口的打开文件
+
+Sort List By
+排序
+
+Window Name
+窗口名
+
+Source Insight Trial Activation
+Source Insight 试用版激活
+
+Re-type email:
+再输入Emali:
+
+Your &email: *
+你的Email: *
+
+&Company or Organization:
+公司或者组织:
+
+&Your Name: *
+你的名字: *
+
+Now activating your license... Please wait...
+正在激活许可... 请稍候...
+
+Trial version
+试用版
+
+BETA version
+BETA测试版
+
+Source Insight Update Notice
+Source Insight 更新通知
+
+This version: %s  %s\nNew version: %s  %s\n\n
+当前版本: %s  %s\n新的版本: %s  %s\n\n
+
+Please choose an option below:
+请选择一个:
+
+Synchronizing %s
+同步 %s
+
+Checking file list...
+检查文件列表...
+
+Go To
+跳转
+
+Position:
+位置:
+
+Selection History
+选择记录
+
+Parse Source Links
+解析源链接
+
+Project Symbol List Options
+项目符号列表选项
+
+Symbol Type Filter
+符号类型过滤
+
+Project Symbol Category Window Options
+项目符号分类窗选项
+
+Project File Type Window Options
+项目文件类型窗选项
+
+Pick...
+选择
+
+//Snippets
+//片段
+//
+//Clips
+//剪辑
+//
+Delete All Clips
+删除所有剪辑
+
+Show Clipboard
+显示剪切板
+
+Clip Properties...
+剪辑属性...
+
+Delete All Bookmarks...
+删除所有书签...
+
+Set Bookmark to Current Line
+为当前行设置书签
+
+Edit Bookmark...
+编辑书签...
+
+Name:
+名称:
+
+the currently selected text before the snippet is inserted
+插入代码段前选中的文本
+
+the current UTC year
+当前UTC年份
+
+the current UTC time
+当前UTC时间
+
+the current UTC date
+当前UTC日期
+
+the current local year
+当前本地年份
+
+the current local time
+当前本地时间
+
+the current local date
+当前本地日期
+
+the system user name that is logged in
+登录系统的用户名
+
+name of the type declared before the current line
+当前行之前声明的类型名
+
+name of the type declared after the current line
+当前行之后声明的类型名
+
+name of the current enclosing struct, class or data type
+当前的结构体、类数据类型名
+
+name of the function declared before the current line
+当前行之前声明的函数名
+
+name of the function declared after the current line
+当前行之后声明的函数名
+
+name of the current enclosing function
+当前的函数名
+
+name of the package declared before the current line
+当前行之前声明的包名
+
+name of package declared after the current line
+当前行之后声明的包名
+
+name of the current enclosing package
+当前的包名
+
+name of the namespace declared before the current line
+当前行之前声明的命名空间
+
+name of the namespace declared after the current line
+当前行之后声明的命名空间
+
+name of the current enclosing namespace
+当前的命名空间
+
+name of the symbol declared before the current line
+当前行之前声明的符号名
+
+name of the symbol declared after the current line
+当前行之后声明的符号名
+
+name of symbol declared or enclosing the cursor position
+光标处的符号名
+
+name of the function, class, or symbol that encloses the cursor
+光标处的函数、类或符号名
+
+return type of the current function
+当前函数的返回类型
+
+the current word at the cursor position
+光标处单词
+
+current file name without path
+无路径的文件名
+
+current file name relative to project root
+相对项目根目录的文件名
+
+current file name with path
+带路径的当前文件名
+
+dollar sign ($)
+美元符号$
+
+Line Number:
+行号:
+
+File Path:
+路径:
+
+Edit Bookmark
+编辑书签
+
+Open As Encoding
+用该编码打开
+
+Reload As Encoding
+用该编码重载
+
+Save As Encoding
+用该编码保存
+
+Encoding:
+编码:
+
+Encoding
+编码
+
+Code Page
+代码页
+
+Start at
+起始于
+
+Visible Spaces
+显示空格
+
+Visible Tabs
+显示Tab
+
+Vertical Enhanced Scroll Bar
+增强垂直滚动条
+
+Show Relations
+显示关联
+
+Clear Highlights
+清除高亮
+
+Activate Window List
+激活窗口列表
+
+Activate Relation Window
+激活关联窗
+
+Activate Project Window
+激活项目窗
+
+Activate Clip Window
+激活剪辑窗
+
+Activate Project File List
+激活项目文件列表
+
+Activate FTP Browser
+激活FTP浏览器
+
+Add File List...
+添加文件列表
+
+Parsing Test
+解析测试
+
+Rename Project...
+重命名项目...
+
+Trim Whitespace
+去除空白
+
+Smart Tab
+智能Tab
+
+Insert Class Function Prototypes
+插入类函数原型
+
+Expand Text Variables
+展开文本变量
+
+Drag Line Down More
+下移几行
+
+Drag Line Up More
+上移几行
+
+Delete Line
+删除行
+
+Cut Line Left
+剪切行左侧
+
+Cut Word Left
+剪切词左边
+
+Cut Selection or Paste
+剪切选区或粘贴
+
+Sync File Windows
+同步文件窗
+
+Split Window
+分割窗口
+
+Remove Special Window Color
+移除特殊窗颜色
+
+Setup WinHelp File
+设置Win帮助
+
+Setup HTML Help
+设置HTM帮助
+
+HTML Help...
+HTML帮助...
+
+Help Mode
+协助式
+
+Save Declaration File
+保存声明文件
+
+Project Symbols Dialog...
+项目符号对话框...
+
+Parse File Now
+解析文件
+
+Generate Call Tree...
+生成调用树...
+
+Search Results Options...
+搜索结果选项...
+
+Search Engines...
+搜索引擎...
+
+Load Search String
+载入搜索字符串
+
+Incremental Search Backward...
+向上增量搜索...
+
+Advanced Options...
+高级选项...
+
+Color Options...
+颜色选项...
+
+File Options...
+文件选项...
+
+Folder Options...
+文件夹选项...
+
+General Options...
+常规选项...
+
+Typing Options...
+输入选项...
+
+Window Options...
+窗口选项...
+
+Remote Options...
+远程选项...
+
+Enable Event Handlers
+启用事件处理
+
+Next Relation Window View
+下一个关联窗视图
+
+Project File Type Window Options...
+项目文件类型窗选项...
+
+Reset Scaling
+重置缩放
+
+Symbol Lookup Options...
+符号查找选项...
+
+Syntax Color...
+语法颜色...
+
+Syntax Decorations...
+语法修饰...
+
+Syntax Formatting...
+语法格式化...
+
+Deactivate License...
+冻结授权...
+
+Exit and Suspend
+退出并挂起
+
+Exit Windows
+退出Windows
+
+Ordering Information...
+订购信息...
+
+Restart Windows
+重启Windows
+
+Run Macro
+运行宏
+
+Setup Common Projects...
+设置一般项目...
+
+Unimplemented Command
+未知命令
+
+Activate Bookmark Window
+激活书签窗口
+
+Blank Line Down
+下一空行
+
+Blank Line Up
+上一空行
+
+Go To Next Reference Highlight
+下一个引用高亮
+
+Go To Previous Reference Highlight
+上一个引用高亮
+
+Select Paragraph
+选择段落
+
+Smart Beginning Of Line
+智能行首
+
+Smart End Of Line
+智能行尾
+
+Toggle Extend Mode
+切换扩展模式
+
+Word Fragment Left
+单词左移
+
+Word Fragment Right
+单词右移
+
+Opens and selects the Project Window
+打开并选择项目窗。
+
+Shows or hides the Help toolbar
+显示或隐藏帮助栏。
+
+Sets options for the Window Tabs.
+设置窗口标签
+
+Scrolls up by one page
+往上滚动一页。
+
+Displays the Work menu.
+显示附加菜单。
+
+Activate Context Menu
+激活菜单
+
+Right-click context menu
+右键菜单
+
+Save All Quietly
+静默保存全部
+
+Restore File
+恢复文件
+
+Open Last
+打开末
+
+Load File...
+载入文件...
+
+Export File As HTML...
+到处文件为HTML...
+
+Checkpoint All
+所有检查点
+
+Checkpoint
+检查点
+
+Link to %s at line %d
+链接到 %s 第 %d 行
+
+Link to %s at line %d in %s
+链接到 %s 第%d 行, %s
+
+Application
+应用
+
+Custom Cmd: 
+自定命令: 
+
+Navigation
+导航
+
+Source Control
+源码控制
+
+Check In
+检入
+
+Check Out
+检出
+
+Undo Check Out
+撤销检出
+
+Sync to Source Control Project
+从源码控制系统同步
+
+Sync File to Source Control Project
+从源码控制系统同步文件
+
+Build Project
+构建
+
+Clean Build
+清理
+
+Compile File
+编译文件
+
+Run Project
+运行
+
+Explore Project Folder
+浏览项目文件夹
+
+Preview in Web Browser
+用浏览器预览
+
+Search In Folder
+在目录里搜索
+
+Sort File
+排序
+
+Sort Selection
+排序所选
+
+Command Shell
+命令行
+
+Windows Explorer
+资源管理器
+
+regex to parse output into source links
+正则式把输出解析为源链接
+
+Outline
+折叠
+
+Build
+构建
+
+<end of menu>
+<菜单结束>
+
+Global 
+全局
+
+Local 
+局部
+
+Variable
+变量
+
+Type Definition
+类型定义
+
+Function Prototype
+函数原型
+
+Enum Constant
+枚举常量
+
+Member Function
+成员函数
+
+Enumeration
+枚举
+
+Class Template
+类模板
+
+Function Template
+函数模板
+
+Constant
+常量
+
+External Variable
+外部变量
+
+Member Function Prototype
+成员函数原型
+
+Locals inside functions
+局部内部函数
+
+Structure
+结构体
+
+Macro: 
+宏: 
+
+VHDL Configuration
+VHDL配置
+
+VHDL Process
+VHDL进程
+
+VHDL Component
+VHDL组件
+
+VHDL Architecture
+VHDL架构
+
+VHDL Entity
+VHDL实体
+
+C# Event
+C#事件
+
+C# Indexer
+C#索引器
+
+C# Class Property
+C#类属性
+
+IDL Interface
+IDL接口
+
+IDL Library
+IDL库
+
+IDL Module
+IDL模块
+
+HTML Title
+HTML标题
+
+HTML or XML Element
+HTML/XML元素
+
+Editor Macro
+编辑器宏
+
+Custom Tag
+自定Tag
+
+Parsing Error
+解析错误
+
+Token Macro
+令牌宏
+
+CSS Rule Selector
+CSS规则选择器
+
+Macro Event
+宏事件
+
+Editor Macro Function
+编辑器宏函数
+
+Code Block
+代码块
+
+Scroll To Here
+滚动到此
+
+\n<i>Style: 
+\n风格: 
+
+Derived Classes
+派生类
+
+Inheritance
+继承
+
+Properties
+属性
+
+Type of
+类型
+
+Base Classes
+基类
+
+Member Types
+成员类型
+
+Member Classes
+成员类
+
+File Type
+类型
+
+No Custom Parser
+无自定解析器
+
+Font & Color
+字体和颜色
+
+Status
+状态
+
+decreasing metrics
+按度量降序
+
+increasing metrics
+按度量升序
+
+newest first
+新在前
+
+oldest first
+旧在前
+
+decreasing size
+按大小降序
+
+increasing size
+按大小升序
+
+descending dir order
+按目录逆序
+
+directory order
+按目录顺序
+
+descending order
+逆序
+
+ascending order
+顺序
+
+Name (occurrence order)
+名称(按出现顺序)
+
+Name (descending order)
+名称(按出现逆序)
+
+Name (increasing metrics)
+名称(按度量升序)
+
+Name (decreasing metrics)
+名称(按度量降序)
+
+Name (file order)
+名称(顺序)
+
+Name (descending file order)
+名称(逆序)
+
+//Line
+//行号
+//
+%d. line %d
+%d.第%d行
+
+Open Backup File
+打开备份文件
+
+Time
+时间
+
+Delete File
+删文件
+
+Page Setup
+页设置
+
+Open Workspace File
+打开工作区
+
+Save Workspace
+保存工作区
+
+Rename %s
+改名 %s
+
+Insert File
+插文件
+
+Renumber
+重编号
+
+Smart Rename
+智能改名
+
+Pattern:
+样式:
+
+Export Project File List
+导出项目文件列表
+
+Load Configuration File
+载入配置文件
+
+Compare with Backup File
+和备份文件比较
+
+Load Layout
+读布局
+
+Checking for modified files...
+检查文件修改...
+
+Error: %s
+错误: %s
+
+FTP: Unable to connect to host
+FTP: 无法连接到主机
+
+FTP: Not connected to host
+FTP: 未连接主机
+
+FTP: Connected, but unable to logon to host
+FTP: 已连接主机，但无法登录
+
+FTP: Access denied
+FTP: 拒绝访问
+
+FTP: Transfer was aborted
+FTP: 传输被终止
+
+FTP: Socket error
+FTP: Socket错误
+
+FTP: Unable to enter Passive mode
+FTP: 无法进入被动模式
+
+FTP: Cannot open file
+FTP: 无法打开文件
+
+FTP: File is not accessable
+FTP: 文件不可访问
+
+Low Memory
+缺内存
+
+Low System Resources
+系统资源不足
+
+Operation Canceled
+操作取消
+
+Unknown general error
+未知的一般错误
+
+Cannot create font
+无法创建字体
+
+Cannot create DC
+无法创建DC
+
+Cannot create system window
+无法创建系统窗口
+
+Cannot load bitmap
+无法载入位图
+
+Recovery Aborted
+终止恢复
+
+Cannot open file: %s
+无法打开文件: %s
+
+Cannot create file: %s
+无法创建文件: %s
+
+Error closing file
+关闭文件错误
+
+File read error
+读文件错误
+
+File write error
+写文件错误
+
+File is too large
+文件太大
+
+File seeking error
+文件定位错误
+
+File write error for %s
+写文件错误: %s
+
+File read error for %s
+读文件错误: %s
+
+Too many files are open.
+文件打开太多。
+
+File is corrupted: %s.
+文件损坏: %s
+
+File path is too long: %s.
+文件路径太长: %s
+
+System resources are too low.
+系统资源不足。
+
+Long file name support is required: %s
+需要长文件名支持: %s
+
+Network access was forbidden. Error code: %d\n\nThis can happen if you are behind a proxy server or firewall. It can be resolved by not using a proxy/firewall, or adding the following URL in the proxy server/firewall settings:\nsls.sourceinsight.com (port 443).
+网络接入被拒绝。错误码: %d\n\n可能你处于代理服务器或防火墙内。尝试禁用代理和防火墙，或者将以下地址添加到代理服务器和防火墙设置里:\nsls.sourceinsight.com (port 443)
+
+A proxy server returned 'Proxy Authentication Required' when connecting to the license server. Error code: %d\n\nIt can be resolved by not using a proxy, or adding the following domain in the proxy server setting:\nsls.sourceinsight.com (port 443).
+在连接到授权服务器时，代理服务器返回"代理认证请求"。错误码: %d\n\n尝试禁用代理和防火墙，或者将以下地址添加到代理服务器设置里:\nsls.sourceinsight.com (port 443)
+
+The license server encountered an error processing the license. Error code: %d
+授权服务器发生错误。错误码: %d
+
+The license activation failed because there are too many machines activated with this serial number: %s
+激活许可失败，因为这个序列号激活了太多设备: %s
+
+Please enter your old Source Insight version 3.x serial number. Example: SI3US-123456-54321
+请输入旧版 Source Insight 3.x 序列号，例如: SI3US-123456-54321
+
+Checking for Source Insight updates...  Please wait...
+检查更新... 请稍候...
+
+copy
+副本
+
+Editor Macro Functions
+编辑器宏函数
+
+Captured Variables
+截取变量
+
+Lambda Functions
+Lambda 函数
+
+Macro Events
+宏事件
+
+Type Parameters
+类型参数
+
+Alias Targets
+别名目标
+
+Aliases
+别名
+
+External Variables
+外部变量
+
+Type References
+类型引用
+
+VHDL Configurations
+VHDL配置
+
+VHDL Processes
+VHDL进程
+
+VHDL Components
+VHDL组件
+
+VHDL Architectures
+VHDL架构
+
+VHDL Entities
+VHDL实体
+
+C# Events
+C#事件
+
+C# Indexers
+C#索引器
+
+C# Class Properties
+C#类原型
+
+CSS Rule Selectors
+CSS规则选择器
+
+Imported Packages
+导入包
+
+Template Parameters
+模板参数
+
+C++ Templates
+C++模板
+
+IDL Interfaces
+IFL接口
+
+IDL Libraries
+IDL库
+
+IDL Modules
+IDL模块
+
+Member Function Prototypes
+成员函数原型
+
+HTML Titles
+HTML标题
+
+HTML or XML Elements
+HTML/XML元素
+
+Parsing Errors
+解析错误
+
+Code Blocks
+代码块
+
+Token Macros
+令牌宏
+
+//Namespaces
+//名空间
+//
+Packages
+包
+
+Class Template Placeholders
+类模板占位符
+
+Class Templates
+类模板
+
+Function Templates
+函数模板
+
+Directories
+目录
+
+Base Class References
+基类引用
+
+Inline Type References
+内联类型引用
+
+Class Placeholders
+类占位符
+
+Resources
+资源
+
+Interfaces
+接口
+
+Data Members
+数据成员
+
+Labels
+标签
+
+Function Prototypes
+函数原型
+
+Enum Constants
+枚举常量
+
+Member Functions
+成员函数
+
+Classes
+类
+
+Editor Macros
+编辑器宏
+
+Custom Tags
+自定Tags
+
+Enumerations
+枚举
+
+Constants
+常量
+
+Variables
+变量
+
+Type Definitions
+类型定义
+
+Unions
+联合
+
+Structures
+结构体
+
+Macros
+宏
+
+Functions
+函数
+
+Switch to Insertion Mode
+切换到插入模式
+
+Switch to Overstrike Mode
+切换到改写模式
+
+Enable Browser Mode
+启用浏览模式
+
+Disable Browser Mode
+禁用浏览模式
+
+Cannot save to read-only file: %s
+无法保存只读文件:\n%s
+
+Are you sure you want to overwrite a read-only file: %s
+确认要覆写只读文件？\n%s
+
+Check &Out...
+检出...
+
+Over&write!
+覆写!
+
+&Cancel
+取消
+
+&Skip File
+跳过
+
+&Try Again
+重试
+
+Read Only File
+只读文件
+
+%s has line endings that are not consistent. Do you want to normalize it?
+%s\n\n行结束符不统一。需要修正吗？
+
+Converts all end-of-line characters to match the default setting from File Options.
+根据文件选项转换所有行结束符为默认设置。
+
+Toggles the display of visible end-of-line characters.
+切换是否显示行结束符。
+
+Visible end-of-line
+显示行结束符
+
+Turn on visible end-of-line characters. Also set in File Type Options.
+显示行结束符，也可在文件类型选项里设置。
+
+Save this as the default line ending format. Also set in Preferences > Files.
+保存为默认行结束符格式，也可在"首选项 > 文件"里设置。
+
+Mac pre-OSX line ending (CR)
+Mac pre-OSX 行结束符(CR)
+
+Unix line ending (LF)
+Unix 行结束符(LF)
+
+Windows line ending (CR/LF)
+Windows 行结束符(CR/LF)
+
+Apply this line ending format to all lines in the file buffer:
+将该行结束符格式应用到文件的所有行：
+
+Normalize End of Lines
+修正行结束符
+
+working...
+处理中
+
+Highlight current symbol
+高亮当前符号
+
+Keep } else on same line
+保持 } else 同一行
+
+Yes and &Compare
+是并且比较
+
+Yes and &View It
+是并且查看
+
+No difference found
+未找到差异
+
+open lines
+差异行
+
+Char %d  Byte %ld  
+%d字符 %ld字节
+
+Clipboard
+剪贴板
+
+System Clipboard
+系统剪贴板
+
+Text
+文本
+
+%s from %s
+%s来自%s
+
+Display project information and statistics.
+显示项目信息和统计数据。
+
+Project Info...
+项目信息...
+
+Project Info
+项目信息
+
+Project: %s\r\nSymbol records: %s\r\nIndex entries: %s\r\nFiles: %s\r\nSymbol file size: %s\r\nDatabase memory mapped: %s
+项目: %s\r\n符号记录: %s\r\n索引项: %s\r\n文件: %s\r\n符号文件大小: %s\r\n数据库内存映射: %s
+
+Global Imported Libraries: 
+全局导入库:
+
+Imported Libraries: 
+导入库:
+
+Index name fragments: %s
+索引名分段: %s
+
+Index members: %s
+索引成员: %s
+
+Master File List: %s
+主文件列表: %s
+
+Source Directory: %s
+源目录: %s
+
+Data Directory: %s
+数据目录: %s
+
+All Files in Current Directory
+当前目录的所有文件
+
+Select
+选择
+
+Maximize Window
+最大化
+
+Minimize
+最小化
+
+OFF
+关
+
+ON
+开
+
+Expand Cap Words
+增大大写单词
+
+Partial First Upper
+部分首大写
+
+First Upper
+首大写
+
+All Lower
+全小写
+
+All Upper
+全大小
+
+Thick
+粗线
+
+Dotted
+点线
+
+Single
+单线
+
+Double
+双线
+
+%u Matches in %d files (%d searched)
+匹配 %u处 %d文件,已搜索%d个
+
+Searching %s...\n%u Matches in %d files
+搜索 %s...\n匹配 %u处 %d文件
+
+Searching %s ...\n
+搜索 %s ...\n
+
+Searching...\n
+搜索...\n
+
+%u Matches in %d files
+匹配 %u处 %d文件
+
+&Recursively add lower sub-directories
+递归添加子目录
+
+&Include top level sub-directories
+包含顶级子目录
+
+Add to Project
+添加到项目
+

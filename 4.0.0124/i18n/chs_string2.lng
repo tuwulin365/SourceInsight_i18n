@@ -1,0 +1,477 @@
+Looks up the currently selected word in the HTML Help file.
+在HTML帮助文件里查找所选单词。
+
+Locates the external HTML Help file on your disk.
+定位硬盘上的外部HTML帮助文件。
+
+Displays a tree graph view that grows top to bottom.
+显示从上到下的树状图。
+
+Displays a tree graph view that grows left to right.
+显示从左到右的树状图。
+
+Displays an outline view.
+显示折叠视图。
+
+Parses all files in the project and tests the language parsers.
+解析项目里的所有文件并测试语言解析。
+
+Displays project files by document type in the Project Window.
+在项目窗按文档类型显示项目文件。
+
+Displays the Folder Browser in the Project Window.
+在项目窗显示文件夹浏览器。
+
+Adds and removes files from the current project.
+从当前项目添加或移除文件。
+
+Searches for text or keywords across all project files.
+在所有项目文件里搜索文本。
+
+Specifies colors of user interface items.
+设定UI组件颜色。
+
+Displays project symbols by category in the Project Window.
+在项目窗按类型显示项目符号。
+
+Displays all project symbols in the Project Window.
+在项目窗显示所有项目符号。
+
+Displays all project files in the Project Window.
+在项目窗显示所有项目文件。
+
+Creates a new Relation Window.
+新建关联窗。
+
+Manages the list of source windows.
+关联源码窗列表。
+
+Toggles the tool bar on and off.
+开关工具栏。
+
+Sets Graphing options for the Relation Window.
+设置关联窗图形。
+
+Toggles Relation Window locking. Its contents do not change when locked.
+切换关联窗锁。锁定后内部不会改变。
+
+Expands the selected item a specified number of tree levels.
+展开所选组件到指定树层级。
+
+Sets options for the Relation Window.
+设置关联窗。
+
+Sets options for the Project File List window.
+设置项目文件列表窗。
+
+Toggles the display of line numbers.
+切换行号显示。
+
+Sets options for the Symbol Window.
+设置符号窗。
+
+Restores current file to its first opened state, losing ALL changes since opening.
+恢复当前文件到首次打开的状态，放弃那之后的所有修改。
+
+Saves all open file to disk and erases its change history.
+保存所有文件到硬盘并删除修改历史。
+
+Saves the current file to disk and erases its change history.
+保存当前文件到硬盘并删除修改历史。
+
+Moves the cursor to the base structure type of the selected symbol.
+移动光标到符号基本结构体类型
+
+Allows you to enable and disable various internal caches.
+你可以开关多种内部高速缓存。
+
+Moves selected text down by several line.
+把文本下移几行。
+
+Moves selected text up by several line.
+把文本上移几行。
+
+Moves selected text down by one line.
+把文本下移一行。
+
+Moves selected text up by one line.
+把文本上移一行。
+
+Opens and selects the Relation Window.
+打开和选择关联窗。
+
+Toggles the Relation Window on and off.
+开关关联窗。
+
+Displays direct and indirect calls from the selected identifier.
+显示对所选标识符的直接和间接调用。
+
+Searches backwards incrementally while you type a pattern string.
+输入样式字符串时向上增量搜索。
+
+Specifies syntax formatting options for displaying source files.
+设置显示源码文件的语法格式。
+
+Toggles highlighting of the word under the cursor in all source windows.
+开关光标处词高亮。
+
+Saves the current file  to disk but does not replace or affect the current file.
+保存当前文件到硬盘但不影响原始文件。
+
+Edits the keyword list used for syntax formatting the current language.
+编辑用于当前语言语法高亮的关键词列表。
+
+Searches incrementally while you type a pattern string.
+输入样式字符串时增量搜索。
+
+Sets formatting properties for display styles.
+设置显示风格的格式化选项
+
+Creates a command list text file with descriptions.
+创建带描述的命令列表文件。
+
+Activates the previous current source window.
+激活前一个源窗口。
+
+Completes typing a symbol name.
+完成输入的符号名。
+
+Activates the Search Results window.
+激活搜索结果窗。
+
+Sets options for all installed languages.
+设置所有已安装语言。
+
+Sets display colors of language components.
+设置语言组件的显示颜色。
+
+Shows information on ordering Source Insight.
+显示Source Insight订购信息。
+
+Displays the System window menu.
+显示系统窗口菜单。
+
+Removes selected files from the current project.
+从当前项目移除所选文件。
+
+Reloads files that have changed outside of the editor.
+重载外部改动的文件。
+
+Undefined command; possibly from a newer version of Source Insight.
+未定义命令，可能属于新版Source Insight。
+
+Specifies file management options.
+设置文件管理。
+
+Searches for a string in the list.
+在列表中搜索字符串。
+
+Duplicates the selected symbol definition.
+创建所选符号定义副本。
+
+Pastes above the selected symbol definition.
+往上粘贴所选符号定义。
+
+Copies the selected symbol definition.
+复制所选符号定义。
+
+Cuts the selected symbol definition.
+剪切所选符号定义。
+
+Selects the whole symbol definition.
+选择整个符号定义。
+
+Extends the selection up by one page.
+选区往上扩展一页。
+
+Extends the selection down by one page.
+选区往下扩展一页。
+
+Sets options for the Context Window.
+设置上下文窗。
+
+Renames the displayed symbol in all project files.
+重命名显示的符号。
+
+Toggles Context Window locking. Its contents do not change when locked.
+切换上下文窗锁。锁定后内容不会改变。
+
+Saves a new backup version of the current file.
+为当前文件新建备份。
+
+Shows the selected symbol in the relation window.
+在关联窗显示所选符号。
+
+Splits and unsplits the current window into 2 windows.
+分割或合并窗口。
+
+Sets the font used in this window.
+设置窗口字体。
+
+Toggles the Context Window on and off.
+开关上下文窗。
+
+Makes the current settings of the window be the new Default settings.
+保存当前设置为新默认设置。
+
+Renames an identifer in all relevant locations.
+重命名标识符，应用于关联位置。
+
+Opens the selected item(s).
+打开所选组件。
+
+Locate the external WinHelp file on your disk.
+定位你硬盘上的外部帮助文件。
+
+Cuts text to a named clip buffer.
+剪切文本到命名剪切区。
+
+Displays the View menu.
+显示视图菜单。
+
+Deletes all user defined clips.
+删除所有自定义剪辑。
+
+Edits the selected clip in its own window.
+在剪辑所属窗口编辑它。
+
+Pastes text from the selected clip.
+从所选剪辑粘贴文本
+
+Copies text to the selected clip.
+复制文本到所选剪辑。
+
+Cuts text to the selected clip.
+剪切文本到所选剪辑。
+
+Sets options for the Clip Window.
+设置剪辑窗。
+
+Displays the properties of the selected clip.
+显示所选剪辑属性。
+
+Deletes the selected clip.
+删除所选剪辑。
+
+Creates or Loads a new clip.
+创建或载入新剪辑。
+
+Rolls the window up and down.
+上下滚动窗口。
+
+Opens and selects the Clip Window.
+打开并选择剪辑窗。
+
+Toggles the Clip Window on and off.
+开关剪辑窗。
+
+Opens and selects the Symbol Window for the current file.
+为当前文件打开并选择符号窗。
+
+Toggles the Status Bar on and off.
+开关状态栏。
+
+Toggles the master Toolbar on and off.
+开关主工具栏。
+
+Toggles the horizontal scroll bar in the current window on and off.
+开关当前窗口的水平滚动条。
+
+Sorts the Symbol Window by symbol type.
+按符号类型排序符号窗。
+
+Sorts the Symbol Window by line number.
+按行号排序符号窗。
+
+Sorts the Symbol Window by symbol name.
+按符号名排序符号窗。
+
+Extends the selection to the beginning of the line.
+扩展选取到行开头。
+
+Extends the selection right by one word.
+往右扩展选取一个词。
+
+Extends the selection left by one word.
+往左扩展选取一个词。
+
+Plays back the recording made with the "Start Recording" command.
+回放记录。
+
+Stops the command recorder.
+停止记录。
+
+Starts recording commands and editing operations for later playback.
+开始记录命令和编辑操作。
+
+Repeats characters that were just typed.
+复写刚才输入的字符。
+
+Redoes all edits to the current file.
+重做当前文件的所有改动。
+
+Undoes all edits to the current file.
+撤销当前文件的所有改动。
+
+Searches for references to the selected or specified word.
+搜索所选或指定单词的引用。
+
+Uses the system Open dialog box to open a file.
+使用系统打开框打开文件。
+
+Deletes a file from disk and from the project.
+删除硬盘和项目里的文件。
+
+Extends the selection to the end of the line.
+扩展选取到行结尾。
+
+Toggles the Symbol Window on and off.
+开关符号窗。
+
+Cycles through sort states for the Symbol Window.
+符号窗循环排序。
+
+Toggles the Project Window on and off.
+开关项目窗。
+
+Looks up the currently selected word in the SDK Help file.
+在SDK帮助文件查找当前所选单词。
+
+Tiles windows so that they are generally taller than they are wide.
+平铺窗口，通常高比宽大。
+
+Restarts Microsoft Windows.
+重启操作系统。
+
+Exits Source Insight and logs the current Microsoft Windows user off.
+退出Source Insight并退出用户登录。
+
+Displays the Help menu.
+显示帮助菜单。
+
+Displays the Options menu.
+显示选项菜单。
+
+Prints the current file.
+打印当前文件。
+
+Tiles windows so that they are generally wider than they are tall.
+平铺窗口，通常宽比高大。
+
+Rearranges windows by cascading them down the screen.
+层叠显示窗口。
+
+Loads the contents of the current selection into the current search pattern.
+载入当前所选内容为搜索样式。
+
+Searches for the previous occurrence of the first word in the current selection.
+在当前选区内搜索单词上一次出现的位置。
+
+Searches for the next occurrence of the first word in the current selection.
+在当前选区内搜索单词下一次出现的位置。
+
+Scrolls all windows showing the current file to same location as the current window.
+滚动全部窗口让当前文件显示在相同位置。
+
+Links all windows so that they scroll together.
+链接所有窗口让他们同步滚动。
+
+Loads a new configuration from a file.
+从文件载入新配置。
+
+Specifies options, such as screen colors, for the display.
+设置显示参数，如屏幕颜色。
+
+Saves all modified files to disk without asking first.
+不询问直接保存所有文件到硬盘。
+
+Copies to the clipboard text from cursor to end of line.
+把从光标到行尾的文本复制到剪切板。
+
+Extends selection to end of file.
+扩展选区到文件尾。
+
+Extends selection to top of file.
+扩展选区到文件头。
+
+Saves selected text to a file.
+保存所选文本到文件。
+
+Inserts text from a file.
+从文件插入文本。
+
+Rebuilds project data files.
+重构项目数据文件。
+
+Duplicates the selected text.
+复写所选文本。
+
+Moves cursor to matching brace, parentheses, or quote character.
+移动光标到匹配的括号、引号。
+
+Moves the cursor to the beginning of an extended selection.
+移动光标到扩展选区开头。
+
+Moves the cursor to the next defined function.
+移动光标到下一处函数定义。
+
+Moves the cursor to the previously defined function.
+移动光标到上一处函数定义。
+
+Restores a block of edited lines to their original contents.
+恢复已编辑块的内容。
+
+Maximizes and minimizes the current window.
+最大化和最小化当前窗口。
+
+Minimizes all but the current window.
+最小化当前窗口之外的窗口。
+
+Closes the current window.
+关闭当前窗口。
+
+Selects the next active window.
+选择下一个激活窗口。
+
+Makes a rectangular selection.
+生成一个矩形选区。
+
+Searches backwards for the previous occurrence of the search pattern.
+搜索上一次出现的位置。
+
+Moves the cursor to the end of an extended selection.
+移动光标到扩展选区尾部。
+
+Extends the selection down by one line.
+选区往下扩展一行。
+
+Extends the selection up by one line.
+选区往上扩展一行。
+
+Extends the selection one character to the right.
+选区往右扩展一个字符。
+
+Extends the selection one character to the left.
+选区往左扩展一个字符。
+
+Creates a command keystroke listing.
+创建命令输入列表。
+
+Displays the system Document menu.
+显示系统文档命令。
+
+Reloads the current file from disk, losing ALL changes since saving.
+重载所有文件，放弃最后一次保存后的所有修改。
+
+Exits Source Insight without saving files, but can recover changes again later.
+退出Source Insight而不保存文件，以后可以再次恢复。
+
+Saves the current configuration to a file.
+保存当前配置到文件。
+
+Inserts a line break.
+插入换行符。
+
+Runs a command or macro.
+运行命令或者宏。
+

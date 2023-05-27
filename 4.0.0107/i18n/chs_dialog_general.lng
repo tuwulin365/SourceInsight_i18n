@@ -1,0 +1,99 @@
+Preferences
+首选项
+
+General
+常规
+
+Processing
+处理
+
+Sleep when Source Insight is in background
+当 Source Insight 在后台时休眠
+
+Source Tips
+提示
+
+Short
+简短
+
+Verbose
+详细
+
+Recovery
+恢复
+
+Update recovery file every
+更新恢复文件，每
+
+seconds
+秒
+
+Project File Synchronization
+项目文件同步
+
+Synchronize on startup and project open
+应用启动和打开项目时同步
+
+Add new files automatically
+自动添加新文件
+
+Remove missing files from project
+移除项目丢失的文件
+
+Suppress warning messages
+不提示警告消息
+
+Background synchronization every
+在后台同步，每
+
+minutes
+分钟
+
+Misc
+杂项
+
+Use stricter confirmation dialog
+使用更严格的确认框
+
+Allow Drag-and-Drop editing
+允许拖拽编辑
+
+Allow Ctrl+Mouse Wheel to scale text
+使用Ctrl+鼠标滚轮缩放文本
+
+Keep dialogs on the same monitor as the main window
+使对话框和主窗口同屏
+
+Enable event handlers
+启用事件处理器
+
+Automatically check for software updates
+自动检查软件更新
+
+Resetting all preferences to defaults requires a restart of Source Insight. Your current settings will be saved to a backup file.\n\nAre you sure you want to reset all settings to defaults and restart?
+重置所有设置到默认值，需要重启应用。当前设置将保存到备份文件。\n确认要恢复默认设置并重启？
+
+Logging...
+日志...
+
+Logging Options
+日志选项
+
+This dialog allows you to control log file options.
+控制日志文件选项。
+
+Output to log file
+输出到文件
+
+Log user commands
+记录用户命令
+
+Log file names
+记录文件名
+
+Open log file in Notepad
+打开日志
+
+Empty the log file
+清空日志
+

@@ -1,0 +1,60 @@
+//Search
+//搜索
+//
+F&ind:
+查找:
+
+Case Sensitive
+区分大小写
+
+Use Regular Expressions
+使用正则表达式
+
+Wrap Around
+循环
+
+Select When Found
+选中结果
+
+Whole Words Only
+匹配完整词
+
+Forward
+向下
+
+Backward
+向上
+
+Selection
+选区
+
+Whole File
+全文件
+
+&Files...
+搜文件
+
+//Search Files
+&File Name:
+文件名:
+
+Include Subdirectories
+包含子目录
+
+Find Non-Matching
+查找不匹配
+
+Skip Comments
+忽略注释
+
+Search Only Comments
+只搜索注释
+
+//Search project
+&Find Keywords:
+查找:
+
+//search web
+&Search Engine:
+搜索引擎:
+

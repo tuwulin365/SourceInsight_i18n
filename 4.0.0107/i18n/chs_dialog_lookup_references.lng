@@ -1,0 +1,57 @@
+Lookup References
+查找引用
+
+&Find References To:
+查找对它的引用:
+
+Search &In:
+范围:
+
+&Case Sensitive
+区分大小写
+
+&Whole Words Only
+匹配完整词
+
+Skip Inactive Code
+忽略无效代码
+
+&Skip Comments
+忽略注释
+
+Search &Only Comments
+只搜索注释
+
+Smart Reference Matching
+智能引用匹配
+
+&Touch files and cause recompile
+更新文件修改时间
+
+Search &Method:
+搜索模式:
+
+Simple String
+简单字符串
+
+Regular Expression
+正则表达式
+
+Keyword Expression
+关键词表达式
+
+Look Up Reference
+查找引用
+
+Find word fragments
+查找不完整词
+
+Find word &variations
+查找变量
+
+&Lines of Context:
+内容行:
+
+Include in Results...
+结果包含...
+

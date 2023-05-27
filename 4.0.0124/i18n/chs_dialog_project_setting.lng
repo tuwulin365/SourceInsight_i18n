@@ -1,0 +1,54 @@
+New Project Settings
+新项目设置
+
+%s Project Settings
+%s 项目设置
+
+Conditions...
+条件...
+
+These condition values are project-specific.  They are merged with the global condition list found in Preferences: Languages.
+这些条件值是项目独有的，会与全局条件列表合并，其可在"首选项:语言"里找到。
+
+File Paths
+路径
+
+Project Source Directory - the main location of your source files:
+项目源目录 - 源文件主目录:
+
+Project Source Directory
+项目源目录
+
+Project Backup Directory - where source files are backed up:
+项目备份目录 - 存放备份文件:
+
+Project Source Backup Directory
+项目源备份目录
+
+Project Source Files
+项目源文件
+
+Add and remove source files manually
+手动增删源文件。
+
+Use a Master File List. The files in the project will be determined by the contents of the Master File List.
+使用主文件列表。
+
+Master File List path:
+主文件列表路径:
+
+Database Options
+数据库选项
+
+Quick browsing for member names.  You only type the member names of classes and structures to browse, but the symbol index and memory usage can increase by a factor of 2 or more.
+快速浏览成员名。需要更多的内存。
+
+Quick browsing for symbol name fragments.  You only type one or more fragments to locate symbols, but the symbol index and memory usage can increase by a factor of 4 or more.
+快速浏览不完整符号名。需要更多的内存。
+
+Import Symbols...
+导入符号...
+
+These imported symbols are project-specific.They are typically used for SDK include files, or external assemblies.
+导入的符号是项目独有的。这通常用于SDK头文件等。
+

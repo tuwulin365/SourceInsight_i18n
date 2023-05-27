@@ -1,0 +1,135 @@
+File Type Options
+文件选项
+
+File Type:
+类型:
+
+File filter: (eg. *.c;*.h)
+文件过滤器:
+
+Font Options
+字体选项
+
+Print using screen fonts
+打印使用屏幕字体
+
+Line up white space
+行上移空白区
+
+Screen Font...
+屏幕字体...
+
+Printer Font...
+打印字体...
+
+Parsing
+解析
+
+Language...
+语言...
+
+Custom Tag Type:
+自定义标签类:
+
+Custom pattern:
+自定义样式
+
+Include when adding to projects
+添加到项目时包含
+
+Status Bar Options
+状态栏选项
+
+Line, Col, Symbol
+行,列,符号
+
+Line, Col, Char, Byte
+行,列,字符,字节
+
+Editing Options
+编辑选项
+
+Word Wrap
+自换行
+
+Allow auto-complete
+自动完成
+
+Allow intelligent paste
+智能粘贴
+
+Expand tabs to spaces
+转换tab为空格
+
+Enter inserts new line
+回车插入新行
+
+Show line numbers
+显示行号
+
+Show right margin
+显示右边界
+
+Allow code snippets
+允许代码片段
+
+Highlight references to selected symbol
+高亮所选符号的引用
+
+Use typing shortcuts for parentheses and quotes
+快捷输入括号和引号
+
+Tab width:
+tab宽度:
+
+Margin width:
+边界宽度:
+
+Visible tabs
+显示tab
+
+Visible spaces
+显示空格
+
+Use Overview
+使用鸟瞰图
+
+Show page breaks
+显示分页符
+
+Add Type...
+新类型
+
+Add New File Type
+增加文件类型
+
+File Type Name:
+文件类型名
+
+Remove Type
+删类型
+
+Auto Indent...
+自动缩进...
+
+Auto Indenting
+自动缩进
+
+Auto Indent Type
+自动缩进类型
+
+Simple
+简单
+
+Smart
+智能
+
+Smart Indent Options
+智能缩进选项
+
+Indent Open Brace
+缩进开括号
+
+Indent Close Brace
+缩进闭括号
+

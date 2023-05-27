@@ -1,0 +1,36 @@
+Source Insight 4.0 License Management
+Source Insight 4.0 许可管理
+
+Your license is activated.
+你的许可已激活。
+
+Please select an option:
+请选择:
+
+&Continue using the Source Insight license on this machine.
+继续在本机上使用Source Insight许可。
+
+No changes will be made to your license.
+不变更许可。
+
+&Deactivate the license on this machine.
+冻结本机的许可。
+
+You will not be able to run Source Insight on this machine without re-activating with a valid serial number.
+你将不能在本机运行Source Insight，除非再次激活。
+
+< Back
+<返回
+
+Next >
+前进>
+
+You have asked to deactivate the current Source Insight license.\n\nSerial Number: %s\n\nTo activate it again, you will need an Internet connection and provide your Serial Number.\n\nAre you sure you want to deactivate the Source Insight license on this machine?
+你正在冻结当前Source Insight许可。\n\n序列号: %s\n\n想要再次激活，需要连接网络并提供序列号。\n\n确认要冻结本机的Source Insight许可？
+
+Serial Number: %s\r\nRegistered User: %s\r\nOrganization: %s\r\nEmail: %s\r\nActivated on: %s%s
+序列号: %s\r\n注册者: %s\r\n组织: %s\r\n邮件: %s\r\n激活于: %s%s
+
+Serial Number: %s\r\nRegistered User: %s\r\nOrganization: %s\r\nEmail: %s\r\nActivated on: %s, Expires on: %s%s
+序列号: %s\r\n注册者: %s\r\n组织: %s\r\n邮件: %s\r\n激活于: %s, 过期于: %s%s
+

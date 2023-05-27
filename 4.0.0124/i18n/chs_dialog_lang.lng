@@ -1,0 +1,130 @@
+//Languages
+//语言
+//
+Language:
+语言:
+
+Conditional Parsing
+条件解析
+
+Project Specific Conditions...
+项目独有条件...
+
+Global Conditions...
+全局条件...
+
+Keywords...
+关键词
+
+File Types...
+文件类型...
+
+Special...
+特殊...
+
+//Properties
+%s Properties
+%s 属性
+
+Language Properties
+语言属性
+
+Custom Parsing
+自定义解析
+
+Enable expressions below for parsing
+解析时启用下列表达式
+
+Expressions:
+表达式:
+
+Symbol Type
+符号类
+
+Delete All
+全删除
+
+//Custom Parsing Expression
+Custom Parsing Expression
+自定义解析表达式
+
+Regular expression pattern:
+正则表达式样式:
+
+Regular expression syntax:
+正则表达式语法
+
+Finds this symbol type:
+查找该符号类型:
+
+//Language Keywords
+Language Keywords
+语言关键词
+
+Keyword:
+关键词:
+
+Style:
+风格:
+
+Add Word...
+添加词
+
+Delete Word...
+删除词...
+
+Select a keyword, then select its associated formatting style.
+选择一个关键词，然后选择它关联的格式风格。
+
+Are you sure you want to reset to the default keyword settings?
+确认要重置关键词设置为默认值?
+
+To delete a keyword, first select one or more keywords in the keyword list, then click Delete.
+想要删除关键词，先在列表里选择一个或多个关键词，然后单击删除。
+
+Add New Language Keyword
+添加新语言关键词
+
+New keyword:
+新关键词:
+
+Import Language Keywords
+导入语言关键词
+
+Import Options:
+导入选项:
+
+Replace current keyword list with imported list
+替代当前关键词列表
+
+Merge current keyword list with imported list
+与当前关键词列表合并
+
+//special
+Special Language Options
+特殊语言选项
+
+C/C++ Options
+C/C++选项
+
+Ignore namespace declarations
+忽略命名空间声明
+
+Parse standard COM macros
+解析标准COM宏
+
+Support Microchip C extensions
+支持 Microchip C 扩展
+
+Java Options
+Java选项
+
+Ignore package declarations
+忽略包声明
+
+HTML and Scripts
+HTML和脚本
+
+Default script language:
+默认脚本语言:
+

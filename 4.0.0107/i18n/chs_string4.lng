@@ -1,0 +1,276 @@
+The file does not contain any %s.
+文件不包含任何 %s。
+
+Should the mouse pointer make a selection before running the command?
+在运行命令前应该先框选？
+
+Record as a Double-Click?
+双击时记录？
+
+You did not select any configuration sections. Please checkmark at least 1 section.
+你没有选择如何配置区。请至少选择一个区。
+
+The conditions cannot be edited because the project %s is read-only.
+无法条件条件，因为项目 %s 是只读。
+
+This is used to load new customization settings from a configuration file. Each configuration file can contain one or more separate sections. Select the configuration section(s) you want to load.
+从配置文件载入自定义设置。每个配置文件都可以包含一个或多个区块。选择想要载入的的区块。
+
+Indexing symbol name fragments with large projects uses a lot of resources and can cause Source Insight to slow. It is not recommended for import projects.\n\nAre you sure you want to turn on symbol name fragment browsing?
+为大项目索引不完整符号名会导致Source Insight卡顿。对导入的项目不建议这么做。\n\n确认要开启不完整符号名浏览？
+
+Indexing symbol name fragments can use a lot of resources with large projects.\n\nIf you experience slow performance with a large project, try turning off browsing for symbol name fragments.
+为大项目索引不完整符号名会消耗大量资源。\n\n如果感觉运行卡顿，尝试关闭不完整符号名浏览。
+
+The Master File List does not exist. Is it OK to create it now by saving the current project's file list?
+主文件列表不存在。将当前项目文件列表保存为主文件列表？
+
+The Master File List already exists. Do you want to over-write it to reflect the state of your current project?\n\nClick 'Yes' to over-write the Master File List.\nClick 'No' to use it as-is. It may be different than your current project contents.
+主文件列表已经存在。用当前项目文件列表覆盖它？\n\n单击"Yes"覆写主文件列表。\n单击"No"仍然保留它。它的内容可能和当前项目内容不一样。
+
+Choose two files to compare. You may enter either two file paths, or a single file and a second directory path.
+选择两个文件来比较。你可以输入两个文件，或者一个文件和一个目录。
+
+The option for making backup files when saving is currently turned off.\n\nDo you want to enable backup file option now?
+保存时创建备份功能已经关闭。\n\n启用该功能？
+
+%s has been changed since it was first opened.\nRestoring will lose ALL changes you made since it was FIRST OPENED.\nOK to restore original version and lose all changes?
+%s 已经被修改。\n还原操作将丢失所有改动。\n确认要还原并且放弃所有修改？
+
+%s has been edited.\nReloading the file cannot be undone.\n\nOK to revert to previously saved version and lose all changes?
+%s 已经被编辑。\n重载文件操作不能撤销。\n\n确认要重载并且放弃所有修改？
+
+%s has not been saved yet.
+%s 还没有被保存。
+
+%s appears to use Unicode encoding.\n\nAre you sure you want to reload with non-Unicode codepage?
+%s 似乎使用了Unicode编码。\n\n确认要用非Unicode代码页重载？
+
+%s has unsaved changes. Are you sure you want to reload it and lose those changes?
+%s 的修改未保存。确认要重载并且放弃所有修改？
+
+%s has been changed outside of Source Insight.\n\nDo you want to reload the file?
+%s 已经被外部修改。\n\n需要重载文件？
+
+%s has been changed both inside AND outside of the editor.\n\nDo you want to reload the file and lose changes made here?
+%s 同时被内部和外部修改。\n\n重载文件并且放弃这里的修改？
+
+Confirm by typing 'yes' below:
+确认请输入"yes":
+
+The file name you specified is already in use by another open file. The file cannot be renamed.
+你指定的文件名已经被使用。不能重命名文件。
+
+File is already open: %s
+文件已经打开: %s
+
+There was an error saving "%s".\nThe file is not saved.
+保存 %s 时发生错误。\n文件没有保存。
+
+Not enough disk space to save "%s".  %ld more bytes are required.
+硬盘空间不足，不能保存 %s。还需要%ld bytes空间。
+
+"%s" contained long lines that were truncated when the file was opened.  OK to save it that way?
+%s 包含过长的行，打开时会被截断了。确认要继续保存？
+
+"%s" is read-only.  Cannot save.
+%s 是只读，无法保存。
+
+Save changes to %s?
+保存 %s？
+
+Out of disk space.  Unable to close "%s".  Try closing other files first.
+硬盘空间不足，无法关闭 %s。尝试先关闭某些文件。
+
+Cannot create a backup because %s has not been saved to disk yet.
+无法创建备份，因为 %s 还没有被保存到硬盘。
+
+There were errors opening "%s".
+打开 %s 时发生错误。
+
+Not enough memory to open "%s".
+内存不足不能打开 %s。
+
+"%s" does not exist.
+%s 不存在。
+
+"%s" does not exist.  Create it?
+%s 不存在。创建它？
+
+Cannot open "%s"; it is already open for another purpose.
+无法打开 %s，它已经在另一处被打开。
+
+Directory of %s does not exist.
+%s 的目录不存在。
+
+The file you selected to delete is currently open.  Do you want to close and delete the file? \n\n File: %s
+想要删除的文件已经打开。关闭并删除它？\n\n文件: %s
+
+The file you selected to delete is currently open and modified.  Do you want to close and delete the file? \n\n File: %s
+想要删除的文件已经打开并被修改。关闭并删除它？\n\n文件: %s
+
+Do you want to open all %d files?
+打开这 %d 个文件？
+
+Do you want to apply the font changes to all other file types too?
+该字体修改同时应用到其他文件类型？
+
+Are you sure you want to remove the %s file type?
+确认要移除 %s 文件类型？
+
+%s file type already exists.  Do you want to replace it?
+%s 文件类型已经存在，替换它？
+
+Custom parse pattern must contain ONE group.
+自定义解析样式必须包含一个组。
+
+Custom parse pattern is not valid.
+无效的自定义解析样式。
+
+You must include a Group (sub-pattern) in the error pattern.
+在错误样式里必须包含一个组(子样式)。
+
+%s is already defined as a custom command.
+%s 已经被定义为自定义命令。
+
+"%s" is currently on the %s menu.\n\nDo you want to remove it from the menus and keyboard also?
+%s 已经在 %s 菜单里。\n\n从菜单和快捷键里删除它？
+
+This Custom Command is permanent and cannot be deleted.
+该自定义命令是常驻的，不能删除。
+
+The command "%s" is probably still running.\n\nDo you want to throw away its captured output?
+命令 %s 可能还在运行。\n\n丢弃它的输出？
+
+Custom Command: %s\n\n%s\n\nRun string: %s\n\nDo you want to edit the command?
+自定义命令: %s\n\n%s\n\n命令行: %s\n\n编辑该命令？
+
+Arguments for "%s"?
+%s 的参数？
+
+Arguments for "%s%s"?
+%s%s 的参数？
+
+Command shell program not found.
+没有找到命令行Shell程序。
+
+Bad quote usage in command line.
+命令行里使用引号错误。
+
+Unable to execute %s.  Make sure the file exists on that path.
+无法执行 %s。确认文件路径正确。
+
+ShellExecute failed.
+ShellExecute失败。
+
+These options control what information is included in the Search Results for the Search and Lookup References commands.
+这些选项控制搜索结果包含哪些信息。适用于搜索和查找引用命令。
+
+These options control what information is included in the Search Results for the %s command.
+这些选项控制搜索结果包含哪些信息。适用于 %s 命令。
+
+---- %s Matches (#count#) ----
+---- %s 搜索到 #count# ----
+
+%s%d in %d files%s
+%s%d处, %d文件%s
+
+Can't search %s.
+无法搜索 %s。
+
+Old and New names are the same.  Nothing was renamed.
+新旧名称相同。无法重命名。
+
+The current file is not associated with a language.  See Options > File Types.
+当前文件没有关联到一种语言。查看"选项 > 文件类型"。
+
+Are you sure you want to delete all expressions?
+确认要删除所有表达式？
+
+Regular expression must contain one group.
+正则表达式必须包含一个组。
+
+The range cannot be nestable if the start and end delimiters are the same.
+范围不能是嵌套的，如果起诉和结束分隔符相同。
+
+The first column must be less than, or equal to, the last column.
+第一栏必须小于等于最后一栏。
+
+%s is a language file that requires a newer version of Source Insight.
+%s 是新版Source Insight的语言文件。
+
+%s is not a valid language file.
+%s 是无效语言文件。
+
+Are you sure you want to delete all comment definitions?
+确认要删除所有注释定义？
+
+The file does not contain any language definitions.
+文件不包含任何语言定义。
+
+You cannot deactivate a beta license.
+不能激活测试版许可。
+
+You cannot deactivate a trial license.
+不能激活试用版许可。
+
+Your Source Insight license has not been activated yet.
+你的Source Insight许可还没有被激活。
+
+There is no link at the current selection or the link destination is gone.
+当前所选没有链接，或者链接目标已丢失。
+
+This dialog allows you to selectively disable performance optimizations.  This may help to troubleshoot certain types of problems.
+这里可以有选择的禁用性能优化。可能解决疑难杂症。
+
+The file: %s was not found.  It should have been installed with Source Insight.
+没有找到文件 %s。它应该已经和Source Insight一起被安装。
+
+---Begin Parsing Test---
+---开始解析测试---
+
+The backup directory doesn't exist.  Backups cannot be performed.
+备份文件夹不存在。不会执行备份。
+
+You've changed parsing options.\n\nDo you want to re-parse your project now?
+你修改了解析选项。\n\n立即预解析项目？
+
+A language named "%s" already exists.
+"%s"语言已经存在。
+
+Remote Session preferences will not take effect until you restart Source Insight.
+远程会话首选项将在重启Source Insight后生效。
+
+Changes to file sharing options will only affect files that are opened from now on.
+修改文件共享选项将只影响之后打开的文件。
+
+Are you SURE you want to always overwrite read-only files?  If you answer 'No', you will still be able to overwrite them on an individual file basis.
+确认要覆写只读文件？如果选"No"，你仍能覆写它们到个人文件里。
+
+The project file %s cannot be found.\n\n Do you still want to add it to the symbol path?
+无法找到项目文件 %s。\n\n仍旧把它添加到符号路径？
+
+Are you sure you want to delete the language: %s ?
+确认要删除语言: %s？
+
+A Master File List is being used to determine the files in the project. To change it, select Project > Project Settings.
+主文件列表用于确定项目里的文件。想要修改它，选择"项目 > 项目设置"。
+
+The current project does not use a Master File List.\n\nDo you want to edit the Project Settings to change the Master File List setting?
+当前项目没有使用主文件列表。\n\n编辑项目设置，修改主文件列表选项？
+
+Project has been rebuilt.\nElapsed time for rebuilding: %d:%02d\n\n%s
+项目已经被重构。\n耗时: %d:%02d\n\n%s
+
+Project: %s\nSymbols: %d\nIndex entries: %d\nFiles: %d
+项目: %s\n符号: %d\n索引: %d\n文件: %d
+
+Rebuilding project %s may take a few minutes.  Once started, you will be able to cancel, but your project will still require rebuilding.\n\nDo you want to continue with rebuilding?
+重构项目 %s 将花几分钟。开始后可以取消，之后需要再次重构。\n\n确认开始重构？
+
+Project %s is currently read-only. Either the data files are read-only, or the project may be open by another instance of Source Insight. Try closing other instances first.
+项目 %s 是只读的。数据文件是只读，或者项目被另一个Source Insight实例打开。先尝试关闭另一个应用实例。
+
+A read-only Master File List is being used to determine the files in the project. Files cannot be added or removed manually.\n\nDo you want to edit the Project Settings to change the Master File List setting?
+只读主文件列表用于确定项目里的文件。不能手动修改它。\n\n确认要编辑项目设置，修改新文件列表设置？
+

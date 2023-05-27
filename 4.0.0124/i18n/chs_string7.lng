@@ -1,0 +1,1035 @@
+Symbol Name (%s)
+符号名 (%s)
+
+Project Files
+项目文件
+
+Project Symbols
+项目符号
+
+Symbol Categories
+符号分类
+
+Modified
+日期
+
+Metrics
+度量
+
+Symbol Name
+符号名
+
+//Symbol
+//符号
+//
+Open file in a window
+在窗口打开文件
+
+Load Layout A
+载入布局A
+
+Load Layout B
+载入布局B
+
+Load Layout C
+载入布局C
+
+Load Layout D
+载入布局D
+
+Activate Project Symbol List
+激活项目符号列表
+
+Activate Edit Menu
+激活编辑菜单
+
+Activate File Menu
+激活文件菜单
+
+Activate Help Menu
+激活帮助菜单
+
+Activate Menu Bar
+激活菜单栏
+
+Activate Options Menu
+激活选项菜单
+
+Activate Project Menu
+激活项目菜单
+
+Activate Search Menu
+激活搜索菜单
+
+Activate Symbol Window
+激活符号窗
+
+Activate System Doc Menu
+激活系统文档菜单
+
+Activate System Menu
+激活系统菜单
+
+Activate Tools Menu
+激活工具菜单
+
+Activate View Menu
+激活视图菜单
+
+Activate Window Menu
+激活窗口菜单
+
+Activate Work Menu
+激活工作菜单
+
+Add File...
+添文件
+
+Back Tab
+退tab
+
+Backspace
+退格
+
+Beginning Of Line
+行开头
+
+Beginning Of Selection
+选区开头
+
+Block Down
+下块
+
+Block Up
+上块
+
+Bottom Of File
+文件底部
+
+Bottom Of Window
+窗口底部
+
+Complete Snippet
+完成代码段
+
+Complete Symbol
+完成符号
+
+Copy Line
+复制行
+
+Copy Line Right
+复制行右
+
+Cursor Down
+光标下
+
+Cursor Left
+光标左
+
+Cursor Right
+光标右
+
+Cursor Up
+光标上
+
+Cut Line
+剪切行
+
+Cut Line Right
+剪切行右
+
+Cut Word
+剪切词
+
+Delete Character
+删除字符
+
+Drag Line Down
+拖拽线下移
+
+Drag Line Up
+拖拽线上移
+
+End Of Line
+行结尾
+
+End Of Selection
+选区结尾
+
+Enter
+回车
+
+Function Down
+下函数
+
+Function Up
+上函数
+
+Go Back Toggle
+回退切换
+
+Go To First Link
+前往首个链接
+
+Go To Next Change
+前往下个修改
+
+Go To Previous Change
+前往上个修改
+
+Incremental Search...
+增量搜索...
+
+Insert Line
+插入行
+
+Insert Line Before Next
+之前插入行
+
+Insert New Line
+插入新行
+
+Join Lines
+加入行
+
+Jump To Match
+跳转到匹配
+
+Last Window
+最后窗
+
+Make Column Selection
+栏选择
+
+Next File...
+下个文件...
+
+Page Down
+下页
+
+Page Up
+上页
+
+Paren Left
+左括号
+
+Paren Right
+右括号
+
+Paste Line
+粘贴行
+
+Redraw Screen
+重绘屏幕
+
+Remove File...
+移动文件...
+
+Repeat Typing
+重复输入
+
+Restore Lines
+恢复行
+
+Scroll Half Page Down
+下滚半页
+
+Scroll Half Page Up
+上滚半页
+
+Scroll Left
+左滚动
+
+Scroll Line Down
+下滚行
+
+Scroll Line Up
+上滚行
+
+Scroll Right
+右滚动
+
+SDK Help...
+SDK帮助
+
+Search Backward for Selection
+在选区内向上搜索
+
+Select Char Left
+选择左字符
+
+Select Char Right
+选择右字符
+
+Select Line
+选择行
+
+Select Line Down
+选择下行
+
+Select Line Up
+选择上行
+
+Select Match
+选择匹配
+
+Select Next Snippet Placeholder
+选择下个代码段占位符
+
+Select Next Window
+选择下个窗口
+
+Select Page Down
+选择下页
+
+Select Page Up
+选择上页
+
+Select Previous Window
+选择前个窗口
+
+Select Sentence
+选择句子
+
+Select To
+选到
+
+Select To End Of File
+选到文件结尾
+
+Select To Start Of Line
+选到行开头
+
+Select To End Of Line
+选到行结尾
+
+Select To Top Of File
+选到文件顶
+
+Select Word
+选择词
+
+Select Word Left
+选择词左
+
+Select Word Right
+选择词右
+
+Show File Status
+显示文件状态
+
+Simple Tab
+简易tab
+
+Sort Symbol Window
+排序符号窗
+
+Tab
+Tab
+
+Toggle Insert Mode
+切换插入模式
+
+Top Of File
+文件顶
+
+Top Of Window
+窗口顶
+
+Word Left
+左词
+
+Word Right
+右词
+
+Zoom Window
+窗缩放
+
+Reformat Source Code
+格式化源码
+
+Create Bookmarks from Relation Items
+从关联组件创建书签
+
+Overview Options...
+鸟瞰图选项...
+
+<Previous Settings>
+<前个设置>
+
+<Current Settings>
+<当前设置>
+
+Scroll Bar Options...
+滚动条选项...
+
+File Types
+文件类
+
+  Col %d  
+  %d 列  
+
+Line %d
+%d 行
+
+Search List
+搜索
+
+String to find in the list:
+在列表里搜索:
+
+Start at Beginning
+从头开始
+
+Match Case
+大小写
+
+Regular Expressions
+正则表达式
+
+Multiple Locations
+多处定义
+
+%s - %d locations
+%s - %d 处定义
+
+Synchronizing %s
+同步 %s
+
+(No Project) - %s
+(无项目) - %s
+
+Comments and Ranges
+注释和范围
+
+Range Definitions:
+定义范围:
+
+Last column:
+尾列:
+
+First column:
+首列:
+
+Only valid in the following columns:
+只作用于以下列:
+
+Include delimiters in style
+包含分隔符
+
+Skip symbol parsing
+跳过符号解析
+
+Allow nesting
+允许嵌套
+
+Escape sequence:
+转义字符:
+
+Range &ends with:
+范围结束于:
+
+Range &begins with:
+范围起始于:
+
+&Syntax Formatting Style:
+语法风格:
+
+&Type of range:
+范围类型:
+
+Confirm Replacements
+确认替换
+
+New:
+新:
+
+Old:
+旧:
+
+Preserve Old Case
+保留大小写
+
+One Occurrence/Line
+每行替换首个
+
+< word under cursor >
+<光标处文本>
+
+Files...
+文件...
+
+&Advanced...
+高级...
+
+Word Fragments
+单词片段
+
+Word Variations
+单词变换
+
+Search Project:
+搜索项目:
+
+Search Project
+搜索项目
+
+Minimizes the panel window to the Tab Tray
+最小化面板到标签托盘
+
+Maximizes and Restores panel window size
+最大化和恢复面板尺寸
+
+Closes the panel window
+关闭面板
+
+Press Enter to add new bookmark
+按回车添加新书签
+
+Bookmark Item or Line Number
+书签或行号
+
+Bookmark Options
+书签选项
+
+Bookmark Options...
+书签选项...
+
+Confirm when deleting bookmarks
+删除书签时确认
+
+When a file closes, delete its bookmarks
+文件关闭时删除书签
+
+Preserve bookmarks between sessions
+会话期间保持书签
+
+New Bookmark
+新书签
+
+Delete Bookmark
+删除书签
+
+Go To Bookmark
+跳转到书签
+
+Load Bookmarks
+加载书签
+
+Save Bookmarks
+保存书签
+
+Load Bookmarks...
+加载书签...
+
+Save Bookmarks...
+保存书签...
+
+Bookmark Comment:
+书签注释:
+
+Go to Line:
+跳到行:
+
+Go To Line
+跳到行
+
+Searches for text in the current file
+在当前文件搜索文本
+
+Snippet Name
+片段名
+
+New Snippet...
+新片段...
+
+Delete Snippet
+删除片段
+
+Edit Snippet Text in Editor
+用编辑器编辑片段
+
+Edit Snippet...
+编辑片段...
+
+Paste from Snippet
+从片段粘贴
+
+Snippet Window Options...
+片段窗选项...
+
+Clip Name
+剪辑名
+
+Clip Name:
+剪辑名:
+
+New Clip...
+新剪辑
+
+New Clip Name?
+新剪辑名?
+
+Delete Clip
+删除
+
+Edit Clip
+编辑
+
+Cut To Clip
+剪切
+
+Copy To Clip
+复制到剪辑
+
+Paste From Clip
+从剪辑粘贴
+
+Clip Window Options
+剪辑窗选项
+
+Clip Window Options...
+剪辑窗选项...
+
+Process text variables when pasting from clips
+从剪辑粘贴时处理文本变量
+
+Always paste at the start of a line
+总是粘贴在行首
+
+Always keep source text when dropped on clip window
+拖拽进剪辑窗后保留原文本
+
+Delete clip after clip is dragged out
+拖拽出后删除剪辑
+
+Prompt for new clip name when text is dropped
+拖拽入文本后询问新剪辑名
+
+Preserve clips between sessions
+会话期间保持剪辑
+
+Activate Search Results
+激活搜索结果
+
+Toggle Expansions
+切换展开
+
+Selects the enclosing code block
+选择闭合代码块。
+
+File &2:
+文件2:
+
+File &1:
+文件1:
+
+Compare with a Backup Version...
+和备份文件比较...
+
+Or, you can compare the current file with a previous version in the Backup directory.
+或者，可以和备份文件夹里的旧版本文件比较。
+
+Compare
+比较
+
+//Show Folder
+//开目录
+//
+Directory path
+文件夹路径
+
+Choose Right Directory for Comparison
+选择要比较的右侧文件夹
+
+Choose Left Directory for Comparison
+选择要比较的左侧文件夹
+
+Right File
+右文件
+
+Left File
+左文件
+
+Compare Files
+比较文件
+
+Open Both Files
+两边都打开
+
+Open Right File
+打开右文件
+
+Open Left File
+打开左文件
+
+Copy File to Right
+复制到右侧
+
+Copy File to Left
+复制到左侧
+
+Next Difference
+下一个差异
+
+Previous Difference
+前一个差异
+
+Delete Right File
+删除右侧文件
+
+Delete Left File
+删除左侧文件
+
+Directory Compare Options
+文件夹比较选项
+
+Hides the window.
+隐藏窗口。
+
+Compare File
+比较文件
+
+Confirm before copying or deleting files
+复制或删除文件前确认
+
+Other Options
+其他选项
+
+Ignore differences in end-of-line characters
+忽略行结束符差异
+
+Ignore differences in white space
+忽略空格差异
+
+When Comparing File Contents
+比较文件内容时
+
+Compare file contents (slower)
+比较文件内容(较慢)
+
+Only compare file sizes and modification dates
+只比较文件大小和修改时间
+
+Only compare file modification dates
+只比较文件修改时间
+
+Comparison Method
+比较规则
+
+Refresh
+刷新
+
+Compare Directories
+比较目录
+
+Toggles Comparison Window locking. Its contents do not change when locked.
+切换比较窗锁。锁定后内容不会改变。
+
+Lock File Compare Window
+锁定文件比较窗
+
+Copy Text to Right
+往右复制文本
+
+Copy Text to Left
+往左复制文本
+
+File Compare Window Options
+文件比较窗选项
+
+File Compare Window Options...
+文件比较窗选项
+
+Edit File
+编辑
+
+Nesting Lines
+嵌套线
+
+Show Difference List
+显示差异列表
+
+Display in 'Mono Font View'
+显示等宽字体视图
+
+Show difference list
+显示差异列表
+
+Diff Command...
+Diif命令...
+
+Show vertical scroll bar
+显示垂直滚动条
+
+Diff Command Line
+Diff命令行
+
+Enter the path and command line for the diff program:
+输入diff程序的路径和命令行:
+
+Allow edits
+可编辑
+
+Reformat Source Code Options
+格式化源码选项
+
+Current Preset:
+当前预设:
+
+Edit Preset...
+编辑预设...
+
+Restore Defaults
+恢复默认
+
+Export All...
+全部导出...
+
+To use a preset, select it in the list above and click Format. To edit the preset's settings, select it in the list, then click on Edit Preset...
+使用预设，在上方列表选择然后单击"格式化"。编辑预设，在上方列表选择然后单击"编辑预设..."
+
+Add Preset
+添加
+
+New preset name:
+新预设名:
+
+Reformat Source Code - %s Preset
+格式化源码 - %s
+
+Layout and Flow
+布局和流程
+
+Blank line below labels
+标签后空行
+
+Blank line above labels
+标签前空行
+
+One indent level less than statements
+比语句少一个缩进等级
+
+At leftmost column
+顶格
+
+Indent with statements
+和语句对齐
+
+Indentation for Goto Labels
+Goto 标签缩进
+
+Indent width:
+缩进宽度:
+
+Convert spaces to tabs
+空格改为制表符
+
+Indentation
+缩进
+
+Outermost braces at column 1
+最外层括号定格
+
+Extra indent of statements inside braces
+括号内的语句缩进
+
+Indent the close } brace
+缩进 }
+
+Indent the open { brace
+缩进 {
+
+Open { brace on new line
+{ 另起一行
+
+Brace Style
+大括号
+
+Space after keywords: if, while, for, etc.
+关键词后加空格: if, while, for 等
+
+Add braces around single statement bodies
+为单行语句加括号
+
+Force single line bodies onto next line
+强制单行语句另起一行
+
+Keep else-if on same line
+else-if 在同一行
+
+Blank line after control statements
+控制语句后空行
+
+Blank line before control statements
+控制语句前空行
+
+Control statements start a new line
+控制语句另起一行
+
+Control Statements - if, while, for, etc.
+控制语句 - if, while, for 等
+
+Wrap lines at column:
+行宽列数:
+
+Line Width
+行宽
+
+Align macro continuation (\) at column:
+按列对齐宏换行 (\):
+
+Align macro values at column:
+按列对齐宏值:
+
+Align macro names at column:
+按列对齐宏名:
+
+Preprocessor Macros (#defines)
+预处理宏 (#defines)
+
+Blank lines between functions:
+函数前加空行:
+
+Preserve blank lines in source
+保留源码的空行
+
+Line Spacing
+空行
+
+Align assignments at column:
+按列对齐分配
+
+Align variables at column:
+按列对齐变量
+
+Remove extra white space at end of lines
+删除行尾多余空格
+
+Spaces inside parentheses like '( this )'
+圆括号内侧空格如 ( this )
+
+Spaces around operators
+操作符前后空格
+
+Spaces between function parameters
+函数参数间空格
+
+Space between function name and parentheses
+函数名和圆括号间空格
+
+White Space
+空格
+
+Indent namespace contents
+对齐命名空间内容
+
+Align right-hand comments at column:
+按列对齐右侧注释:
+
+Preserve text formatting in lines that contain only comments
+保留只有注释的行的文本格式
+
+Blank line above comment blocks
+注释前空行
+
+Preserve blank lines in comments
+保留注释的空行
+
+One indent level less than other declarations
+比其他声明少一个缩进等级
+
+Indent same as other declarations
+和其他声明相同
+
+Indentation for Member Access Specifiers (private/public/etc)
+缩进成员访问限定符 (private/public/etc)
+
+Align bit-field sizes at column:
+按列对齐 bit-field:
+
+Align field members at column:
+按列对齐成员:
+
+Blank line below public/private labels
+public/private 标签后空行
+
+Blank line above public/private labels
+public/private 标签前空行
+
+Indent members
+缩进成员
+
+Classes and Structs
+类和结构体
+
+Classes and Comments
+类和注释
+
+&Find:
+搜索:
+
+Find:
+搜索:
+
+Search File
+搜文件
+
+Search File (%s)
+搜索文件 (%s)
+
+&Search Files...
+搜索文件...
+
+&Options...
+选项...
+
+&Previous
+后退
+
+&Next
+前进
+
+Context Sensitive
+上下文相关
+
+Use regular expressions
+使用正则表达式
+
+Use context sensitive symbol search
+使用上下文符号搜索
+
+Load word at cursor when buttons are pressed
+按下前后键时搜索光标处词
+
+Search while typing
+递进式搜索
+
+Match only whole words
+匹配完整词
+
+Wrap around to beginning or end of file
+循环查找
+
+Case sensitive
+大小写敏感
+
+Select text when found
+找到时选中文本
+
+Basic Options
+基本选项
+
+File Search Bar Options
+文件搜索栏选项
+
+Files Selected in Project File Panel
+项目文件面板里选中的文件
+
+The Current File
+当前文件
+
+All Project Files
+所有项目文件
+

@@ -1,0 +1,66 @@
+Add and Remove Project Files
+添加和移除项目文件
+
+File Name:
+文件名:
+
+Directory
+目录
+
+File Name
+文件名
+
+Project Files: (%d)
+项目文件 (%d):
+
+Add
+添
+
+Add All
+全加
+
+Add Tree
+添加树
+
+Remove Tree
+移除树
+
+Show only known file types
+只显示已知文件
+
+Remove File
+移文件
+
+Remove All
+全移除
+
+Remove Special...
+移除指定...
+
+Add from list...
+从列表添加...
+
+Remove from Project: "%s"
+从项目移除: %s
+
+Remove Dir
+移目录
+
+Show Files
+显文件
+
+Show &Dirs
+显目录
+
+Show Dirs
+显目录
+
+Project Wide
+项目范围
+
+Subdirs Also
+含子目录
+
+Add Project Files From List
+从列表添加文件
+

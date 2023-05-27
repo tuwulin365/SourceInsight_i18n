@@ -1,0 +1,423 @@
+Extends the selection up to the current mouse position.
+扩展选区到当前鼠标位置。
+
+Selects the enclosing symbol definition, if any.
+选择闭合的符号定义，如有。
+
+Selects the matching brace, parentheses, or quote character.
+选择匹配的括号、引号。
+
+Selects the whole line.
+选择整行。
+
+Selects up to the next period.
+选择下一个周期。
+
+Selects words under cursor.
+选择光标处的单词。
+
+Pastes if selection is empty, otherwise Cuts.
+选区为空则粘贴，否则剪切。
+
+Replaces text in multiple files.
+在多个文件里替换文本。
+
+Searches for text across multiple files.
+在多个文件里搜索文本。
+
+Scrolls the window to the left.
+滚动窗口到左边。
+
+Scrolls the window to the right.
+滚动窗口到右边。
+
+Displays the Window menu.
+显示窗口菜单。
+
+Displays the project menu.
+显示项目菜单。
+
+Displays the Search menu.
+显示搜索菜单。
+
+Displays the Edit menu.
+显示编辑菜单。
+
+Displays the File menu.
+显示文件菜单。
+
+Closes all open files.
+关闭所有文件。
+
+Synchronizes the current project with changes made to files outside the editor.
+同步当前项目改动到编辑器外部文件。
+
+Saves the current Workspace to a file.
+保存当前工作区到文件。
+
+Views a file in a window.
+在窗口查看文件。
+
+Selects the last window.
+选择最后一个窗口。
+
+Shows the clipboard window.
+显示剪切板文件。
+
+Links the current window to another window so that they scroll together.
+链接当前窗口到另一个窗口，实现同步滚动。
+
+Creates a new duplicate window.
+新建窗口副本。
+
+Redraws all windows.
+重绘所有窗口。
+
+Sets or jumps to a user defined bookmark.
+设置并跳转到用户定义书签。
+
+Toggles between the last two cursor positions.
+在最后两处光标间跳转。
+
+Moves the cursor to next location in the Selection History.
+移动光标到下一处历史选择。
+
+Lists symbolic information for the current file.
+为当前文件列出符号信息。
+
+Closes the current file and opens another.
+关闭当前文件，打开其他文件。
+
+Copies text to a named clip buffer.
+复制文本到命名剪切区。
+
+Copies the whole current line to the clipboard.
+复制当前整行到剪切板。
+
+Pastes text from the clipboard at the start of the current line.
+从剪切板粘贴文本到当前行开头。
+
+Renumbers numbers found in text.
+更新计算文本里的数字。
+
+Starts running a macro instruction at the cusor position.
+在光标处运行宏命令。
+
+Moves all selected lines to the right by one tabstop.
+往右移动所选行一个制表位。
+
+Moves all selected lines to the left by one tabstop.
+往左移动所选行一个制表位。
+
+Combines the current line with the next.
+合并当前和下一行。
+
+Inserts a new blank line after the current line.
+在当前行后插入空行。
+
+Inserts a new blank line before the current line.
+在当前行前插入空行。
+
+Cuts the word to the left of the selection.
+剪切选区左侧的单词片段。
+
+Pastes text from the clipboard.
+从剪切板粘贴文本。
+
+Copies selected text to the clipboard.
+复制所选文本到剪切板。
+
+Copies selected text to the clipboard and deletes the text.
+复制所选文本到剪切板并删除原文本。
+
+Saves all open and modified files to disk.
+保存所有文件的修改到硬盘。
+
+Recreates the last editing operation after an Undo command.
+重做最后撤销的编辑操作。
+
+Reverses the last editing operation.
+撤销最后的编辑操作。
+
+Moves the cursor to the definition of the selected symbol.
+移动光标到所选符号的定义。
+
+Shows Selection History window.
+显示选择历史窗。
+
+Moves the cursor to the other end of a Source Link.
+移动光标到源链接的另一个尾部。
+
+Adds a list of files to the current project.
+添加一列表的文件到当前项目。
+
+Displays a popup window showing a symbol's definition.
+显示一个窗口用于显示符号定义。
+
+Generates statistics for the current project.
+生成当前项目的统计。
+
+Reformats line breaks in the enclosing paragraph(s).
+在闭合段落里段落重排。
+
+Removes files from the current project.
+从项目移除文件。
+
+Adds files to the current project.
+添加文件到当前项目。
+
+Deletes a project.
+删除项目。
+
+Closes the current project.
+关闭当前项目。
+
+Opens an existing project.
+打开已有项目。
+
+Creates a new project.
+新建一个项目。
+
+Customizes menu contents.
+自定义菜单内容。
+
+Customizes command keystrokes.
+自定义命令键。
+
+Specifies user options.
+设置用户选项。
+
+Specifies printing page options.
+设置打印页面。
+
+Defines file types and their properties.
+定义文件类型及其属性。
+
+Selects a paragraph of text.
+选择文本段落。
+
+Specifies options for Projects.
+设置项目选项。
+
+Moves the cursor to a specified line number.
+移动光标到指定的行号。
+
+Toggles contextual help mode on and off.
+开关上下文帮助模式。
+
+Displays copyright and version information.
+显示版权和版本信息。
+
+Replaces text in the current file.
+在当前文件里替换文本。
+
+Lists all symbolic information for the current project.
+列出当前项目的所有符号信息。
+
+Saves the current file to a new name.
+用新名字保存当前文件。
+
+Saves the current file to disk.
+保存当前文件到硬盘。
+
+Closes the current file.
+关闭当前文件。
+
+Opens or creates a new file in the current project.
+在当前项目里打开或者新建文件。
+
+Creates a new open file.
+新建文件并打开。
+
+Defines new commands that can invoke external programs.
+定义新命令，可以从外部调用。
+
+Displays file statistics in the status bar.
+在状态栏显示文件统计。
+
+Pastes text from a named clip buffer.
+从命名剪切区粘贴文本。
+
+Toggle the Select vs. Extend modes for selections.
+切换选择和扩展模式。
+
+Moves cursor to the next blank line.
+移动光标到下一空行。
+
+Moves cursor to the previous blank line.
+移动光标到上一空行。
+
+Moves the cursor to the first Source Link destination.
+移动光标到第一个源链接目标。
+
+Moves the cursor to the previous Source Link destination.
+移动光标到上一个源链接目标。
+
+Moves the cursor to the next Source Link destination.
+移动光标到下一个源链接目标。
+
+Parses Source Links out of the current file.
+解析当前文件的源链接。
+
+Selects all text in the current file.
+选择当前文件的所有文本。
+
+Moves the cursor to the previous location in the Selection History.
+移动光标到上一处历史选择。
+
+Searches for the next occurrence of the search pattern.
+搜索下一次出现的位置。
+
+Arranges the two most recently used windows.
+安放两个最近使用的窗口。
+
+Moves cursor to the previous opening block/brace.
+移动光标到上一处开放的块或括号。
+
+Moves cursor to the following closing block/brace.
+移动光标到下一处闭合的块或括号。
+
+Moves cursor to the previous opening parentheses.
+移动光标到上一处开放的括号。
+
+Moves cursor to the following closing parentheses.
+移动光标到下一处闭合的括号。
+
+Scrolls window halfway down.
+往下滚动窗口。
+
+Scrolls window halfway up.
+往上滚动窗口。
+
+Renames a file on disk and in a project.
+重命名或移除硬盘上的文件
+
+Displays Source Insight online help.
+显示Source Insight在线帮助。
+
+Custom Command or Editor Macro.
+自定义命令或编辑宏。
+
+Cuts the line from selection to the end of the line.
+从所选开始剪切到行尾。
+
+Cuts the line from the beginning up to the selection.
+从行头开始剪切到所选。
+
+Cuts the word to the right of the selection.
+剪切选区右侧的单词片段。
+
+Scrolls window up by one line.
+往上滚动窗口一行。
+
+Scrolls window down by one line.
+往下滚动窗口一行。
+
+Exits Source Insight.
+退出Source Insight。
+
+Toggles Insert vs. Overstrike mode.
+切换插入和改写模式。
+
+Moves the cursor to the bottom of the window.
+移动光标到窗口底部。
+
+Moves the cursor to the bottom of the file.
+移动光标到文件底部。
+
+Moves the cursor to the end of the line.
+移动光标到行结尾。
+
+Moves the cursor to the top of the window.
+移动光标到窗口顶部。
+
+Moves the cursor to the top of the file.
+移动光标到文件顶部。
+
+Moves the cursor to the beginning of the line.
+移动光标到行开头。
+
+Cuts the whole line(s) containing the selection.
+剪切整行，包含所选。
+
+Delete the character at the cursor.
+删除光标处字符。
+
+Moves the cursor right one word.
+光标右移一个单词。
+
+Moves the cursor left one word.
+光标左移一个单词。
+
+Scrolls down by one page.
+往下滚动一页。
+
+Moves the cursor right one character.
+光标右移一个字符。
+
+Moves the cursor left one character.
+光标左移一个字符。
+
+Moves the cursor down one line.
+光标下移一行。
+
+Moves the cursor up one line.
+光标上移一行。
+
+Moves the cursor left one tab stop.
+光标左移一个制表位。
+
+Inserts a tab character.
+插入制表符。
+
+Opens the last file closed.
+打开最后关闭文件。
+
+---Menu Separator---
+---菜单分隔符---
+
+Separates items on menus.
+分隔菜单上的项目。
+
+The macro value column should be less than the continuation column.
+宏值栏必须比后续栏小。
+
+The macro name column should be less than the macro value column.
+宏名栏必须比宏值栏小。
+
+The field member column should be less than the bit-field column.
+文件成员栏必须比位域栏小。
+
+Are you sure you want to reset the built-in presets to defaults?
+确认要重置内置预设值？
+
+Are you sure you want to delete the %s preset?
+确认要删除 %s 预设值？
+
+What do you want to import?
+你想导入什么？
+
+This can import part of your settings from a version 3.x configuration file. Your current configuration will be saved in a backup file.
+你可以导入V3.X版配置文件。当前配置将保存为备份。
+
+Are you sure you want to reset keyboard to defaults?
+确认要重置按键？
+
+Do you want to remove that keystroke from the "%s" command?
+从 %s 命令移除快捷键？
+
+%s directory cannot be created.
+无法创建目录 %s。
+
+%s directory does not exist.\n\nDo you want to create it now?
+目录 %s 不存在。\n\n现在创建它？
+
+This will scan your project files, trying to determine what preprocessor variables are defined.\n\nIs it OK to continue?
+将要扫描项目文件，查找已定义的预处理参数。\n\n继续？
+
+Please select at least one element to load.
+请至少选择载入一个元素。
+
+You've changed an indexing option for the project's symbol database.\n\nDo you want to re-index your whole project now?
+你已经修改了项目符号数据库的索引参数。\n\n立刻重新索引整个项目？
+

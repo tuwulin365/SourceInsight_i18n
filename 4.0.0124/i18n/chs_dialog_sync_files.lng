@@ -1,0 +1,24 @@
+Synchronize Files
+同步文件
+
+This synchronizes the project database with your sources files. This normally happens automatically in the background, but you may want to do this now if a lot of files have changed and you want to update symbol information now.
+这将同步项目数据库和源文件。这通常会在后台自动执行，你也可以在修改了大量文件，需要更新符号信息时手动执行。
+
+Database Updates
+数据库更新
+
+Force all files to be re-parsed
+强制预解析所有文件
+
+Synchronize the current source file only
+只同步当前源文件
+
+Adding and Removing Files
+添加删除文件
+
+Add new files automatically
+自动添加新文件
+
+Start
+开始
+

@@ -1,0 +1,495 @@
+Edits the file in a file window.
+在文件窗编辑文件。
+
+Opens a backup version of the current file.
+打开当前文件的备份。
+
+Compares the current file to an older backup version.
+比较当前文件和其备份文件。
+
+Saves window arrangement to a layout file.
+保存窗口布局到布局文件。
+
+Manages Presets for reformating source files.
+管理格式化源代码的预设值。
+
+Copies text or graphics to the system clipboard.
+复制文本或图形到系统剪切板。
+
+Sets the selected bookmark to the current source line.
+设置所选书签到当前源码行。
+
+Sets bookmarking options.
+设置书签选项。
+
+Activates the Bookmarks window.
+激活书签窗。
+
+Toggles the Bookmarks window on and off.
+开关书签窗。
+
+Shows the properties of the selected bookmark.
+显示所选书签的属性。
+
+Jumps to the selected bookmark.
+跳转到所选书签。
+
+Deletes the selected bookmark.
+删除所选书签。
+
+Adds a new bookmark.
+添加新书签。
+
+Sets options for the vertical scroll bar.
+设置垂直滚动条选项。
+
+Specifies options for source file windows.
+设置源码窗选项。
+
+Sets options for the Project File Type window.
+设置项目文件类型窗选项。
+
+Imports symbols from external sources, libraries and assemblies for all projects.
+为所有项目导入外部符号，来自外部源码、库。
+
+Toggles the window tabs on and off.
+开关窗口标签。
+
+Deletes the selected right-hand files.
+删除右侧选中的文件。
+
+Displays the Tools menu.
+显示歌剧菜单。
+
+Deletes the selected left-hand files.
+删除左侧选中的文件。
+
+Shows the Compare File window.
+显示文件比较窗。
+
+Shows the Compare Directory window.
+显示目录比较窗。
+
+Re-examines files and refreshes the display.
+检查文件并刷新显示。
+
+Copies the selected text to the right file.
+复制所选文本到右侧文件。
+
+Copies the selected text to the left file.
+复制所选文本到左侧文件。
+
+Copies the selected file to the right side.
+复制所选文件到右侧。
+
+Copies the selected file to the left side.
+复制所选文件到左侧。
+
+Selects the next file that is different.
+选择下一个不同的文件。
+
+Selects the previous file that is different.
+选择上一个不同的文件。
+
+Shows the next block of differing lines in the file compare window.
+在文件比较窗中显示下一个差异块。
+
+Shows the previous block of differing lines in the file compare window.
+在文件比较窗中显示上一个差异块。
+
+Displays the Directory Compare window.
+显示目录比较窗。
+
+Displays the File Compare window.
+显示文件比较窗。
+
+Sets options for the Directory Compare Window.
+设置目录比较窗。
+
+Toggles 'Mono Font View' in the Context Window.
+切换上下文窗的"等宽体视图"。
+
+Toggles 'Mono Font View' in the File Compare Window.
+切换文件比较窗的"等宽体视图"。
+
+Sets options for the File Compare Window.
+设置文件比较窗。
+
+Toggles line numbers in the File Compare Window.
+切换文件比较窗行号。
+
+Compares the current file to another file.
+比较当前文件和另一个文件。
+
+Renames the current project.
+重命名当前项目。
+
+Copies the current project to a new project.
+复制当前项目。
+
+Sets options for the Project Symbol Category window.
+设置项目符号集窗。
+
+Sets options for the Project Symbol window.
+设置项目符号窗。
+
+Sets options for the Project Folder Browser window.
+设置项目文件夹浏览窗。
+
+Toggles expansion of the selected outline region.
+切换展开所选区域大纲。
+
+Turns outline view on and off in the current file.
+开关当前文件的大纲视图。
+
+Collapses the major blocks.
+折叠主代码块。
+
+Expands all blocks.
+展开所有块。
+
+Picks the list font and colors.
+设置列表字体和颜色。
+
+Opens the selected files on the remote host.
+打开远程主机的文件。
+
+Renames the selected file on the remote host.
+重命名远程主机的文件。
+
+Deletes the selected files from the remote host.
+从远程主机删除所选文件。
+
+Activates the selected window.
+激活选择窗。
+
+Tiles the selected windows vertically.
+纵向平铺所选窗口。
+
+Tiles the selected windows horizontally.
+横向平铺所选窗口。
+
+Restores the selected file windows.
+恢复所选窗口。
+
+Minimizes the selected file windows.
+最小化所选窗口。
+
+Saves the selected files.
+保存所选文件。
+
+Closes the selected windows.
+关闭所选窗口。
+
+Sets options for the FTP Browser window.
+设置FTP窗口。
+
+Uploads files to the remote host.
+更新远程主机文件。
+
+Downloads the selected files from the remote host.
+从远程主机下载文件。
+
+Refreshes file list from the remote host.
+刷新远程主机文件列表。
+
+Disconnects from the remote host.
+来自远程主机的连接。
+
+Connects to remote host.
+连接远程主机。
+
+Toggles the FTP Browser on and off.
+开关FTP浏览器。
+
+Saves the current file to HTML.
+保存当前文件为HTML。
+
+Exports all project source files to HTML.
+导出所有项目文件为HTML。
+
+Enables event handler functions to be called.
+启用事件处理函数。
+
+Removes the special window color.
+移除特殊窗口颜色。
+
+Sets the special window color.
+设置特殊窗口颜色。
+
+Specifies the location of data folders.
+指定数据文件夹位置。
+
+Loads a session workspace file.
+载入会话区文件。
+
+Loads window arrangement from a layout file.
+从布局文件载入窗口布局。
+
+Removes spaces and tabs from the ends of all lines.
+移除行尾的空白。
+
+Parses the current file on demand.
+立即解析当前文件。
+
+Update class member function declarations.
+更新类成员函数声明。
+
+Toggles the display of visible spaces.
+切换显示空格。
+
+Toggles the display of visible tabs.
+切换显示tab。
+
+Toggles the display of visible white space.
+切换显示空白。
+
+Inserts text on each line of the selection.
+在选区的每行首插入文本。
+
+Slide In Text
+行首插入
+
+Text to Insert:
+插入文本:
+
+Converts tabs to equivalent spaces.
+转换tab为等量的空格。
+
+Converts spaces to equivalent tabs.
+转换空格为等量的tab。
+
+Specifies options used in a remote desktop session.
+设置远程桌面会话。
+
+Deletes the whole line(s) containing the selection. Clipboard uneffected.
+删除包含所选的整行。剪切板不受影响。
+
+Replaces a mathmatical expression with its result.
+用结果替换数学表达式。
+
+Prints the selected files.
+打印所选文件。
+
+Sets options for the Window List.
+设置窗口列表。
+
+Opens and selects the Window List.
+打开窗口列表。
+
+Toggles the Window List on and off.
+开关窗口列表。
+
+Reformats and beautifies the current file or selection.
+重新排版当前文件或选区。
+
+Toggles the vertical scroll bar in the current window on and off.
+开关当前窗口的垂直滚动条。
+
+Toggles the enhanced vertial scroll bar in the current window on and off.
+开关当前窗口的增强垂直滚动条。
+
+Searches across selected files.
+搜索所选文件。
+
+Prints the relation window.
+打印关联窗。
+
+Toggles simple source code display with mono-spaced font.
+切换等宽字体的简单源码显示。
+
+Lets you activate and deactive your license.
+激活或冻结软件许可。
+
+Inserts a + character.
+插入字符+
+
+Inserts a - character.
+插入字符-
+
+Inserts a * character.
+插入字符*
+
+Insert a / character.
+插入字符/
+
+Creates common external projects.
+创建普通外部项目。
+
+Touches all files referenced in the relation window.
+更新关联窗内所有文件的时间。
+
+Edits custom language properties.
+编辑自定义语言属性。
+
+Jumps to the caller or reference of the current function or identifier.
+跳转到函数或符号的定义或引用。
+
+Specifies general preferences.
+设置常规首选项。
+
+Recomputes the relation window.
+重新计算关联窗。
+
+Goes to the Source Insight website.
+前往Source Insight网页。
+
+Shows or hides the Outlining toolbar.
+显示或隐藏大纲栏。
+
+Shows or hides the Layout toolbar.
+显示或隐藏布局栏。
+
+Shows or hides the Browsing toolbar.
+显示或隐藏工具栏。
+
+Shows or hides the Build toolbar.
+显示或隐藏构建栏。
+
+Shows or hides the Source Control toolbar.
+显示或隐藏源码控制栏。
+
+Shows or hides the View toolbar.
+显示或隐藏视图栏。
+
+Shows or hides the Arrangement toolbar.
+显示或隐藏布局栏。
+
+Shows or hides the Symbols toolbar.
+显示或隐藏符号栏。
+
+Shows or hides the Navigation toolbar.
+显示或隐藏导航栏。
+
+Shows or hides the Search toolbar.
+显示或隐藏搜索栏。
+
+Shows or hides the Edit toolbar.
+显示或隐藏编辑栏。
+
+Shows or hides the File toolbar.
+显示或隐藏文件栏。
+
+Shows and hides toolbars.
+显示或隐藏工具栏。
+
+Runs the current project program.
+运行当前项目程序。
+
+Compiles the current file.
+编译当前文件。
+
+Performs a 'clean' build of the whole project by rebuilding everything.
+全部重构实现"干净"构建整个项目。
+
+Builds the whole project.
+构建整个项目。
+
+Gets the latest version of the current file from the Source Control Project.
+从源码控制系统获取当前文件的最新版。
+
+Gets the latest version of all Source Control Project files.
+从源码控制系统获取所有文件的最新版。
+
+Undoes the checkout of the current file from the Source Control Project.
+撤销从源码控制系统检出当前文件。
+
+Checks the current file out of the Source Control Project.
+确认当前文件取自源码控制系统。
+
+Checks the current file into the Source Control Project.
+确认当前文件加入源码控制系统。
+
+Toggles the window's transparency.
+切换窗口透明度。
+
+Views relationships to the selected symbol in the Relation Window.
+在关联窗查看所选符号的关联者。
+
+Inserts a character by ASCII value.
+通过ASCII码插入字符。
+
+Toggles the case of the selected text.
+切换所选文本大小写。
+
+Converts the selected text to lowercase.
+转换所选文本为小写。
+
+Converts the selected text to uppercase.
+转换所选文本为大写。
+
+Special edit commands.
+特殊编辑命令。
+
+Opens a recently used file.
+打开最近使用文件。
+
+Determines which relationship to expand for the selected item.
+决定为所选组件扩展哪个关联。
+
+Copies selected list entries to the clipboard.
+复制所选列表到剪切板。
+
+Specifies options for looking up symbol definitions.
+设置查找符号定义。
+
+Specifies typing and editing options.
+设置输入于编辑。
+
+Moves the cursor to the declaration of the selected function prototype.
+移动光标到所选函数的声明。
+
+Edits the value of the selected parsing condition.
+编辑所选解析条件的值。
+
+Specifies options for searching files.
+设置搜索文件。
+
+Moves the cursor to the end of the line or file.
+移动光标到行或文件结尾。
+
+Moves the cursor to the beginning of the line or file.
+移动光标到行或文件开头。
+
+Simply inserts a tab and overrides 'Smart Tab' behavior.
+直接插入tab，忽略"智能tab"功能。
+
+Moves the cursor back to the previous set of modified lines.
+移动光标到上一个修改行。
+
+Moves the cursor forward to the next set of modified lines.
+移动光标到下一个修改行。
+
+Inserts tabs or selects the next interesting field on the line.
+插入tab或选择下一个关注域。
+
+Changes the view of the Relation Window.
+修改关联窗视图。
+
+Removes all word highlighting in all source windows.
+移除源码窗内所有高亮的词。
+
+Specifies options for syntax decorations and auto-annotations used when displaying source files.
+设置显示源码文件时的语法修饰和自动标注。
+
+Collapses the selected block.
+折叠所选块。
+
+Expands the hidden block.
+展开隐藏块。
+
+Shows more information in graph nodes.
+在图形节点中显示更多信息。
+
+Renames a the selected file or directory.
+重命名所选文件或目录。
+
+Creates a new sub-directory in the current directory.
+在当前目录新建子目录。
+
+Deletes the selected file or directory from the disk.
+从硬盘删除所选文件或目录。
+
+Creates a new file in the current directory.
+在当前目录新建文件。
+

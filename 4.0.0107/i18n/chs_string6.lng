@@ -1,0 +1,309 @@
+You have %d days remaining in your trial.
+你还可以试用 %d 天。
+
+You must puchase a serial number to continue using Source Insight.
+你必须购买一个序列号才能继续使用Source Insight。
+
+Trial License Expired.
+使用许可过期。
+
+Deferred Activation license file loaded.
+延迟载入许可文件。
+
+The license file is for a Beta version of Source Insight, and cannot be used with the release version.
+该许可文件用于Beta版Source Insight，不能用于release版。
+
+Your license has been activated locally to allow you to run Source Insight.\n\nThere were network errors, or the licensing system did not respond. Source Insight will register with the licensing system later.
+你的许可已经在本地激活，你可以运行Source Insight。\n\n发生网络错误，或者许可系统无响应。Source Insight将稍后注册。
+
+An invalid serial number was given on the command line. It will be ignored.
+输入了一个无效的序列号，将被忽略。
+
+The license on this machine is for a Beta version of Source Insight. Do you want to remove the Beta license and continue with a new license?\n\nClick Yes to continue, or No to exit Source Insight and keep the old license.
+本机的许可用于Beta版Source Insight。移除Beta许可使用新许可？\n\n单击"Yes"继续，或者"No"退出Source Insight，继续使用旧许可。
+
+Expired License loaded.
+载入过期许可。
+
+Your trial version will expire soon in %d days.\n\nWe hope Source Insight has been helpful. Thank you for trying it out!
+你的试用许可即将在 %d 天后过期。\n\n希望Source Insight对你有帮助。感谢试用！
+
+Expired License detected.
+检测到过期许可。
+
+Unable to open "%s".
+无法打开 %s。
+
+Enabling event handlers can pose a security risk. Do you want to enable event handlers?
+启用时间处理器会造成安全隐患。启用事件处理器？
+
+Event Handlers cannot be enabled from an executing macro.
+事件处理器不能在执行宏里启用。
+
+Macro procedure not implemented.
+宏处理没有实现。
+
+Event handlers have been disabled for now. You can enable them again by restarting Source Insight.
+事件处理器一倍禁用。你可以通过重启Source Insight再试启用它。
+
+Macro Error%s: %s\n\n%s at line %d:\n\n-> %s\n\nDo you want to dump variables?
+宏错误 %s : %s\n\n%s 在第 %d 行:\n\n-> %s\n\n导出变量？
+
+There is a new installed version of %s.\n\nDo you want to copy that over your personal copy?  A backup version of your file will be saved in the same folder.
+发现已安装的新版 %s。\n\n覆盖你的个人副本？你的文件备份将保存在相同文件夹。
+
+Unable to open or create the project directory file: %s.
+无法创建项目目录文件: %s。
+
+Marking %s files for reparsing in project: %s.
+标记 %s 文件以便在项目 %s 里解析。
+
+Project cannot be opened: %s.\n\nUse a newer version of Source Insight to open it
+无法打开项目: %s。\n\n使用新版Source Insight打开它。
+
+%s is not a valid directory.
+%s 是无效目录。
+
+Unable to import project %s : It appears to be corrupted.\n\nOpen it in version 3.5 and rebuild it using Project > Rebuild Project. Then try importing again.
+无法导入项目 %s:它似乎损坏了。\n\n在3.5版里打开并重构它，团购尝试重新导入。
+
+Unable to open project %s for import.
+无法打开项目 %s，不能导入。
+
+Project: %s is corrupted and needs rebuilding.  Do you want to rebuild it now?
+项目 %s 损坏需要重构。立即重构？
+
+Converting to relative file paths in project %s.\n\nPlease wait...
+转换为文件相对路径，相对于项目 %s。\n\n请稍候...
+
+Cannot rename project to %s.\n\n The project is already open.
+无法重命名项目为 %s。\n\n项目已经打开。
+
+Project: %s has been rebuilt.
+项目 %s 已经重构。
+
+Project: %s has NOT been rebuilt.
+项目 %s 还没有重构。
+
+Project: %s is no longer open.
+项目% s 没有打开。
+
+The project has been converted successfully.
+成功转换项目。
+
+There was an error converting the project. The project has not been created.
+转换项目时发生错误。项目没有被创建。
+
+Do you want to convert project %s to the new version 4 format?  This may take a few minutes.\n\nClicking No will leave the project unopened.\n\nClicking Yes will make a copy and convert it.
+转换项目 %s 为新的v4版本格式。这将花几分钟。\n\n单击"No"将不会打开项目。\n\n单击"Yes"生成副本，然后转换它。
+
+File "%s" is not saved on disk.
+文件 %s 还没有保存。
+
+Error opening project: "%s".
+打开项目 %s 错误。
+
+There was an error opening project: "%s".
+打开项目 %s 发生错误。
+
+Project %s is busy and cannot be opened. Another instance of Source Insight may be modifying it.
+项目 %s 繁忙不能打开。可能另一个Source Insight在编辑它。
+
+Cannot continue because the project is read-only.\n\n%s
+无法继续，因为项目是只读。\n\n%s
+
+%s project needs to be re-indexed due to improvements.\n\nDo you want to do that now?
+为改善性能需要重索引项目 %s。\n\n立即执行吗？
+
+%s project needs to be automatically rebuilt due to improvements.\n\nDo you want to do that now?
+为改善性能需要自动重构项目 %s。\n\n立即执行吗？
+
+Unsupported project version: %s; it cannot be opened.
+项目版本不支持: %s，无法打开。
+
+Are you sure you to print all %d files?
+确认要打印这 %d 个文件？
+
+Cannot rename directory in this view.
+无法在该视图重命名目录。
+
+Are you sure you want to remove the selected files and directories from the project?
+确认要从项目移除所选的文件和目录？
+
+%s could not be deleted.
+无法删除 %s。
+
+No files were deleted.
+没有删除文件。
+
+%s is a directory.\n\nDo you want to remove all selected directory trees?
+%s 是目录。\n\n移除所选的目录树？
+
+Are you sure you to DELETE all %d files from disk? This cannot be undone.
+确认要从硬盘上删除这 %d 个文件？该操作不能撤销。
+
+Are you sure you want to permanently DELETE the selected files? This cannot be undone.
+确认要永久删除所选文件？该操作不能撤销？
+
+Cannot create %s because it is already open.
+无法创建 %s，因为已经打开。
+
+Are you sure you to open all %d files?
+确认要打开这 %d 个文件？
+
+Are you sure you want to open all %d items?
+确认要打开这 %d 个组件？
+
+Do you want to add the files you dropped to the project?
+添加拖拽到项目的文件？
+
+While synchronizing %s, the file could not be opened.
+同步 %s 时，不能打开文件。
+
+You've changed conditional parsing settings.\n\nDo you want to re-parse your whole project now?
+你修改了条件解析设置。\n\n立即重新解析整个项目？
+
+Recording will be stopped.  Continue?
+将会停止记录。继续？
+
+--End Relation Window lookup-------
+--结束关联窗查找-------
+
+--Relation Window lookup-----------
+--关联窗查找-------
+
+Number of levels to expand?
+展开该层级？
+
+Continue searching for any reference to %s?
+继续搜索对 %s 的引用？
+
+An old version of Source Insight was found. Do you want to import configuration settings from it?\n\nYou can import it at any time by using Options > Load Configuration.
+发现旧版Source Insight。想要导入配置文件吗？\n\n你可以随时导入，见"选项 > 载入配置"。
+
+Would you like to create a new source code project now?
+立即新建源码项目？
+
+You can import symbols at any time by using Options > Preferences: Symbol Lookups.
+你可以随时导入符号，见"项目 > 首选项:符号查找"。
+
+This file contains Source Insight themes for visual settings.
+该文件包含 Source Insight 主题设置。
+
+You did not select any themes to import. Please checkmark at least 1 theme.
+你没有选择如何主题。请至少选择一个主题。
+
+Select which themes you want to import from the file. Existing themes with the same name will be replaced by the imported theme.
+选择一个想要导入的主题。以存在的同名主题将被导入的主题替换。
+
+A theme named %s already exists. Do you want to replace it?
+名为 %s 的主题已经存在。想要覆盖它？
+
+Are you sure you want to redefine the %s theme?
+确认要重定义主题 %s？
+
+You cannot redefine the Default Theme because it is preset.
+无法重定义预设的默认主题。
+
+There are new installed visual themes.\n\nDo you want to import the new themes? You will get to pick which themes to import. A backup version of your old theme file will be saved in the same folder.
+发现新安装的主题。\n\n导入新主题？你可以选择导入主题。旧主题文件的备份将被保存在相同文件夹。
+
+Symbol relationship hiearchy is too deep for complete calculation.
+符号关联层次太深不能完成计算。
+
+%s contains lines longer than the maximum.\nOne or more lines were truncated.
+%s 包含的行长度超限。\n至少一行被截断。
+
+You must select two symbols to compare.
+为比较必须选择两个符号。
+
+Are you sure you to DELETE all %d files from DISK?
+确认要从硬盘上删除这 %d 个文件？
+
+Are you sure you want to permanently DELETE the selected files?
+确认要永久删除所选文件？
+
+Are you sure you want to remove the selected files from the project?
+确认要从项目移除所选的文件？
+
+Not enough memory for Windows Clipboard.
+系统剪切板所需内存不足。
+
+There are new installed snippets.\n\nDo you want to import the new snippets? A backup version of your old snippet file will be saved in the same folder.
+发现新的代码段。\n\n导入新的代码段？旧代码段文件的备份将被保存在相同文件。
+
+Please enter a valid snippet name. The name can be a combination of alpha-numeric or underscores, but must start with an alpha or underscore character.
+请收入有效的代码段名称。名称可以包含字母数字和下划线，必须以字母或下划线开头。
+
+Please enter a snippet name.
+请输入代码段名称
+
+Is it OK to delete the selected snippet?
+删除所选代码段？
+
+Are you sure you want to delete %d snippets?
+确认要删除这 %d 个代码段？
+
+Are you sure you want to delete all global snippets and set them to defaults? This is cannot be undone.
+确认要删除所有全局代码段，并设置为默认值？该操作不能撤销。
+
+Project data file is corrupted or missing.
+项目数据文件损坏或丢失。
+
+The Tab Tray can be enabled again by selecting Options > Preferences: Display, and clicking 'Tab Tray'.
+标签盘可以再次开启，在"选项 > 首选项"，单击"标签盘"。
+
+Can't find all files needed to recover.
+无法找到所有要恢复的文件。
+
+Could not open the recovery file: %s.
+无法打开恢复文件: %s。
+
+Warning: "%s" is required for recovery, but it cannot be opened. If it was on a network drive, reconnect that drive now and click Try Again.\n\nClick Continue to proceed without it.
+警告: %s 请求恢复，但无法打开它。如果它是网盘，请重连网盘并单击重试。\n\n单击"继续"忽略它。
+
+The Recovery File format has changed.  Recovery cannot be performed with this version of the software.
+恢复文件格式改变。该版本软件无法进行恢复。
+
+Recovery was not performed.
+恢复没有执行。
+
+Warning: "%s" does not exist and cannot be opened.
+警告: %s 不存在无法打开。
+
+The original file: "%s" has changed since the recovery file was updated.  The recovered file will possibly be an older version.\n\nContinue with recovery?
+原文件 %s 已经改变。恢复文件可能是旧的。\n\n继续恢复？
+
+The Workspace File format has changed.  You must use a newer version of this software to open it.\n\nFile: %s
+工作区文件格式改板。必须使用新版软件打开它。\n\n文件: %s
+
+Out of Undo space for %s.  Do you want to empty the Undo list and continue?
+撤销区空间不足。清空撤销列表并继续？
+
+You are about to undo changes that have already been saved to disk.\n\nDo you want to continue?
+你想要撤销已保存到硬盘的修改。\n\n继续？
+
+Recovery was successful.  %s unsaved changes.\n\nBe sure to check over the files that you changed to make double sure that the recovery was correct.
+恢复成功。%s未保存的改动。\n\n请再三确认你修改的文件被正确恢复。
+
+No files contain
+没有文件包含
+
+One file contains
+一个文件包含
+
+There are %d files containing
+%d 个文件包含
+
+Do you want to retry the recovery process?
+希望尝试恢复？
+
+The workspace file %s could not be written.  Do you want to continue to close all files?
+无法写入工作区文件 %s。继续关闭所有文件？
+
+There are captured Custom Commands still running.  Do you want to continue?
+已有自定义命令在运行。继续？
+
+Window Tabs can be enabled again by selecting View > Window Tabs.
+通过"视图 > 窗口标签"可以再次启用窗口标签。
+

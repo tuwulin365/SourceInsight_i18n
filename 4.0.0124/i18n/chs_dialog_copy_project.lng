@@ -1,0 +1,9 @@
+Copy Project
+复制项目
+
+Also copy the project's source backup files
+同时复制项目的源备份文件
+
+This creates a new project by cloning the current project. Only project data files are copied. Your source files will not be copied. We recommend a local non-networked drive for the project data directory.
+这将克隆当前项目。只会复制项目数据文件，不会复制源文件。建议项目数据文件存放在非网盘。
+

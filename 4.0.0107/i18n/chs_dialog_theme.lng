@@ -1,0 +1,51 @@
+Manage Visual Themes
+管理主题
+
+A Theme is a collection of font and color settings, plus style settings used in source code windows. To record the current settings to a new theme, click the 'Define' button.
+主题包含字体和颜色设置，以及源码窗口使用的风格设置。想要保存当前主题设置，请单击"定义"按钮。
+
+Apply Theme
+应用
+
+Define...
+定义...
+
+Define Visual Theme
+定义主题
+
+You can save the current visual settings to a new or existing theme.
+你可以另存当前主题，或者覆盖已有主题。
+
+Save To:
+保存为:
+
+New Theme...
+新主题...
+
+Include In Theme
+主题包含
+
+Colors of UI elements
+UI元素颜色
+
+Panel fonts and colors
+面板字体和颜色
+
+Define
+定义
+
+Rename...
+重命名
+
+Rename Visual Theme
+重命名主题
+
+New Theme Name:
+新主题名:
+
+Import...
+导入...
+
+Export...
+导出...
+

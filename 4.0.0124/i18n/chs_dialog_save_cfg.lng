@@ -1,0 +1,144 @@
+Save Configuration
+保存配置
+
+This is used to save your customization settings to a configuration file. Each configuration file can contain one or more separate sections. Select the configuration sections you want to save.
+保存你的个性化设置到配置文件。每个配置文件都可以包含一个或多个区块。选择想要保存的区块。
+
+Configuration Sections
+配置区块
+
+Section
+区块
+
+Continue
+继续
+
+Bookmark Window options
+书签窗选项
+
+Clip Window options
+剪辑窗选项
+
+Context Window options
+上下文窗选项
+
+Defined Custom Commands
+定义自定义命令
+
+Directory Compare options
+目录比较选项
+
+Colors of various UI items
+UI部件颜色
+
+Display options
+显示选项
+
+Typing and editing options
+输入宇编辑选项
+
+File Compare options
+文件比较选项
+
+File handling options
+文件处理选项
+
+Defined File Types
+定义文件类型
+
+Defined FTP host sites
+定义FTP主机页面
+
+FTP Browser panel settings
+FTP面板设置
+
+General options
+常规选项
+
+HTML exporting options
+HTML导出选项
+
+Imported libraries for external symbols
+导入库的外部符号
+
+Key bindings
+按键绑定
+
+Settings for built-in and custom languages
+内建和自定义语言设置
+
+Menu contents
+菜单
+
+Conditional compilation definitions
+条件编译定义
+
+Misc language parser options
+杂项语言解析选项
+
+Page Setup settings
+页面设置
+
+Default project settings for new projects
+新建项目的默认设置
+
+Project File Type panel options
+项目文件类型面板选项
+
+Project File List panel options
+项目文件列表面板选项
+
+Project Folder Browser panel options
+项目目录浏览器面板选项
+
+Project Report options
+项目报告选项
+
+Project Symbol Type panel optins
+项目符号类型面板选项
+
+Project Symbol List panel options
+项目符号列表面板选项
+
+Project file synchronization options
+项目文件同步选项
+
+Relation Window settings
+关联窗设置
+
+Remote Desktop / Terminal Server options
+远程桌面选项
+
+Searching options
+搜索选项
+
+Web Searching options
+网页搜索选项
+
+Snippet Window options
+片段窗选项
+
+Source Formatter presets
+源码格式化预设
+
+Symbol Window pane options
+符号窗面板选项
+
+Syntax Decoration options
+语法修饰选项
+
+Syntax Formatting options
+语法格式化选项
+
+Toolbar contents
+工具栏
+
+Window list panel options
+窗口列表面板选项
+
+Log file settings
+日志文件设置
+
+Symbol definition lookup options
+符号定义查找设置
+

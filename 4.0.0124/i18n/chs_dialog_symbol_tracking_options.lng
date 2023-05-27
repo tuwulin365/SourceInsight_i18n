@@ -1,0 +1,27 @@
+Symbol Tracking Options
+符号追踪选项
+
+Automatic Symbol Tracking
+自动符号追踪
+
+&Off
+关
+
+Track &selected symbol (i.e. under cursor)
+追踪所选符号(即光标所指)
+
+Track the &enclosing function or class.
+追踪闭合的函数和类
+
+Activate Tracking
+激活追踪
+
+Inside of &comments
+注释内
+
+Inside of s&tring constants
+字符串常量内
+
+Inside all &file types (not just code files)
+所有文件类型(不限于代码文件)
+
