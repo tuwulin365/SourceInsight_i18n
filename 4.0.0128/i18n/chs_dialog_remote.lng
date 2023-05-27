@@ -1,0 +1,36 @@
+Remote
+远程
+
+Remote Options apply only when running in a Remote Desktop or Terminal session.
+只有使用远程桌面或者终端会话时，远程选项才会生效。
+
+Remote Session Options
+远程会话选项
+
+Disable transparent &windows
+禁用窗口透明
+
+Disable &logo graphics
+禁用Logo
+
+Disable &color gradients
+禁用颜色梯度
+
+Disable &animations
+禁用动画
+
+Disable &themes
+禁用主题
+
+Disable &smooth scrolling
+禁用平滑滚动
+
+Disable text s&hadows
+禁用文本阴影
+
+Disable double-buffered display
+禁用双缓冲显示
+
+Font Scaling: (%)
+字体缩放(%):
+

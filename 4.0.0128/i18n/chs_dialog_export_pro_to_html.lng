@@ -1,0 +1,27 @@
+Export Project To HTML
+导出项目到HTML
+
+This exports all the source files in the current project to HTML files, creating a web site for the project. The HTML files will retain most of the syntax formatting currently in use.
+把项目的所有源文件导出到HTML文件，创建一个项目Web页面。HTML文件将保留项目使用的大部分语法高亮。
+
+Destination Folder:
+目标目录:
+
+HTML file extension:
+HTML文件扩展名:
+
+Create 'Table of Contents' page
+创建目录页
+
+Use external CSS files (vs. embedded styles)
+使用外部CSS文件(相对于内嵌型)
+
+Include Hyperlinks to symbol declarations
+包含符号声明的超链接
+
+Link Symbol Types...
+链接符号类型...
+
+Export
+导出
+

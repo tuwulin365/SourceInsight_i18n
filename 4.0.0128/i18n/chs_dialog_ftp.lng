@@ -1,0 +1,57 @@
+FTP Browser Options
+FTP浏览器选项
+
+Binary / ASCII Mode:
+二进制/ASCII模式:
+
+&Auto
+自动
+
+Force &Binary mode
+二进制模式
+
+Force A&SCII mode
+ASCII模式
+
+Site List...
+网站列表
+
+New FTP Site Properties
+新FTP站点属性
+
+Site Name:
+站点名:
+
+&Host Name:
+主机名:
+
+User name:
+用户名:
+
+Password:
+口令:
+
+friendly name or description of the site
+易读名称或站点描述
+
+host address - eg: ftp.example.com
+主机地址，如 ftp.example.com
+
+user login name
+用户登录名
+
+Initial directory:
+初始目录
+
+initial remote directory
+初始化远程目录
+
+Port number:
+端口号:
+
+Keep connection alive
+保持连接
+
+Passive mode
+被动模式
+

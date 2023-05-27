@@ -1,0 +1,231 @@
+Close Other Windows
+关闭其他窗口
+
+Copy File Path
+复制路径
+
+Show File in Explorer...
+定位文件...
+
+Window Tab Options...
+窗口标签选项...
+
+Symbol Info...
+符号信息...
+
+Jump To Base Type
+跳转到基类型
+
+Jump To Prototype...
+跳转到原型
+
+Jump To Caller
+跳转到调用
+
+Show in Relation Window
+在关联窗显示
+
+Search Forward for Selection
+在选区内向下搜索
+
+Highlight Word
+高亮单词
+
+Highlight References
+高亮引用
+
+Special Window Color...
+特殊窗颜色...
+
+Collapse
+折叠
+
+Expand
+展开
+
+Collapse All
+全折叠
+
+Expand All
+全展开
+
+Outlining Options...
+折叠选项...
+
+Outlining
+折叠...
+
+Edit Condition...
+编辑条件...
+
+File Type and Language
+文件类型和语言
+
+Language Properties...
+语言属性...
+
+Syntax Keyword List...
+关键词列表...
+
+Language Options...
+语言选项...
+
+New File...
+新文件
+
+Open
+打开
+
+Delete File from Disk
+从硬盘删除文件
+
+Remove File from Project...
+从项目移除文件...
+
+Copy List
+复制表
+
+Search List...
+搜索列表...
+
+Compare...
+比较...
+
+Print File
+打印
+
+Project File List Options...
+项目文件列表选项...
+
+//Toolbar
+//底栏
+//
+Hide
+隐藏
+
+Project Symbol List Options...
+项目符号列表选项...
+
+Project Folder Browser Options...
+项目文件夹浏览选项...
+
+Project Symbol Category Window Options...
+项目符号分类窗选项...
+
+Project-Wide Rename
+智能重命名
+
+Lock Context Window
+锁定上下文窗
+
+Context Window Options...
+上下文窗选项
+
+//Cut Symbol
+//剪符号
+//
+//Copy Symbol
+//拷符号
+//
+//Paste Symbol
+//贴符号
+//
+Duplicate Symbol
+复写符号
+
+Select Symbol
+选择符号
+
+Sort Symbols By Name
+按名字排序
+
+Sort Symbols By Line
+按行号排序
+
+Sort Symbols By Type
+按类型排序
+
+Browse Local File Symbols...
+浏览当前文件符号...
+
+Save Settings
+保存设置
+
+Symbol Window Options...
+符号窗选项...
+
+Jump To Definition...
+跳转到定义...
+
+Expand Special...
+指定展开...
+
+Show Details
+显示细节
+
+View Relation
+查看关联
+
+Calls
+调用
+
+Calls and Callers
+调用和调用者
+
+References
+引用
+
+Referenced by Functions
+被函数引用
+
+Referenced by Modules
+被模块引用
+
+Referenced by Classes
+被类引用
+
+Referenced by Types
+被类型引用
+
+Container
+容器
+
+View Relation Outline
+查看关联折叠
+
+View Relation Horizontal Graph
+水平显示关联图
+
+View Relation Vertical Graph
+垂直显示关联图
+
+Lock Relation Window
+锁定关联窗
+
+Refresh Relation Window
+刷新关联窗
+
+Touch All Files in Relation
+更新窗内文件时间
+
+Relation Window Graph Options...
+关联窗图形选项...
+
+Relation Window Options...
+关联窗选项...
+
+Copy to Clipboard
+复制到剪切板
+
+Print Relation Window...
+打印关联窗...
+
+New Relation Window
+新关联窗
+
+Delete Relation Window
+删除关联窗
+
+Display Options...
+显示选项...
+

@@ -1,0 +1,72 @@
+Advanced Options
+高级选项
+
+Include extra log details
+包含额外的日志详情
+
+Use a log file
+记录日志
+
+Disable code-search index
+禁用代码搜索索引
+
+Disable import lookup for namespaces
+禁用命名空间的导入查找
+
+Disable C# built-in type aliases
+禁用 C# 的内置类型别名
+
+Disable low memory notices
+禁用低内存通知
+
+Disable parse cache files
+禁用解析缓存文件
+
+Monitor possible database corruption
+监控可能的数据库损坏
+
+Disable project server functions
+禁用项目服务器功能
+
+Disable memory mapped database files
+禁用内存映射数据库文件
+
+Disable memory mapped files
+禁用内存映射文件
+
+Disable lazy document closing
+禁用惰性文档关闭
+
+Do not keep background projects open
+不保持后台项目打开
+
+Show hidden internal symbols
+显示隐藏的内部符号
+
+Disable symbol relation cache
+禁用符号关联缓存
+
+Disable fast symbol name comparing
+禁用快速符号名称比较
+
+Disable smart display updating
+禁用智能显示刷新
+
+Disable quick-format optimizations
+禁用快速格式优化
+
+Disable format caching
+禁用格式缓存
+
+Disable line lex caching
+禁用行缓存
+
+Disable project-level symbol caching
+禁用项目级符号缓存
+
+Disable missing symbol caching
+禁用丢失符号缓存
+
+Disable symbol lookup caching
+禁用符号查找缓存
+

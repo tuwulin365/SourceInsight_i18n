@@ -1,0 +1,63 @@
+Conditional Parsing for New Project
+新项目的条件分析
+
+Conditional Parsing - %s Project
+%s 项目的条件分析
+
+Conditional Parsing - Global Settings
+全局条件分析
+
+Source Insight uses the condition values below to interpret #if and #ifdef statements. Condition values are typically defined as constants using #define statements, or compiler command line options, or in your IDE settings.
+Source Insight使用以下条件值去分析#if和#ifdef状态。条件值一般定义为只读，由#define、编译器命令行或者IDE设置里定义。
+
+Condition:
+条件:
+
+Condition
+条件
+
+Identifier
+标号
+
+&Add...
+添加
+
+&Delete
+删除
+
+Edit...
+编辑
+
+Scan Files...
+扫描文件...
+
+New Condition Identifier
+新条件标号
+
+Identifier:
+标号:
+
+Value:
+值:
+
+Set False
+设为假
+
+Set True
+设为真
+
+Ignore
+忽略
+
+Load Conditions
+载入条件
+
+Load Options:
+载入
+
+Replace all conditions
+替换所有条件
+
+Merge with existing conditions
+合并已有条件
+

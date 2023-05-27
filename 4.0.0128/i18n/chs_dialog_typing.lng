@@ -1,0 +1,87 @@
+Typing
+输入
+
+Source Editing
+源码编辑
+
+Highlight matching parentheses while typing
+输入时高亮对应的括号
+
+Keep cursor in window when paging up and down
+翻页时保持光标在窗口内
+
+Use block cursor shape
+使用块状光标
+
+Use Smart Tab for field selections
+块选择时使用智能tab
+
+Typing tab indents line, regardless of selection
+输入tab时缩进行，即使没选中
+
+Typing tab replaces current selection
+输入tab时覆盖所选文本
+
+Indent commands affect #-preprocessor statements
+缩进操作对#预处理命令也起效
+
+Use intelligent paste
+使用智能粘贴
+
+Always select pasted text after pasting whole lines
+粘贴整行时选中文本
+
+After pasting, select:
+粘贴文本之后：
+
+at start of pasted text
+光标在文本开头
+
+at end of pasted text
+光标在文本结尾
+
+all pasted text
+选中文本
+
+Auto Completion
+自动完成
+
+Use automatic symbol completion window
+使用自动完成窗
+
+Use detailed completion window
+使用详尽的自动完成窗
+
+Insert parameters for functions
+为函数插入参数
+
+Insert spaces between parameters
+参数后插入空格
+
+Insert space after function name
+函数名后插入空格
+
+Use completion window inside comments
+在注释里也使用自动完成窗
+
+Use case-sensitive matching
+区分大小写
+
+Tab key selects item
+用tab键选择
+
+Propose snippets in auto-completion list
+显示建议项目
+
+Browsing in Lists
+在列表中浏览
+
+Match fragments while typing (slower)
+输入时匹配不完整符号(更慢)
+
+Match members while typing
+输入时匹配成员
+
+Per File Type...
+文件类型...
+

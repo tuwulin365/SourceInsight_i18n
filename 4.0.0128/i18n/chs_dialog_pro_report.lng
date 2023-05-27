@@ -1,0 +1,60 @@
+Project Report
+项目报告
+
+Size
+大小
+
+Modification Date
+修改日期
+
+OBJ Size
+OBJ 大小
+
+Normalize File Names
+标准化文件名
+
+Line Count
+行数
+
+Symbols
+符号
+
+Include Symbols
+包含符号
+
+Parameters
+参数
+
+Sort by
+排序
+
+Occurrence
+位置
+
+//Name
+//名
+//
+Symbol Types...
+符号类型...
+
+Creating Project Report File...
+生成项目报告文件...
+
+Project Report for %s
+项目报告: %s
+
+Project contains %d symbol records, %d index entries, and %d files.
+项目含 %d 个符号记录，%d 个索引项和 %d 个文件。
+
+Project Source Directory: %s
+项目源目录: %s
+
+Project Data Directory: %s
+项目数据目录: %s
+
+ at line %d-%d
+ 在 %d-%d 行
+
+Lines
+行
+
