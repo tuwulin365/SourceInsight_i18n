@@ -5602,3 +5602,15 @@ Export Language Keywords
 Parameter
 参数
 
+Copy All Differences to Right
+复制所有差异到右边
+
+Copy All Differences to Left
+复制所有差异到左边
+
+Copies all the differences from the left file to the right file so both files are the same as the the left file.
+从左往右复制所有差异，这样两边都和左边文件一样。
+
+Copies all the differences from the right file to the left file, so both files are the same as the right file.
+从右往左复制所有差异，这样两边都和右边文件一样。
+
