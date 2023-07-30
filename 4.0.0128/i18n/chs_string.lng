@@ -1958,7 +1958,7 @@ Cannot open "%s"; it is already open for another purpose.
 无法打开 %s，它已经在另一处被打开。
 
 Directory of %s does not exist.
-%s 的目录不存在。
+目录不存在。\n%s
 
 The file you selected to delete is currently open.  Do you want to close and delete the file? \n\n File: %s
 想要删除的文件已经打开。关闭并删除它？\n\n文件: %s
@@ -5613,4 +5613,7 @@ Copies all the differences from the left file to the right file so both files ar
 
 Copies all the differences from the right file to the left file, so both files are the same as the right file.
 从右往左复制所有差异，这样两边都和右边文件一样。
+
+Scale %d%%
+缩放 %d%%
 
