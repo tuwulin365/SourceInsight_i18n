@@ -2413,6 +2413,9 @@ Cannot obtain a listen socket.
 FTP transfer interrupted.
 FTP传输被中断。
 
+Add External Symbols
+添加外部符号
+
 This will import symbols from external libraries and source files. Imported symbols are placed in a Source Insight Import Library project.\n\nPlease select the library symbols you want to import below.
 从外部库和源文件导入符号。导入的符号被放置在Source Insight导入库项目。\n\n请选择想要导入的库符号。
 
@@ -2436,6 +2439,24 @@ Import from another Source Insight project
 
 Import single file - .NET dll or exe, Java jar or class file
 导入单个文件 - .NET dll或exe，Java jar或类文件
+
+Locate the directory containing source files
+指定包含源文件的目录
+
+Import Tree of .NET Assemblies
+导入.NET Assemblies树
+
+Import Java JAR file
+导入Java JAR文件
+
+Import Tree of Java Classes
+导入Java类树
+
+Import Source Insight Project Symbols
+导入Source Insight项目符号
+
+Import Library File Symbols
+导入库文件符号
 
 Source Insight was unable to launch the library reflection tool.\n\nCommand Line = %s
 Source Insight无法启动库反射工具。\n\n命令行 = %s
