@@ -1,0 +1,66 @@
+Relation Window Options
+关联窗选项
+
+Automatic Expansion Options
+自动展开选项
+
+Expand duplicate branches
+展开重复分支
+
+Levels:
+层级:
+
+View Relationship
+查看关系
+
+For &Types:
+类型:
+
+For &Functions:
+函数:
+
+For &Variables, Constants:
+变量、常量:
+
+For &Classes:
+类:
+
+For Fi&les:
+文件:
+
+Show all references inside each function
+显示函数内的引用
+
+Call Graph Filtering...
+调用图形过滤...
+
+//Columns
+//栏
+//
+Show file names
+显示文件名
+
+Show code metrics:
+显示代码度量:
+
+Graph...
+图形...
+
+Exclusions
+排除
+
+Exclude Symbols...
+排除符号
+
+Exclude C Macros
+排除C语言宏
+
+Code Metric Filter
+代码度量过滤
+
+Mininum value:
+最小值:
+
+Maximum value:
+最大值:
+

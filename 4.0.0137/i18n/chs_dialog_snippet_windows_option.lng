@@ -1,0 +1,66 @@
+Snippet Window Options
+代码段窗口选项
+
+List Columns
+显示栏
+
+Snippet Description
+片段描述
+
+Language Context
+语言
+
+Storage Location
+存储位置
+
+List Contents
+显示内容
+
+Include global snippets
+包含全局代码段
+
+Include project-specific snippets
+包含项目特有代码段
+
+Show snippets only for the current language
+只显示当前语言代码段
+
+Snippet Options
+代码段选项
+
+Confirm when deleting snippets
+删除前确认
+
+Propose snippets in auto-completion as you type
+输入时在自动完成里提示代码段
+
+Enable text variables when inserting snippets
+插入代码段时启用文本变量
+
+Snippet Properties
+代码段属性
+
+Description:
+描述:
+
+Storage Location:
+存储位置:
+
+Include in auto-completion list as you type
+输入时包含在自动完成列表内
+
+Enable text variables when inserting
+插入时启用文本变量
+
+Insert onto a new line
+另起新行
+
+Language Context:
+语言:
+
+Body Text:
+主文本:
+
+Insert text variable:
+插入文本变量:
+

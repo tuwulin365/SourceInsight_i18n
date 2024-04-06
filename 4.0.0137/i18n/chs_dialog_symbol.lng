@@ -1,0 +1,36 @@
+Symbol Lookups
+符号查找
+
+Parse locally before lookup (slower, but more accurate)
+查找前局部解析(更慢但是更精确)
+
+Find symbols across different language types
+跨语言查找符号
+
+Find symbols in open files not part of the current project
+查找打开的文件，即使不属于当前项目
+
+Search project symbol path if symbol not found
+如果没找到，则搜索项目符号路径
+
+Search symbol path, even if symbol is found in current project
+搜索符号路径，即使已经在当前项目里找到符号
+
+Project symbol path:
+项目符号路径:
+
+Add Project to Path...
+添加项目到路径
+
+External Symbols
+外部符号
+
+Import Symbols for All Projects...
+为所有项目导入符号...
+
+Import Symbols in Current Project...
+为当前项目导入符号...
+
+Add Project to Symbol Path
+添加项目到符号路径
+
