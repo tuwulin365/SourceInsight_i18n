@@ -4,7 +4,7 @@ SourceInsight4汉化工程，SourceInsight4 i18n。
 
 
 链接：  
-https://pan.baidu.com/s/1XjsK0uetDVBIQyPrB2UynA  提取码：aq4g  
+https://wwys.lanzoub.com/b00g2rh4eh 密码:i8jr  
 https://cloud.189.cn/web/share?code=73aMRru6ZrEj 访问码：sqt2  
 https://www.123pan.com/s/ftltVv-mXj0d.html 提取码:1234  
 https://github.com/tuwulin365/SourceInsight_i18n 
