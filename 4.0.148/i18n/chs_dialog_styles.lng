@@ -1,0 +1,90 @@
+Style Properties
+风格属性
+
+Style Name:
+风格名:
+
+Parent Style:
+父风格:
+
+//Font
+//字体
+//
+Font Name:
+字体名:
+
+Scale: (%)
+缩放:
+
+Bold:
+黑体:
+
+Italic:
+斜体:
+
+Size:
+尺寸:
+
+Underline:
+下划线:
+
+All Caps:
+大小写:
+
+Strike-Thru:
+删除线:
+
+Foreground:
+前景色:
+
+Background:
+背景色:
+
+Shadow: 
+阴影:
+
+Inverse:
+逆向:
+
+Spacing
+分隔
+
+Above Line: (%)
+行前:
+
+Below Line: (%)
+行后:
+
+Expanded: (%)
+扩展:
+
+Fixed Whitespace:
+对齐空格:
+
+Print together with next line:
+和下行一起打印:
+
+Select a style name from the list, then view and modify its settings. Note: '=' means the property has no effect.
+从列表选择一个风格，查看和编辑设置。注意:'='表示忽略。
+
+Done
+完成
+
+Add Style...
+增加风格...
+
+Add New Style
+增加新风格
+
+Delete Style
+删除风格
+
+Load...
+载入
+
+Save...
+保存
+
+Are you sure you want to return to the default style settings?
+确认要恢复默认风格设置？
+

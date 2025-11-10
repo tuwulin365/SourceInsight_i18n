@@ -1,0 +1,5688 @@
+OK
+OK
+
+Close
+关闭
+
+Close
+关闭
+
+Cancel
+取消
+
+Cancel
+取消
+
+Browse...
+浏览...
+
+Number must be between %d and %d.
+数字必须在 %d 和 %d 之间。
+
+Are you sure you want to cancel this operation?
+确认要取消操作？
+
+Out of memory for disk cache.
+硬盘缓存的内存不足。
+
+It will be difficult to read text because the text and background colors are very similar. Are you sure you want to keep this change?
+文本和背景色太接近会导致阅读困难。确认要保留修改？
+
+Cannot print. There was an error starting the system Print dialog.
+无法打印，系统打印对话框发生错误。
+
+Cannot print. The device strings in WIN.INI could not be parsed.
+无法打印，WIN.INI里的设备字符串无法解析。
+
+Cannot print. The device driver failed to load.
+无法打印，设备驱动载入失败。
+
+Cannot print. No printer drivers were found.
+无法打印，没有找到打印机驱动。
+
+Cannot print. The [devices] section of WIN.INI did not contain an entry for the requested printer
+无法打印，WIN.INI的[devices]节不含请求的打印机入口。
+
+Cannot print. There is no default printer selected.
+无法打印，没有选择默认打印机。
+
+Internet Explorer 3.02 or newer, or ComCtl32.dll version 4.70 or newer is required.
+需要IE3.02或更新的，或者ComCtl32.dll v4.70或更新的。
+
+Are you sure you want to delete multiple items?
+确认要删除多个组件？
+
+Continue to check for future updates.
+继续检查更新？
+
+Don't remind me about this update anymore.
+忽略本次更新。
+
+Remind me later.
+稍后提醒我。
+
+Go to the update download page.
+前往更新下载页面。
+
+A Source Insight update is available.
+Source Insight有更新。
+
+Unable to sync with update server.
+无法同步更新服务器。
+
+Your version of Source Insight is up to date.\n\nYour version: %s
+你的Source Insight是最新的。\n\n你的版本: %s
+
+Unable to get update information from the server.\n\nPlease check your Internet connection and try again.
+无法链接更新服务器。\n\n请确认网络连接，再重试。
+
+There is no Internet connection.\n\nTo check for updates, Source Insight requires Internet access. Please check your Internet connection and try again.
+没有网络连接。\n\n为检查更新，Source Insight需要接入网络。请确认网络连接，再重试。
+
+The update feature has been disabled.
+更新功能被禁用。
+
+Do not open the files that were open in the last session. This resets session information such as text input history, and dialog box positions.
+无法打开上次打开的文件。这会重置会话信息，如文本输入历史和对话框位置。
+
+Reset the Window &Layout. This resets the docked and floating panels to their default positions, and backs up your current layout file. You can use View > Load Layout later to load a saved layout file.
+重置窗口布局。这会重置浮动窗和面板位置，同时备份当前布局文件。之后你可以通过"视图 > 载入布局"来载入该布局文件。
+
+Reset the &Configuration settings. This resets most options to defaults, and backs up your current settings. You can use Options > Load Configuation later to load a saved configuration file.
+重置配置设置。这将重置大部分的设置，同时备份当前设置。之后你可以通过"选项 > 载入配置"来载入该配置文件。
+
+Do not open the previous &Project. No project, or project files will be opened. You can still use Project > Open Project later to open the project.
+无法打开之前的项目。没有项目或项目文件被打开。你仍然可以通过"项目 > 打开项目"来打开项目。
+
+Source Insight is starting up. Select options below to restore items to defaults, or to prevent previous files from loading.
+Source Insight正在启动。选择下方的选项来重置组件，或禁止加载之前的文件。
+
+Do you want to open this Source Insight project?\n\n%s
+想要打开这个Source Insight项目？\n\n%s
+
+These background projects could not be opened because they need rebuilding or reindexing. They are typically used for auto-completion and syntax formatting for external symbols. Please close other Source Insight instances before rebuilding.
+这些后台项目不能被打开，想要重建或重索引。他们通常用于外部符号的自动完成和语法格式化。重构前关闭其他Source Insight实例。
+
+Rebuilding is complete. %d projects were rebuilt or reindexed.
+重构完成。%d 个项目被重构或重索引。
+
+Rebuilding is complete. One project was rebuilt or reindexed.
+重构完成。一个项目被重构或重索引。
+
+Projects are healthy. No projects need rebuilding.
+项目正常。没有项目需要重构。
+
+%s will close, but files will not be saved.  You may recover your edits by running %s again.
+%s 将被关闭，但文件不会被保存。你可以再次执行 %s 来恢复编辑。
+
+Not enough memory to complete operation.
+内存不足，不能完成操作。
+
+Low on Memory.  Please close some files.
+内存紧张，请关闭一些文件。
+
+Click to select whole lines and double click to select functions.
+单击选择整行，双击选择函数。
+
+The files from your previous session were not opened because the Reset option was used to start Source Insight.
+上一次会话的文件没有被打开，因为启动Source Insight时使用了复位选项。
+
+You must specify a project name with the /p and /pt options.
+你必须用/p或者/pt来指定项目名。
+
+You must specify a file name with the /print option.
+你必须用/p来指定文件名。
+
+You must specify a symbol name with the /f option.
+你必须用/f来指定符号名。
+
+Line number or file name should follow '+'.
+行号或者文件名须跟在"+"后面。
+
+You are in Browser Mode, so you cannot edit this file. \n\nSelect Edit > Browser Mode to toggle the mode.\n\nDo you want to turn off Browse Mode now?
+浏览模式，不能编辑该文件。\n\n通过"编辑 > 浏览模式"来切换模式。\n\n现在关闭浏览模式？
+
+The project rebuild was not completed.  The project will now close.
+项目重构没有完成。项目将被关闭。
+
+Database corruption was detected in project: %s\n%s\nThe project must be rebuilt.\n\n%s
+项目数据库损坏: %s\n%s\n项目必须被重构。\n\n%s
+
+There is not enough memory to initialize and continue running.
+内存不足，不能初始化和继续运行。
+
+The settings files could not be copied.  The settings folder location has not been changed.
+无法复制设置文件。设置文件夹已经改变。
+
+Do you want to move your existing settings files to the new settings folder?
+移动已有设置文件到新设置文件夹？
+
+The clips could not be copied.  The clips folder location has not been changed.
+无法复制剪辑。剪辑文件夹已经改变。
+
+Do you want to move your existing clips to the new clips folder?
+移动已有剪辑到新剪辑文件夹？
+
+Are you sure you want to skip recovery?\n\nPress Yes if you want to skip recovery. If you do not recover now, you will not be able to recover changes again later.
+确认要跳过恢复？\n\n按"是"跳过恢复，以后不能恢复。
+
+A previous editing session did not end normally.\n\nDo you want to attempt to recover unsaved changes?\n\nPress 'Yes' to recover previous edits.\nPress 'No' to continue without recovery. You cannot recover later.\nPress 'Cancel' to exit Source Insight. You can still recover later.
+上一个编辑会话没有正常结束。\n\n想要尝试恢复未保存的修改？\n\n按"是"恢复。\n按"否"不恢复，以后不能恢复。\n按"取消"退出Source Insight，以后还能恢复。
+
+Could not open or create registry keys.
+无法打开或重建注册表键。
+
+HKLM registry keys for Source Insight are missing. Didn't run the installer?
+Source Insight的HKLM注册表键丢失。没有运行安装包？
+
+Could not open HKLM registry keys.
+无法打开HKLM注册表键。
+
+The project files have been copied to the new projects folder.\n\nDo you want to remove the old project data files?
+项目文件已经被复制到新项目文件夹。\n\n想要移除就项目数据文件？
+
+The project files could not be copied.  The project folder location has not been changed.
+无法复制项目文件。项目文件夹已经改变。
+
+Do you want to copy your existing projects to the new projects folder?
+复制已有项目到新项目文件夹？
+
+Note: other Source Insight instances are running.
+注意:已有Source Insight实例在运行。
+
+Cannot create temporary scratch file; possibly not enough space for temporary files, or you don't have permissions for directory: %s.
+无法创建临时文件，可能没有足够的空间，或者没有该目录的权限:%s
+
+The backup files could not be copied.  The backup folder location has not been changed.
+无法复制备份文件。备份文件就已经被修改。
+
+Do you want to move your existing backup files to the new backup folder?
+移动已有备份文件到新备份文件夹？
+
+The source formatter reduced the file line count significantly. Please review the changes carefully before saving the file.
+源码格式化导致行数大幅度减少。在保存前请仔细检查改动。
+
+FTP host %s is not connected. OK to connect now?
+没有连接到FTP主机 %s。现在连接？
+
+OK to delete ALL the bookmarks?
+删除所有书签？
+
+OK to delete the selected bookmark(s)?
+删除所选书签？
+
+OK to paste file contents from %s?
+粘贴来自 %s 的文件内容？
+
+There are no open files to paste text into.
+没有打开文件，不能粘贴。
+
+%s is already open as a non-clip. Cannot use it as a clip.
+打开 %s 不作为剪辑。别把它当剪辑用。
+
+There is no source file to copy from.
+没有源文件可以复制。
+
+Opens a file with a specific encoding or codepage.
+用指定编码打开文件。
+
+Saves the current file with a specific encoding or codepage.
+用指定编码保存当前文件。
+
+Reloads the current file with a specific encoding or codepage.
+用指定编码重载当前文件。
+
+Edits the list of web search engines used by the Search Web command.
+编辑网页搜索命令使用的搜索引擎列表。
+
+Searches the Web for the item under the cursor.
+通过网络搜索光标处文本。
+
+Highlights references to the symbol at the cursor position.
+高亮光标处符号的引用。
+
+//Reports project errors caused by opening background projects.
+//报告由后台打开项目导致的错误。
+//
+Moves the cursor back to the previous highlighted reference.
+移动光标到前一个高亮引用。
+
+Moves the cursor forward to the next highlighted reference.
+移动光标到下一个高亮引用。
+
+Toggles showing nesting lines in the File Compare Window.
+切换显示文件比较窗的嵌套线。
+
+Insert a globally unique identifier.
+插入全球唯一标识符。
+
+Toggles full-screen view mode.
+切换全屏视图。
+
+Selects a visual theme to use.
+选择使用一个主题。
+
+Removes comments from each line of the selection.
+解除注释选中的每一行。
+
+Comments out each line of the selection.
+注释选中的每一行。
+
+Defines and applies visual themes for colors and fonts.
+定义和应用字体、颜色主题。
+
+Deletes the Relation Window instance.
+删除关联窗实例。
+
+Resets the window arrangement to the default setup.
+重置窗口布局。
+
+Toggles the vertical scroll bar in the File Compare window.
+切换文件比较窗的垂直滚动条。
+
+Edit the selected bookmark.
+编辑选中的书签。
+
+Deletes all bookmarks.
+删除所有书签。
+
+Shows and hides the File Compare Overview pane.
+显示或隐藏文件比较鸟瞰图窗格。
+
+Specifies options for the Overview pane.
+设定鸟瞰窗格选项。
+
+Shows and hides the Overview pane.
+显示或隐藏鸟瞰图窗格。
+
+Inserts a code snippet.
+插入代码段。
+
+Exports the selected bookmarks to a file.
+导出所选书签到文件。
+
+Imports bookmarks from a file.
+从文件导入书签。
+
+Deactivates your Source Insight license on this machine.
+冻结本机的Source Insight许可。
+
+Creates bookmarks from all items in the relation window.
+在关联窗为所有组件创建书签。
+
+Activates the Project Search Bar so you can start typing into it.
+激活项目搜索栏，可以输入。
+
+Toggles the Project Search Bar on and off.
+切换项目搜索栏的开关。
+
+Checks for new Source Insight updates.
+检查Source Insight更新。
+
+Opens the text file containing the master file list of all project files.
+打开文件，其包含所有项目的主文件列表。
+
+Saves a text file containing a list of all project files.
+保存为文件，其包含所有项目的文件列表。
+
+Activates the project symbol list in the Project Window so you can type a symbol name.
+激活项目符号列表，可以输入符号名。
+
+Activates the project file list in the Project Window so you can type a file name.
+激活项目文件列表，你可以输入文件名。
+
+Select which of the supported regular expression engines to use for text searches.
+选择正则表达式引擎，用于文本搜索。
+
+Activates the Search Bar so you can start typing into it.
+激活搜索栏，可以输入。
+
+Toggles the File Search Bar on and off.
+切换文件搜索栏的开关。
+
+Opens and activates the FTP Browser.
+打开FTP浏览器。
+
+Closes all windows other than the current window.
+关闭所有窗口，除了当前窗口。
+
+Toggles the Tab Tray at the bottom of the main window on and off.
+切换主窗口底部的标签托盘的开关。
+
+Specifies options for outlining and collapsable blocks.
+设置折叠点和折叠块选项。
+
+Shows and hides nesting lines by code blocks.
+显示或隐藏代码块的嵌套线。
+
+Copies the current file's path to the clipboard.
+复制当前文件路径到剪切板。
+
+Shows the current file in Windows Explorer.
+在资源管理器里显示当前文件。
+
+Shows the selected file in Windows Explorer.
+在资源管理器里显示所选文件。
+
+Moves the cursor left one sub-word fragment.
+光标左移一个词。
+
+Moves the cursor right to next sub-word fragment.
+光标右移一个词。
+
+Compares the selected files in the File Compare window.
+在文件比较窗里比较所选文件。
+
+Opens the selected right and left files in the editor.
+用编辑器打开两侧选择的文件。
+
+Opens the selected right side file in the editor.
+用编辑器打开右侧所选文件。
+
+Opens the selected left side file in the editor.
+用编辑器打开左侧所选文件。
+
+Controls what information is included in the Search Results for the Search and Lookup References commands.
+控制搜索结果包含哪些信息，针对搜索和查找引用命令。
+
+Copies the selected block to the clipboard.
+复制所选代码块到剪切板。
+
+Processes and replaces text variables in the selected text.
+处理和替换所选文本里的文本变量。
+
+Exports the selected snippets to a file.
+导出代码段到文件。
+
+Imports snippets from a file.
+从文件导入代码段。
+
+Sets Snippet Window options and other snippet options.
+设置代码段窗选项和其他代码段选项。
+
+Inserts and expands the selected snippet into the current file.
+插入和扩展所选的代码段到当前文件。
+
+Edits the selected snippet's properties.
+编辑所选代码段的属性。
+
+Edits the selected snippet in a file window.
+编辑所选代码段。
+
+Deletes the selected snippet.
+删除所选代码段
+
+Adds a new snippet to the snippet library.
+添加新代码段到片段库。
+
+Opens and selects the Snippet Window.
+打开和选择代码段窗。
+
+Toggles the Snippet Window on and off.
+切换代码段窗的开关。
+
+Tiles and arranges source file windows.
+平铺和布置源码窗。
+
+Shows and hides panel windows.
+显示或隐藏面板窗
+
+Imports symbols from external sources, libraries and assemblies for use with the current project.
+为当前项目导入外部源、库的符号。
+
+Completes and expands a code snippet by name.
+通过名称完成和扩展代码片段。
+
+Selects the next snippet placeholder variable, if any.
+选择下一个代码段占位符，如果有。
+
+Scrolls the window directly to the point on the scrollbar.
+直接滚动窗口到滚动条上指示的点。
+
+Compares the selected item with another.
+比较所选组件和另一个组件。
+
+Resets the window scaling to normal.
+重置窗口缩放比。
+
+Saves a function declaration header file for the current file.
+为当前文件保存一个函数声明头文件。
+
+Toggles browsing-mode on and off.
+切换浏览模式开关。
+
+Goes forward in the browsing history.
+转到下一个浏览记录。
+
+Goes backward in the browsing history.
+转到上一个浏览记录。
+
+Shows or hides the difference-list pane on the left.
+在左边显示或隐藏差异列表窗格。
+
+Edits the file in a file window.
+在文件窗编辑文件。
+
+Opens a backup version of the current file.
+打开当前文件的备份。
+
+Compares the current file to an older backup version.
+比较当前文件和其备份文件。
+
+Saves window arrangement to a layout file.
+保存窗口布局到布局文件。
+
+Manages Presets for reformating source files.
+管理格式化源代码的预设值。
+
+Copies text or graphics to the system clipboard.
+复制文本或图形到系统剪切板。
+
+Sets the selected bookmark to the current source line.
+设置所选书签到当前源码行。
+
+Sets bookmarking options.
+设置书签选项。
+
+Activates the Bookmarks window.
+激活书签窗。
+
+Toggles the Bookmarks window on and off.
+开关书签窗。
+
+Shows the properties of the selected bookmark.
+显示所选书签的属性。
+
+Jumps to the selected bookmark.
+跳转到所选书签。
+
+Deletes the selected bookmark.
+删除所选书签。
+
+Adds a new bookmark.
+添加新书签。
+
+Sets options for the vertical scroll bar.
+设置垂直滚动条选项。
+
+Specifies options for source file windows.
+设置源码窗选项。
+
+Sets options for the Project File Type window.
+设置项目文件类型窗选项。
+
+Imports symbols from external sources, libraries and assemblies for all projects.
+为所有项目导入外部符号，来自外部源码、库。
+
+Toggles the window tabs on and off.
+开关窗口标签。
+
+Deletes the selected right-hand files.
+删除右侧选中的文件。
+
+Displays the Tools menu.
+显示歌剧菜单。
+
+Deletes the selected left-hand files.
+删除左侧选中的文件。
+
+Shows the Compare File window.
+显示文件比较窗。
+
+Shows the Compare Directory window.
+显示目录比较窗。
+
+Re-examines files and refreshes the display.
+检查文件并刷新显示。
+
+Copies the selected text to the right file.
+复制所选文本到右侧文件。
+
+Copies the selected text to the left file.
+复制所选文本到左侧文件。
+
+Copies the selected file to the right side.
+复制所选文件到右侧。
+
+Copies the selected file to the left side.
+复制所选文件到左侧。
+
+Selects the next file that is different.
+选择下一个不同的文件。
+
+Selects the previous file that is different.
+选择上一个不同的文件。
+
+Shows the next block of differing lines in the file compare window.
+在文件比较窗中显示下一个差异块。
+
+Shows the previous block of differing lines in the file compare window.
+在文件比较窗中显示上一个差异块。
+
+Displays the Directory Compare window.
+显示目录比较窗。
+
+Displays the File Compare window.
+显示文件比较窗。
+
+Sets options for the Directory Compare Window.
+设置目录比较窗。
+
+Toggles 'Mono Font View' in the Context Window.
+切换上下文窗的"等宽体视图"。
+
+Toggles 'Mono Font View' in the File Compare Window.
+切换文件比较窗的"等宽体视图"。
+
+Sets options for the File Compare Window.
+设置文件比较窗。
+
+Toggles line numbers in the File Compare Window.
+切换文件比较窗行号。
+
+Compares the current file to another file.
+比较当前文件和另一个文件。
+
+Renames the current project.
+重命名当前项目。
+
+Copies the current project to a new project.
+复制当前项目。
+
+Sets options for the Project Symbol Category window.
+设置项目符号集窗。
+
+Sets options for the Project Symbol window.
+设置项目符号窗。
+
+Sets options for the Project Folder Browser window.
+设置项目文件夹浏览窗。
+
+Toggles expansion of the selected outline region.
+切换展开所选区域折叠。
+
+Turns outline view on and off in the current file.
+开关当前文件的折叠视图。
+
+Collapses the major blocks.
+折叠主代码块。
+
+Expands all blocks.
+展开所有块。
+
+Picks the list font and colors.
+设置列表字体和颜色。
+
+Opens the selected files on the remote host.
+打开远程主机的文件。
+
+Renames the selected file on the remote host.
+重命名远程主机的文件。
+
+Deletes the selected files from the remote host.
+从远程主机删除所选文件。
+
+Activates the selected window.
+激活选择窗。
+
+Tiles the selected windows vertically.
+纵向平铺所选窗口。
+
+Tiles the selected windows horizontally.
+横向平铺所选窗口。
+
+Restores the selected file windows.
+恢复所选窗口。
+
+Minimizes the selected file windows.
+最小化所选窗口。
+
+Saves the selected files.
+保存所选文件。
+
+Closes the selected windows.
+关闭所选窗口。
+
+Sets options for the FTP Browser window.
+设置FTP窗口。
+
+Uploads files to the remote host.
+更新远程主机文件。
+
+Downloads the selected files from the remote host.
+从远程主机下载文件。
+
+Refreshes file list from the remote host.
+刷新远程主机文件列表。
+
+Disconnects from the remote host.
+来自远程主机的连接。
+
+Connects to remote host.
+连接远程主机。
+
+Toggles the FTP Browser on and off.
+开关FTP浏览器。
+
+Saves the current file to HTML.
+保存当前文件为HTML。
+
+Exports all project source files to HTML.
+导出所有项目文件为HTML。
+
+Enables event handler functions to be called.
+启用事件处理函数。
+
+Removes the special window color.
+移除特殊窗口颜色。
+
+Sets the special window color.
+设置特殊窗口颜色。
+
+Specifies the location of data folders.
+指定数据文件夹位置。
+
+Loads a session workspace file.
+载入会话区文件。
+
+Loads window arrangement from a layout file.
+从布局文件载入窗口布局。
+
+Removes spaces and tabs from the ends of all lines.
+移除行尾的空白。
+
+Parses the current file on demand.
+立即解析当前文件。
+
+Update class member function declarations.
+更新类成员函数声明。
+
+Toggles the display of visible spaces.
+切换显示空格。
+
+Toggles the display of visible tabs.
+切换显示tab。
+
+Toggles the display of visible white space.
+切换显示空白。
+
+Inserts text on each line of the selection.
+在选区的每行首插入文本。
+
+Slide In Text
+行首插入
+
+Text to Insert:
+插入文本:
+
+Converts tabs to equivalent spaces.
+转换tab为等量的空格。
+
+Converts spaces to equivalent tabs.
+转换空格为等量的tab。
+
+Specifies options used in a remote desktop session.
+设置远程桌面会话。
+
+Deletes the whole line(s) containing the selection. Clipboard uneffected.
+删除包含所选的整行。剪切板不受影响。
+
+Replaces a mathmatical expression with its result.
+用结果替换数学表达式。
+
+Prints the selected files.
+打印所选文件。
+
+Sets options for the Window List.
+设置窗口列表。
+
+Opens and selects the Window List.
+打开窗口列表。
+
+Toggles the Window List on and off.
+开关窗口列表。
+
+Reformats and beautifies the current file or selection.
+重新排版当前文件或选区。
+
+Toggles the vertical scroll bar in the current window on and off.
+开关当前窗口的垂直滚动条。
+
+Toggles the enhanced vertial scroll bar in the current window on and off.
+开关当前窗口的增强垂直滚动条。
+
+Searches across selected files.
+搜索所选文件。
+
+Prints the relation window.
+打印关联窗。
+
+Toggles simple source code display with mono-spaced font.
+切换等宽字体的简单源码显示。
+
+Lets you activate and deactive your license.
+激活或冻结软件许可。
+
+Inserts a + character.
+插入字符+
+
+Inserts a - character.
+插入字符-
+
+Inserts a * character.
+插入字符*
+
+Insert a / character.
+插入字符/
+
+Creates common external projects.
+创建普通外部项目。
+
+Touches all files referenced in the relation window.
+更新关联窗内所有文件的时间。
+
+Edits custom language properties.
+编辑自定义语言属性。
+
+//Jumps to the caller or reference of the current function or identifier.
+//跳转到函数或符号的定义或引用。
+//
+Specifies general preferences.
+设置常规首选项。
+
+Recomputes the relation window.
+重新计算关联窗。
+
+Goes to the Source Insight website.
+前往Source Insight网页。
+
+Shows or hides the Outlining toolbar.
+显示或隐藏折叠栏。
+
+Shows or hides the Layout toolbar.
+显示或隐藏布局栏。
+
+Shows or hides the Browsing toolbar.
+显示或隐藏工具栏。
+
+Shows or hides the Build toolbar.
+显示或隐藏构建栏。
+
+Shows or hides the Source Control toolbar.
+显示或隐藏源码控制栏。
+
+Shows or hides the View toolbar.
+显示或隐藏视图栏。
+
+Shows or hides the Arrangement toolbar.
+显示或隐藏布局栏。
+
+Shows or hides the Symbols toolbar.
+显示或隐藏符号栏。
+
+Shows or hides the Navigation toolbar.
+显示或隐藏导航栏。
+
+Shows or hides the Search toolbar.
+显示或隐藏搜索栏。
+
+Shows or hides the Edit toolbar.
+显示或隐藏编辑栏。
+
+Shows or hides the File toolbar.
+显示或隐藏文件栏。
+
+Shows and hides toolbars.
+显示或隐藏工具栏。
+
+Runs the current project program.
+运行当前项目程序。
+
+Compiles the current file.
+编译当前文件。
+
+Performs a 'clean' build of the whole project by rebuilding everything.
+全部重构实现"干净"构建整个项目。
+
+Builds the whole project.
+构建整个项目。
+
+Gets the latest version of the current file from the Source Control Project.
+从源码控制系统获取当前文件的最新版。
+
+Gets the latest version of all Source Control Project files.
+从源码控制系统获取所有文件的最新版。
+
+Undoes the checkout of the current file from the Source Control Project.
+撤销从源码控制系统检出当前文件。
+
+Checks the current file out of the Source Control Project.
+确认当前文件取自源码控制系统。
+
+Checks the current file into the Source Control Project.
+确认当前文件加入源码控制系统。
+
+Toggles the window's transparency.
+切换窗口透明度。
+
+Views relationships to the selected symbol in the Relation Window.
+在关联窗查看所选符号的关联者。
+
+Inserts a character by ASCII value.
+通过ASCII码插入字符。
+
+Toggles the case of the selected text.
+切换所选文本大小写。
+
+Converts the selected text to lowercase.
+转换所选文本为小写。
+
+Converts the selected text to uppercase.
+转换所选文本为大写。
+
+Special edit commands.
+特殊编辑命令。
+
+Opens a recently used file.
+打开最近使用文件。
+
+Determines which relationship to expand for the selected item.
+决定为所选组件扩展哪个关联。
+
+Copies selected list entries to the clipboard.
+复制所选列表到剪切板。
+
+Specifies options for looking up symbol definitions.
+设置查找符号定义。
+
+Specifies typing and editing options.
+设置输入于编辑。
+
+Moves the cursor to the declaration of the selected function prototype.
+移动光标到所选函数的声明。
+
+Edits the value of the selected parsing condition.
+编辑所选解析条件的值。
+
+Specifies options for searching files.
+设置搜索文件。
+
+Moves the cursor to the end of the line or file.
+移动光标到行或文件结尾。
+
+Moves the cursor to the beginning of the line or file.
+移动光标到行或文件开头。
+
+Simply inserts a tab and overrides 'Smart Tab' behavior.
+直接插入tab，忽略"智能tab"功能。
+
+Moves the cursor back to the previous set of modified lines.
+移动光标到上一个修改行。
+
+Moves the cursor forward to the next set of modified lines.
+移动光标到下一个修改行。
+
+Inserts tabs or selects the next interesting field on the line.
+插入tab或选择下一个关注域。
+
+Changes the view of the Relation Window.
+修改关联窗视图。
+
+Removes all word highlighting in all source windows.
+移除源码窗内所有高亮的词。
+
+Specifies options for syntax decorations and auto-annotations used when displaying source files.
+设置显示源码文件时的语法修饰和自动标注。
+
+Collapses the selected block.
+折叠所选块。
+
+Expands the hidden block.
+展开隐藏块。
+
+Shows more information in graph nodes.
+在图形节点中显示更多信息。
+
+Renames a the selected file or directory.
+重命名所选文件或目录。
+
+Creates a new sub-directory in the current directory.
+在当前目录新建子目录。
+
+Deletes the selected file or directory from the disk.
+从硬盘删除所选文件或目录。
+
+Creates a new file in the current directory.
+在当前目录新建文件。
+
+Looks up the currently selected word in the HTML Help file.
+在HTML帮助文件里查找所选单词。
+
+Locates the external HTML Help file on your disk.
+定位硬盘上的外部HTML帮助文件。
+
+Displays a tree graph view that grows top to bottom.
+显示从上到下的树状图。
+
+Displays a tree graph view that grows left to right.
+显示从左到右的树状图。
+
+Displays an outline view.
+显示折叠视图。
+
+Parses all files in the project and tests the language parsers.
+解析项目里的所有文件并测试语言解析。
+
+Displays project files by document type in the Project Window.
+在项目窗按文档类型显示项目文件。
+
+Displays the Folder Browser in the Project Window.
+在项目窗显示文件夹浏览器。
+
+Adds and removes files from the current project.
+从当前项目添加或移除文件。
+
+Searches for text or keywords across all project files.
+在所有项目文件里搜索文本。
+
+Specifies colors of user interface items.
+设定UI组件颜色。
+
+Displays project symbols by category in the Project Window.
+在项目窗按类型显示项目符号。
+
+Displays all project symbols in the Project Window.
+在项目窗显示所有项目符号。
+
+Displays all project files in the Project Window.
+在项目窗显示所有项目文件。
+
+Creates a new Relation Window.
+新建关联窗。
+
+Manages the list of source windows.
+关联源码窗列表。
+
+Toggles the tool bar on and off.
+开关工具栏。
+
+Sets Graphing options for the Relation Window.
+设置关联窗图形。
+
+Toggles Relation Window locking. Its contents do not change when locked.
+切换关联窗锁。锁定后内部不会改变。
+
+Expands the selected item a specified number of tree levels.
+展开所选组件到指定树层级。
+
+Sets options for the Relation Window.
+设置关联窗。
+
+Sets options for the Project File List window.
+设置项目文件列表窗。
+
+Toggles the display of line numbers.
+切换行号显示。
+
+Sets options for the Symbol Window.
+设置符号窗。
+
+Restores current file to its first opened state, losing ALL changes since opening.
+恢复当前文件到首次打开的状态，放弃那之后的所有修改。
+
+Saves all open file to disk and erases its change history.
+保存所有文件到硬盘并删除修改历史。
+
+Saves the current file to disk and erases its change history.
+保存当前文件到硬盘并删除修改历史。
+
+Moves the cursor to the base structure type of the selected symbol.
+移动光标到符号基本结构体类型
+
+Allows you to enable and disable various internal caches.
+你可以开关多种内部高速缓存。
+
+Moves selected text down by several line.
+把文本下移几行。
+
+Moves selected text up by several line.
+把文本上移几行。
+
+Moves selected text down by one line.
+把文本下移一行。
+
+Moves selected text up by one line.
+把文本上移一行。
+
+Opens and selects the Relation Window.
+打开和选择关联窗。
+
+Toggles the Relation Window on and off.
+开关关联窗。
+
+Displays direct and indirect calls from the selected identifier.
+显示对所选标识符的直接和间接调用。
+
+Searches backwards incrementally while you type a pattern string.
+输入样式字符串时向上增量搜索。
+
+Specifies syntax formatting options for displaying source files.
+设置显示源码文件的语法格式。
+
+Toggles highlighting of the word under the cursor in all source windows.
+开关光标处词高亮。
+
+Saves the current file  to disk but does not replace or affect the current file.
+保存当前文件到硬盘但不影响原始文件。
+
+Edits the keyword list used for syntax formatting the current language.
+编辑用于当前语言语法高亮的关键词列表。
+
+Searches incrementally while you type a pattern string.
+输入样式字符串时增量搜索。
+
+Sets formatting properties for display styles.
+设置显示风格的格式化选项
+
+Creates a command list text file with descriptions.
+创建带描述的命令列表文件。
+
+Activates the previous current source window.
+激活前一个源窗口。
+
+Completes typing a symbol name.
+完成输入的符号名。
+
+Activates the Search Results window.
+激活搜索结果窗。
+
+Sets options for all installed languages.
+设置所有已安装语言。
+
+Sets display colors of language components.
+设置语言组件的显示颜色。
+
+Shows information on ordering Source Insight.
+显示Source Insight订购信息。
+
+Displays the System window menu.
+显示系统窗口菜单。
+
+Removes selected files from the current project.
+从当前项目移除所选文件。
+
+Reloads files that have changed outside of the editor.
+重载外部改动的文件。
+
+Undefined command; possibly from a newer version of Source Insight.
+未定义命令，可能属于新版Source Insight。
+
+Specifies file management options.
+设置文件管理。
+
+Searches for a string in the list.
+在列表中搜索字符串。
+
+Duplicates the selected symbol definition.
+创建所选符号定义副本。
+
+Pastes above the selected symbol definition.
+往上粘贴所选符号定义。
+
+Copies the selected symbol definition.
+复制所选符号定义。
+
+Cuts the selected symbol definition.
+剪切所选符号定义。
+
+Selects the whole symbol definition.
+选择整个符号定义。
+
+Extends the selection up by one page.
+选区往上扩展一页。
+
+Extends the selection down by one page.
+选区往下扩展一页。
+
+Sets options for the Context Window.
+设置上下文窗。
+
+Renames the displayed symbol in all project files.
+重命名显示的符号。
+
+Toggles Context Window locking. Its contents do not change when locked.
+切换上下文窗锁。锁定后内容不会改变。
+
+Saves a new backup version of the current file.
+为当前文件新建备份。
+
+Shows the selected symbol in the relation window.
+在关联窗显示所选符号。
+
+Splits and unsplits the current window into 2 windows.
+分割或合并窗口。
+
+Sets the font used in this window.
+设置窗口字体。
+
+Toggles the Context Window on and off.
+开关上下文窗。
+
+Makes the current settings of the window be the new Default settings.
+保存当前设置为新默认设置。
+
+Renames an identifer in all relevant locations.
+重命名标识符，应用于关联位置。
+
+Opens the selected item(s).
+打开所选组件。
+
+Locate the external WinHelp file on your disk.
+定位你硬盘上的外部帮助文件。
+
+Cuts text to a named clip buffer.
+剪切文本到命名剪切区。
+
+Displays the View menu.
+显示视图菜单。
+
+Deletes all user defined clips.
+删除所有自定义剪辑。
+
+Edits the selected clip in its own window.
+在剪辑所属窗口编辑它。
+
+Pastes text from the selected clip.
+从所选剪辑粘贴文本
+
+Copies text to the selected clip.
+复制文本到所选剪辑。
+
+Cuts text to the selected clip.
+剪切文本到所选剪辑。
+
+Sets options for the Clip Window.
+设置剪辑窗。
+
+Displays the properties of the selected clip.
+显示所选剪辑属性。
+
+Deletes the selected clip.
+删除所选剪辑。
+
+Creates or Loads a new clip.
+创建或载入新剪辑。
+
+Rolls the window up and down.
+上下滚动窗口。
+
+Opens and selects the Clip Window.
+打开并选择剪辑窗。
+
+Toggles the Clip Window on and off.
+开关剪辑窗。
+
+Opens and selects the Symbol Window for the current file.
+为当前文件打开并选择符号窗。
+
+Toggles the Status Bar on and off.
+开关状态栏。
+
+Toggles the master Toolbar on and off.
+开关主工具栏。
+
+Toggles the horizontal scroll bar in the current window on and off.
+开关当前窗口的水平滚动条。
+
+Sorts the Symbol Window by symbol type.
+按符号类型排序符号窗。
+
+Sorts the Symbol Window by line number.
+按行号排序符号窗。
+
+Sorts the Symbol Window by symbol name.
+按符号名排序符号窗。
+
+Extends the selection to the beginning of the line.
+扩展选取到行开头。
+
+Extends the selection right by one word.
+往右扩展选取一个词。
+
+Extends the selection left by one word.
+往左扩展选取一个词。
+
+Plays back the recording made with the "Start Recording" command.
+回放记录。
+
+Stops the command recorder.
+停止记录。
+
+Starts recording commands and editing operations for later playback.
+开始记录命令和编辑操作。
+
+Repeats characters that were just typed.
+复写刚才输入的字符。
+
+Redoes all edits to the current file.
+重做当前文件的所有改动。
+
+Undoes all edits to the current file.
+撤销当前文件的所有改动。
+
+Searches for references to the selected or specified word.
+搜索所选或指定单词的引用。
+
+Uses the system Open dialog box to open a file.
+使用系统打开框打开文件。
+
+Deletes a file from disk and from the project.
+删除硬盘和项目里的文件。
+
+Extends the selection to the end of the line.
+扩展选取到行结尾。
+
+Toggles the Symbol Window on and off.
+开关符号窗。
+
+Cycles through sort states for the Symbol Window.
+符号窗循环排序。
+
+Toggles the Project Window on and off.
+开关项目窗。
+
+Looks up the currently selected word in the SDK Help file.
+在SDK帮助文件查找当前所选单词。
+
+Tiles windows so that they are generally taller than they are wide.
+平铺窗口，通常高比宽大。
+
+Restarts Microsoft Windows.
+重启操作系统。
+
+Exits Source Insight and logs the current Microsoft Windows user off.
+退出Source Insight并退出用户登录。
+
+Displays the Help menu.
+显示帮助菜单。
+
+Displays the Options menu.
+显示选项菜单。
+
+Prints the current file.
+打印当前文件。
+
+Tiles windows so that they are generally wider than they are tall.
+平铺窗口，通常宽比高大。
+
+Rearranges windows by cascading them down the screen.
+层叠显示窗口。
+
+Loads the contents of the current selection into the current search pattern.
+载入当前所选内容为搜索样式。
+
+Searches for the previous occurrence of the first word in the current selection.
+在当前选区内搜索单词上一次出现的位置。
+
+Searches for the next occurrence of the first word in the current selection.
+在当前选区内搜索单词下一次出现的位置。
+
+Scrolls all windows showing the current file to same location as the current window.
+滚动全部窗口让当前文件显示在相同位置。
+
+Links all windows so that they scroll together.
+链接所有窗口让他们同步滚动。
+
+Loads a new configuration from a file.
+从文件载入新配置。
+
+Specifies options, such as screen colors, for the display.
+设置显示参数，如屏幕颜色。
+
+Saves all modified files to disk without asking first.
+不询问直接保存所有文件到硬盘。
+
+Copies to the clipboard text from cursor to end of line.
+把从光标到行尾的文本复制到剪切板。
+
+Extends selection to end of file.
+扩展选区到文件尾。
+
+Extends selection to top of file.
+扩展选区到文件头。
+
+Saves selected text to a file.
+保存所选文本到文件。
+
+Inserts text from a file.
+从文件插入文本。
+
+Rebuilds project data files.
+重构项目数据文件。
+
+Duplicates the selected text.
+复写所选文本。
+
+Moves cursor to matching brace, parentheses, or quote character.
+移动光标到匹配的括号、引号。
+
+Moves the cursor to the beginning of an extended selection.
+移动光标到扩展选区开头。
+
+Moves the cursor to the next defined function.
+移动光标到下一处函数定义。
+
+Moves the cursor to the previously defined function.
+移动光标到上一处函数定义。
+
+Restores a block of edited lines to their original contents.
+恢复已编辑块的内容。
+
+Maximizes and minimizes the current window.
+最大化和最小化当前窗口。
+
+Minimizes all but the current window.
+最小化当前窗口之外的窗口。
+
+Closes the current window.
+关闭当前窗口。
+
+Selects the next active window.
+选择下一个激活窗口。
+
+Makes a rectangular selection.
+生成一个矩形选区。
+
+Searches backwards for the previous occurrence of the search pattern.
+搜索上一次出现的位置。
+
+Moves the cursor to the end of an extended selection.
+移动光标到扩展选区尾部。
+
+Extends the selection down by one line.
+选区往下扩展一行。
+
+Extends the selection up by one line.
+选区往上扩展一行。
+
+Extends the selection one character to the right.
+选区往右扩展一个字符。
+
+Extends the selection one character to the left.
+选区往左扩展一个字符。
+
+Creates a command keystroke listing.
+创建命令输入列表。
+
+Displays the system Document menu.
+显示系统文档命令。
+
+Reloads the current file from disk, losing ALL changes since saving.
+重载所有文件，放弃最后一次保存后的所有修改。
+
+Exits Source Insight without saving files, but can recover changes again later.
+退出Source Insight而不保存文件，以后可以再次恢复。
+
+Saves the current configuration to a file.
+保存当前配置到文件。
+
+Inserts a line break.
+插入换行符。
+
+Runs a command or macro.
+运行命令或者宏。
+
+Extends the selection up to the current mouse position.
+扩展选区到当前鼠标位置。
+
+Selects the enclosing symbol definition, if any.
+选择闭合的符号定义，如有。
+
+Selects the matching brace, parentheses, or quote character.
+选择匹配的括号、引号。
+
+Selects the whole line.
+选择整行。
+
+Selects up to the next period.
+选择下一个周期。
+
+Selects words under cursor.
+选择光标处的单词。
+
+Pastes if selection is empty, otherwise Cuts.
+选区为空则粘贴，否则剪切。
+
+Replaces text in multiple files.
+在多个文件里替换文本。
+
+Searches for text across multiple files.
+在多个文件里搜索文本。
+
+Scrolls the window to the left.
+滚动窗口到左边。
+
+Scrolls the window to the right.
+滚动窗口到右边。
+
+Displays the Window menu.
+显示窗口菜单。
+
+Displays the project menu.
+显示项目菜单。
+
+Displays the Search menu.
+显示搜索菜单。
+
+Displays the Edit menu.
+显示编辑菜单。
+
+Displays the File menu.
+显示文件菜单。
+
+Closes all open files.
+关闭所有文件。
+
+Synchronizes the current project with changes made to files outside the editor.
+同步当前项目改动到编辑器外部文件。
+
+Saves the current Workspace to a file.
+保存当前工作区到文件。
+
+Views a file in a window.
+在窗口查看文件。
+
+Selects the last window.
+选择最后一个窗口。
+
+Shows the clipboard window.
+显示剪切板文件。
+
+Links the current window to another window so that they scroll together.
+链接当前窗口到另一个窗口，实现同步滚动。
+
+Creates a new duplicate window.
+新建窗口副本。
+
+Redraws all windows.
+重绘所有窗口。
+
+Sets or jumps to a user defined bookmark.
+设置并跳转到用户定义书签。
+
+Toggles between the last two cursor positions.
+在最后两处光标间跳转。
+
+Moves the cursor to next location in the Selection History.
+移动光标到下一处历史选择。
+
+Lists symbolic information for the current file.
+为当前文件列出符号信息。
+
+Closes the current file and opens another.
+关闭当前文件，打开其他文件。
+
+Copies text to a named clip buffer.
+复制文本到命名剪切区。
+
+Copies the whole current line to the clipboard.
+复制当前整行到剪切板。
+
+Pastes text from the clipboard at the start of the current line.
+从剪切板粘贴文本到当前行开头。
+
+Renumbers numbers found in text.
+更新计算文本里的数字。
+
+Starts running a macro instruction at the cusor position.
+在光标处运行宏命令。
+
+Moves all selected lines to the right by one tabstop.
+往右移动所选行一个制表位。
+
+Moves all selected lines to the left by one tabstop.
+往左移动所选行一个制表位。
+
+Combines the current line with the next.
+合并当前和下一行。
+
+Inserts a new blank line after the current line.
+在当前行后插入空行。
+
+Inserts a new blank line before the current line.
+在当前行前插入空行。
+
+Cuts the word to the left of the selection.
+剪切选区左侧的单词片段。
+
+Pastes text from the clipboard.
+从剪切板粘贴文本。
+
+Copies selected text to the clipboard.
+复制所选文本到剪切板。
+
+Copies selected text to the clipboard and deletes the text.
+复制所选文本到剪切板并删除原文本。
+
+Saves all open and modified files to disk.
+保存所有文件的修改到硬盘。
+
+Recreates the last editing operation after an Undo command.
+重做最后撤销的编辑操作。
+
+Reverses the last editing operation.
+撤销最后的编辑操作。
+
+Moves the cursor to the definition of the selected symbol.
+移动光标到所选符号的定义。
+
+Shows Selection History window.
+显示选择历史窗。
+
+Moves the cursor to the other end of a Source Link.
+移动光标到源链接的另一个尾部。
+
+Adds a list of files to the current project.
+添加一列表的文件到当前项目。
+
+Displays a popup window showing a symbol's definition.
+显示一个窗口用于显示符号定义。
+
+Generates statistics for the current project.
+生成当前项目的统计。
+
+Reformats line breaks in the enclosing paragraph(s).
+在闭合段落里段落重排。
+
+Removes files from the current project.
+从项目移除文件。
+
+Adds files to the current project.
+添加文件到当前项目。
+
+Deletes a project.
+删除项目。
+
+Closes the current project.
+关闭当前项目。
+
+Opens an existing project.
+打开已有项目。
+
+Creates a new project.
+新建一个项目。
+
+Customizes menu contents.
+自定义菜单内容。
+
+Customizes command keystrokes.
+自定义命令键。
+
+Specifies user options.
+设置用户选项。
+
+Specifies printing page options.
+设置打印页面。
+
+Defines file types and their properties.
+定义文件类型及其属性。
+
+Selects a paragraph of text.
+选择文本段落。
+
+Specifies options for Projects.
+设置项目选项。
+
+Moves the cursor to a specified line number.
+移动光标到指定的行号。
+
+Toggles contextual help mode on and off.
+开关上下文帮助模式。
+
+Displays copyright and version information.
+显示版权和版本信息。
+
+Replaces text in the current file.
+在当前文件里替换文本。
+
+Lists all symbolic information for the current project.
+列出当前项目的所有符号信息。
+
+Saves the current file to a new name.
+用新名字保存当前文件。
+
+Saves the current file to disk.
+保存当前文件到硬盘。
+
+Closes the current file.
+关闭当前文件。
+
+Opens or creates a new file in the current project.
+在当前项目里打开或者新建文件。
+
+Creates a new open file.
+新建文件并打开。
+
+Defines new commands that can invoke external programs.
+定义新命令，可以从外部调用。
+
+Displays file statistics in the status bar.
+在状态栏显示文件统计。
+
+Pastes text from a named clip buffer.
+从命名剪切区粘贴文本。
+
+Toggle the Select vs. Extend modes for selections.
+切换选择和扩展模式。
+
+Moves cursor to the next blank line.
+移动光标到下一空行。
+
+Moves cursor to the previous blank line.
+移动光标到上一空行。
+
+Moves the cursor to the first Source Link destination.
+移动光标到第一个源链接目标。
+
+Moves the cursor to the previous Source Link destination.
+移动光标到上一个源链接目标。
+
+Moves the cursor to the next Source Link destination.
+移动光标到下一个源链接目标。
+
+Parses Source Links out of the current file.
+解析当前文件的源链接。
+
+Selects all text in the current file.
+选择当前文件的所有文本。
+
+Moves the cursor to the previous location in the Selection History.
+移动光标到上一处历史选择。
+
+Searches for the next occurrence of the search pattern.
+搜索下一次出现的位置。
+
+Arranges the two most recently used windows.
+安放两个最近使用的窗口。
+
+Moves cursor to the previous opening block/brace.
+移动光标到上一处开放的块或括号。
+
+Moves cursor to the following closing block/brace.
+移动光标到下一处闭合的块或括号。
+
+Moves cursor to the previous opening parentheses.
+移动光标到上一处开放的括号。
+
+Moves cursor to the following closing parentheses.
+移动光标到下一处闭合的括号。
+
+Scrolls window halfway down.
+往下滚动窗口。
+
+Scrolls window halfway up.
+往上滚动窗口。
+
+Renames a file on disk and in a project.
+重命名或移除硬盘上的文件
+
+Displays Source Insight online help.
+显示Source Insight在线帮助。
+
+Custom Command or Editor Macro.
+自定义命令或编辑宏。
+
+Cuts the line from selection to the end of the line.
+从所选开始剪切到行尾。
+
+Cuts the line from the beginning up to the selection.
+从行头开始剪切到所选。
+
+Cuts the word to the right of the selection.
+剪切选区右侧的单词片段。
+
+Scrolls window up by one line.
+往上滚动窗口一行。
+
+Scrolls window down by one line.
+往下滚动窗口一行。
+
+Exits Source Insight.
+退出Source Insight。
+
+Toggles Insert vs. Overstrike mode.
+切换插入和改写模式。
+
+Moves the cursor to the bottom of the window.
+移动光标到窗口底部。
+
+Moves the cursor to the bottom of the file.
+移动光标到文件底部。
+
+Moves the cursor to the end of the line.
+移动光标到行结尾。
+
+Moves the cursor to the top of the window.
+移动光标到窗口顶部。
+
+Moves the cursor to the top of the file.
+移动光标到文件顶部。
+
+Moves the cursor to the beginning of the line.
+移动光标到行开头。
+
+Cuts the whole line(s) containing the selection.
+剪切整行，包含所选。
+
+Delete the character at the cursor.
+删除光标处字符。
+
+Moves the cursor right one word.
+光标右移一个单词。
+
+Moves the cursor left one word.
+光标左移一个单词。
+
+Scrolls down by one page.
+往下滚动一页。
+
+Moves the cursor right one character.
+光标右移一个字符。
+
+Moves the cursor left one character.
+光标左移一个字符。
+
+Moves the cursor down one line.
+光标下移一行。
+
+Moves the cursor up one line.
+光标上移一行。
+
+Moves the cursor left one tab stop.
+光标左移一个制表位。
+
+Inserts a tab character.
+插入制表符。
+
+Opens the last file closed.
+打开最后关闭文件。
+
+---Menu Separator---
+---菜单分隔符---
+
+Separates items on menus.
+分隔菜单上的项目。
+
+The macro value column should be less than the continuation column.
+宏值栏必须比后续栏小。
+
+The macro name column should be less than the macro value column.
+宏名栏必须比宏值栏小。
+
+The field member column should be less than the bit-field column.
+文件成员栏必须比位域栏小。
+
+Are you sure you want to reset the built-in presets to defaults?
+确认要重置内置预设值？
+
+Are you sure you want to delete the %s preset?
+确认要删除 %s 预设值？
+
+What do you want to import?
+你想导入什么？
+
+This can import part of your settings from a version 3.x configuration file. Your current configuration will be saved in a backup file.
+你可以导入V3.X版配置文件。当前配置将保存为备份。
+
+Are you sure you want to reset keyboard to defaults?
+确认要重置按键？
+
+Do you want to remove that keystroke from the "%s" command?
+从 %s 命令移除快捷键？
+
+%s directory cannot be created.
+无法创建目录 %s。
+
+%s directory does not exist.\n\nDo you want to create it now?
+目录 %s 不存在。\n\n现在创建它？
+
+This will scan your project files, trying to determine what preprocessor variables are defined.\n\nDo you want to continue?
+将要扫描项目文件，查找已定义的预处理参数。\n\n继续？
+
+Please select at least one element to load.
+请至少选择载入一个元素。
+
+You've changed an indexing option for the project's symbol database.\n\nDo you want to re-index your whole project now?
+你已经修改了项目符号数据库的索引参数。\n\n立刻重新索引整个项目？
+
+The file does not contain any %s.
+文件不包含任何 %s。
+
+Should the mouse pointer make a selection before running the command?
+在运行命令前应该先框选？
+
+Record as a Double-Click?
+双击时记录？
+
+You did not select any configuration sections. Please checkmark at least 1 section.
+你没有选择如何配置区。请至少选择一个区。
+
+The conditions cannot be edited because the project %s is read-only.
+无法条件条件，因为项目 %s 是只读。
+
+This is used to load new customization settings from a configuration file. Each configuration file can contain one or more separate sections. Select the configuration section(s) you want to load.
+从配置文件载入自定义设置。每个配置文件都可以包含一个或多个区块。选择想要载入的的区块。
+
+Indexing symbol name fragments with large projects uses a lot of resources and can cause Source Insight to slow. It is not recommended for import projects.\n\nAre you sure you want to turn on symbol name fragment browsing?
+为大项目索引不完整符号名会导致Source Insight卡顿。对导入的项目不建议这么做。\n\n确认要开启不完整符号名浏览？
+
+Indexing symbol name fragments can use a lot of resources with large projects.\n\nIf you experience slow performance with a large project, try turning off browsing for symbol name fragments.
+为大项目索引不完整符号名会消耗大量资源。\n\n如果感觉运行卡顿，尝试关闭不完整符号名浏览。
+
+The Master File List does not exist. Is it OK to create it now by saving the current project's file list?
+主文件列表不存在。将当前项目文件列表保存为主文件列表？
+
+The Master File List already exists. Do you want to over-write it to reflect the state of your current project?\n\nClick 'Yes' to over-write the Master File List.\nClick 'No' to use it as-is. It may be different than your current project contents.
+主文件列表已经存在。用当前项目文件列表覆盖它？\n\n单击"Yes"覆写主文件列表。\n单击"No"仍然保留它。它的内容可能和当前项目内容不一样。
+
+Choose two files to compare. You may enter either two file paths, or a single file and a second directory path.
+选择两个文件来比较。你可以输入两个文件，或者一个文件和一个目录。
+
+The option for making backup files when saving is currently turned off.\n\nDo you want to enable backup file option now?
+保存时创建备份功能已经关闭。\n\n启用该功能？
+
+%s has been changed since it was first opened.\nRestoring will lose ALL changes you made since it was FIRST OPENED.\nOK to restore original version and lose all changes?
+%s 已经被修改。\n还原操作将丢失所有改动。\n确认要还原并且放弃所有修改？
+
+%s has been edited.\nReloading the file cannot be undone.\n\nOK to revert to previously saved version and lose all changes?
+%s 已经被编辑。\n重载文件操作不能撤销。\n\n确认要重载并且放弃所有修改？
+
+%s has not been saved yet.
+%s 还没有被保存。
+
+%s appears to use Unicode encoding.\n\nAre you sure you want to reload with non-Unicode codepage?
+%s 似乎使用了Unicode编码。\n\n确认要用非Unicode代码页重载？
+
+%s has unsaved changes. Are you sure you want to reload it and lose those changes?
+%s 的修改未保存。确认要重载并且放弃所有修改？
+
+%s has been changed outside of Source Insight.\n\nDo you want to reload the file?
+%s 已经被外部修改。\n\n需要重载文件？
+
+%s has changed both inside AND outside of Source Insight.\n\nDo you want to reload the file and lose changes made here?\n\nNote: Unsaved changes will be saved to a backup file. You can use 'File > Open Backup File' to access it.
+%s 同时被内部和外部修改。\n\n重载文件并且放弃这里的修改？\n\n注意：未保存的修改会被保存到备份文件，可以通过"文件->打开备份文件"来访问它。
+
+Confirm by typing 'yes' below:
+确认请输入"yes":
+
+The file name you specified is already in use by another open file. The file cannot be renamed.
+你指定的文件名已经被使用。不能重命名文件。
+
+File is already open: %s
+文件已经打开: %s
+
+There was an error saving "%s".\nThe file is not saved.
+保存 %s 时发生错误。\n文件没有保存。
+
+Not enough disk space to save "%s".  %ld more bytes are required.
+硬盘空间不足，不能保存 %s。还需要%ld bytes空间。
+
+"%s" contained long lines that were truncated when the file was opened.  OK to save it that way?
+%s 包含过长的行，打开时会被截断了。确认要继续保存？
+
+"%s" is read-only.  Cannot save.
+%s 是只读，无法保存。
+
+Save changes to %s?
+保存 %s？
+
+Out of disk space.  Unable to close "%s".  Try closing other files first.
+硬盘空间不足，无法关闭 %s。尝试先关闭某些文件。
+
+Cannot create a backup because %s has not been saved to disk yet.
+无法创建备份，因为 %s 还没有被保存到硬盘。
+
+There were errors opening "%s".
+打开 %s 时发生错误。
+
+Not enough memory to open "%s".
+内存不足不能打开 %s。
+
+"%s" does not exist.
+%s 不存在。
+
+"%s" does not exist.  Create it?
+%s 不存在。创建它？
+
+Cannot open "%s"; it is already open for another purpose.
+无法打开 %s，它已经在另一处被打开。
+
+Directory of %s does not exist.
+目录不存在。\n%s
+
+The file you selected to delete is currently open.  Do you want to close and delete the file? \n\n File: %s
+想要删除的文件已经打开。关闭并删除它？\n\n文件: %s
+
+The file you selected to delete is currently open and modified.  Do you want to close and delete the file? \n\n File: %s
+想要删除的文件已经打开并被修改。关闭并删除它？\n\n文件: %s
+
+Do you want to open all %d files?
+打开这 %d 个文件？
+
+Are you sure you want to apply the font changes to all file types?
+将字体修改应用到所有文件类型？
+
+Are you sure you want to remove the %s file type?
+确认要移除 %s 文件类型？
+
+%s file type already exists.  Do you want to replace it?
+%s 文件类型已经存在，替换它？
+
+Custom parse pattern must contain ONE group.
+自定义解析样式必须包含一个组。
+
+Custom parse pattern is not valid.
+无效的自定义解析样式。
+
+You must include a Group (sub-pattern) in the error pattern.
+在错误样式里必须包含一个组(子样式)。
+
+%s is already defined as a custom command.
+%s 已经被定义为自定义命令。
+
+"%s" is currently on the %s menu.\n\nDo you want to remove it from the menus and keyboard also?
+%s 已经在 %s 菜单里。\n\n从菜单和快捷键里删除它？
+
+This Custom Command is permanent and cannot be deleted.
+该自定义命令是常驻的，不能删除。
+
+The command "%s" is probably still running.\n\nDo you want to throw away its captured output?
+命令 %s 可能还在运行。\n\n丢弃它的输出？
+
+Custom Command: %s\n\n%s\n\nRun string: %s\n\nDo you want to edit the command?
+自定义命令: %s\n\n%s\n\n命令行: %s\n\n编辑该命令？
+
+Arguments for "%s"?
+%s 的参数？
+
+Arguments for "%s%s"?
+%s%s 的参数？
+
+Command shell program not found.
+没有找到命令行Shell程序。
+
+Bad quote usage in command line.
+命令行里使用引号错误。
+
+Unable to execute %s.  Make sure the file exists on that path.
+无法执行 %s。确认文件路径正确。
+
+ShellExecute failed.
+ShellExecute失败。
+
+These options control what information is included in the Search Results for the Search and Lookup References commands.
+这些选项控制搜索结果包含哪些信息。适用于搜索和查找引用命令。
+
+These options control what information is included in the Search Results for the %s command.
+这些选项控制搜索结果包含哪些信息。适用于 %s 命令。
+
+---- %s Matches (#count#) ----
+---- %s 搜索到 #count# ----
+
+%s%d in %d files%s
+%s%d处, %d文件%s
+
+Can't search %s.
+无法搜索 %s。
+
+Old and New names are the same.  Nothing was renamed.
+新旧名称相同。无法重命名。
+
+The current file is not associated with a language.  See Options > File Types.
+当前文件没有关联到一种语言。查看"选项 > 文件类型"。
+
+Are you sure you want to delete all expressions?
+确认要删除所有表达式？
+
+Regular expression must contain one group.
+正则表达式必须包含一个组。
+
+The range cannot be nestable if the start and end delimiters are the same.
+范围不能是嵌套的，如果起诉和结束分隔符相同。
+
+The first column must be less than, or equal to, the last column.
+第一栏必须小于等于最后一栏。
+
+%s is a language file that requires a newer version of Source Insight.
+%s 是新版Source Insight的语言文件。
+
+%s is not a valid language file.
+%s 是无效语言文件。
+
+Are you sure you want to delete all comment definitions?
+确认要删除所有注释定义？
+
+The file does not contain any language definitions.
+文件不包含任何语言定义。
+
+You cannot deactivate a beta license.
+不能激活测试版许可。
+
+You cannot deactivate a trial license.
+不能激活试用版许可。
+
+Your Source Insight license has not been activated yet.
+你的Source Insight许可还没有被激活。
+
+There is no link at the current selection or the link destination is gone.
+当前所选没有链接，或者链接目标已丢失。
+
+This dialog allows you to selectively disable performance optimizations.  This may help to troubleshoot certain types of problems.
+这里可以有选择的禁用性能优化。可能解决疑难杂症。
+
+The file: %s was not found.  It should have been installed with Source Insight.
+没有找到文件 %s。它应该已经和Source Insight一起被安装。
+
+---Begin Parsing Test---
+---开始解析测试---
+
+The backup directory doesn't exist.  Backups cannot be performed.
+备份文件夹不存在。不会执行备份。
+
+You have changed parsing options.\n\nDo you want to re-parse your project now?
+你修改了解析选项。\n\n立即预解析项目？
+
+A language named "%s" already exists.
+"%s"语言已经存在。
+
+Remote Session preferences will not take effect until you restart Source Insight.
+远程会话首选项将在重启Source Insight后生效。
+
+Changes to file sharing options will only affect files that are opened from now on.
+修改文件共享选项将只影响之后打开的文件。
+
+Are you SURE you want to always overwrite read-only files?  If you answer 'No', you will still be able to overwrite them on an individual file basis.
+确认要覆写只读文件？如果选"No"，你仍能覆写它们到个人文件里。
+
+The project file %s cannot be found.\n\n Do you still want to add it to the symbol path?
+无法找到项目文件 %s。\n\n仍旧把它添加到符号路径？
+
+Are you sure you want to delete the language: %s ?
+确认要删除语言: %s？
+
+A Master File List is being used to determine the files in the project. To change it, select Project > Project Settings.
+主文件列表用于确定项目里的文件。想要修改它，选择"项目 > 项目设置"。
+
+The current project does not use a Master File List.\n\nDo you want to edit the Project Settings to change the Master File List setting?
+当前项目没有使用主文件列表。\n\n编辑项目设置，修改主文件列表选项？
+
+Project has been rebuilt.\nElapsed time for rebuilding: %d:%02d\n\n%s
+项目已经被重构。\n耗时: %d:%02d\n\n%s
+
+Project: %s\nSymbols: %d\nIndex entries: %d\nFiles: %d
+项目: %s\n符号: %d\n索引: %d\n文件: %d
+
+Rebuilding project %s may take a few minutes.  Once started, you will be able to cancel, but your project will still require rebuilding.\n\nDo you want to continue with rebuilding?
+重构项目 %s 将花几分钟。开始后可以取消，之后需要再次重构。\n\n确认开始重构？
+
+Project %s is currently read-only. Either the data files are read-only, or the project may be open by another instance of Source Insight. Try closing other instances first.
+项目 %s 是只读的。数据文件是只读，或者项目被另一个Source Insight实例打开。先尝试关闭另一个应用实例。
+
+A read-only Master File List is being used to determine the files in the project. Files cannot be added or removed manually.\n\nDo you want to edit the Project Settings to change the Master File List setting?
+只读主文件列表用于确定项目里的文件。不能手动修改它。\n\n确认要编辑项目设置，修改新文件列表设置？
+
+Please enter a full directory path for the project data files.
+请输入项目数据文件的完整路径。
+
+%s should be a simple file name, without path characters.
+%s 应该是一个简单文件名，不带路径。
+
+Please enter a project name.
+请输入项目名。
+
+Project "%s" not closed.
+项目 %s 没有关闭。
+
+File "%s" is not part of project "%s".
+文件 %s 不在项目 %s 里。
+
+Add to Project: "%s"
+添加到项目 %s。
+
+%d files will be added to the project.\n\nOK to continue?
+这 %d 个文件将添加到项目。\n\n确认继续？
+
+No files found.
+没找到文件
+
+Are you sure you want to remove project "%s"?
+确认要移除项目 %s？
+
+Cannot remove "%s".  Some project files are open.
+无法移除 %s，某些项目文件已被打开。
+
+Project %s is currently open.\n\nAre you sure you want to delete it?
+项目 %s 已经打开。\n\n确认要删除它？
+
+The project was not renamed or moved.
+项目没有被重命名或移除。
+
+The project could not be copied or renamed.
+无法复制或重命名项目。
+
+The project contains %d backup source files, which may take a while to copy. Do you want to copy the backup files?
+项目包含 %d 个备份文件，复制需要点时间。确认复制备份文件？
+
+The project cannot be copied or renamed because a project already exists with that name. Please specify a different project name.
+无法重命名或移除项目，同名项目已经存在。请指定另一个项目名。
+
+The project cannot be copied or renamed because the name was not changed. Please specify a different project name.
+无法重命名或移除项目，名称已经被修改。请指定另一个项目名。
+
+You can use this to rename the current project, or to move the data file location. Your source files will not be moved or touched. We recommend a local non-networked drive for the project data directory.
+你可以重命名当前项目，或移动数据文件位置。不会移动源码文件。建议项目数据文件存放在非网盘。
+
+OK to Close current project: "%s"?
+确认关闭当前项目: %s?
+
+There was an error creating project "%s".
+创建项目 %s 时发生错误。
+
+Are you sure you want to remove %d files in the selected directory trees?
+确认要从所选的目录树里移除这 %d 个文件？
+
+The selected directory trees did not contain any project files.
+所选目录树不含任何项目文件。
+
+Out of memory while processing %s.  Do you want to continue?
+运行 %s 是内存不足。是否继续？
+
+OK to remove ALL files from the project?
+确认从项目移除所有文件？
+
+OK to remove all %d files from the project?
+确认从项目移除这 %d 个文件？
+
+No changes found.
+没找到修改。
+
+The URL you entered is missing the %%S search term. OK to leave it missing?\n\nURL: %s
+输入的URL缺少 %%S。确认继续？\n\nURL: %s
+
+Please enter a URL string for the search engine query.
+请输入URL字符串，用于搜索引擎查询。
+
+Please enter a name for the search engine.
+请输入搜索引擎名称。
+
+URL Query Spec (use %S as the search term)
+URL查询规则 (使用 %S 替代搜索词)
+
+The %s engine already exists in the list. Do you want to replace it?
+%s 已经在列表中。替换它？
+
+Are you sure you want to reset all the Search Engines to defaults?
+确认要重置所有搜索引擎？
+
+Use this to edit the Internet search engines used by the Search Web command. Each search engine has a URL specification that indicates the search text with %S.
+编辑网页搜索命令使用的网络搜索引擎。每个搜索引擎都有一套URL规则，使用%S表示要搜索的文本 。
+
+Other styles inherit from %s.\n\nAre you sure you want to delete it and remove all references to it?
+有其他风格继承自 %s。\n\n确认要删除它，并移除对它的所有引用？
+
+Do you want to discard your changes to the style settings?
+放弃对风格设置的修改？
+
+The Parent Style relationship cannot have circular references.\n\nYou cannot base %s style on %s style because %s is already based (possibly indirectly) on %s.  
+父风格关联没有循环引用。\n\n%s 风格无法继承 %s 风格，因为 %s 已经(间接)继承自 %s。
+
+Several files in %s need synchronizing with the Symbol Database.  Synchronize now?
+%s 的几个文件需要同步符号数据库。立即同步？
+
+Not implemented yet.
+还没有实现。
+
+OK to link all windows so they will scroll together?
+确认要关联所有窗口，实现同步滚动？
+
+The Default Configuration has been loaded because the Reset option was used to start Source Insight.\n\nThe original configuration file was copied to %s
+已经载入默认配置，因为启动Source Insight时使用了复位选项。\n\n源配置文件已被复制到 %s。
+
+%s is not a valid configuration file.\nIt cannot be opened.
+%s 不是一个有效的配置文件。\n无法打开它。
+
+//This is a Source Insight configuration file.
+//这是 Source Insight 配置文件。
+//
+//Prefix with 'project_data:' the file is relative to the project data directory.
+//带"project_data:"前缀的文件是相对于项目数据目录。
+//
+//Prefix with 'project_source:' the file is relative to the project source directory.
+//带"project_source:"前缀的文件是相对于项目源文件目录。
+//
+//It tells Source Insight where to store and get configuration settings.
+//这告诉 Source Insight 哪里存储和获取配置设置。
+//
+//This is a Master configuration file.
+//这是主配置文件。
+//
+Window transparency is not supported or is disabled.
+不支持窗口透明度或被禁用。
+
+Window transparency is disabled in the remote session. See Options > Preferences:Remote.
+远程会话模式禁用窗口透明度。查看"选项 > 首选项:远程"。
+
+//This is a Source Insight desktop layout file.
+//这是 Source Insight 桌面布局文件。
+//
+Are you sure you want to reset the window layout to the default setting?
+确认要重置窗口布局？
+
+The Default Window Layout has been loaded because the Reset option was used to start Source Insight.\n\nThe original file was copied to %s
+已经载入默认窗口布局，因为启动Source Insight时使用了复位选项。\n\n源配置文件已经被复制到 %s。
+
+The layout cannot be loaded because it has not been saved yet.\n\nDo you want to save the current desktop now as Layout %c?\n\nYou can also save it later with View > Save Layout.
+无法载入布局，因为还没有保存。\n\n保存当前桌面为布局%c？\n\n也可以之后保存，使用"视图 > 保存布局"。
+
+"%s" is busy or opened by another process.\nWrite access was denied.
+%s 繁忙或被另一个进程打开。\n写入被拒绝。
+
+Too many lines in file.  Cannot open.
+文件太多行。不能打开。
+
+Cannot use the current file.
+无法使用当前文件。
+
+%s already contains text.\nReplace it or Append to it?
+%s 已经包含内容。\n替换或者追加？
+
+Search Results already contains text.\nReplace it or Append to it?
+搜索结果已经包含内容。\n替换或者追加？
+
+Unable to connect to FTP site '%s'. Cannot download %s.
+无法连接FTP站点 %s。不能下载 %s。
+
+The FTP site '%s' is unknown. Check the site list in the FTP Window.
+未知的FTP站点 %s。请确认FTP窗的站点列表。
+
+%s has been changed outside of Source Insight since it was loaded.\n\nDo you want to continue and overwrite it?
+%s 已经被外部编辑。\n\n继续并覆写它？
+
+Do you want to add "%s" to the current project?
+添加 %s 到当前项目？
+
+Cannot save to %s because it is already open.
+无法保存 %s，因为它已经被打开。
+
+Join operation results in a line that exceeds the maximum length.
+添加操作结果到某行，该行长度超限。
+
+Cannot edit while in Browser Mode. \n\nSelect Edit > Browse Mode to turn the mode off.
+浏览模式时无法编辑。\n\n通过"编辑 > 浏览模式"关闭该模式。
+
+Cannot modify a read-only file.
+无法修改只读文件。
+
+Cannot modify the file buffer of a macro that is running.
+无法修改文件缓存，该宏文件正在运行。
+
+Out of space for Undo.
+空间不足。
+
+Operation not allowed.
+操作不允许。
+
+Out of memory.
+内存不足。
+
+Too many lines.
+太多行。
+
+Cannot revert to original lines because the file is not saved yet.
+无法恢复原行，因为文件还没有保存。
+
+Cannot revert to original lines because the selected lines are unchanged.
+无法恢复原行，因为所选行没有改动。
+
+Can't copy to the same file buffer.
+无法复制到相同的缓存。
+
+Can't paste to the same file buffer.
+无法粘贴到相同的文件缓存。
+
+Editing in the File Compare window is disabled. Do you want to enable edits and continue?
+文件比较窗编辑被禁用。启用编辑并继续？
+
+The diff command could not be run. The command line is\n\n%s\n\nClick the Options button in the File Compare Window to edit the diff command.
+比较命令无法运行。命令行是\n\n%s\n\n单击文件比较窗的"选项"按钮去编辑比较命令。
+
+Do you want to continue opening files?
+继续打开文件？
+
+The directory scan was aborted.
+目录扫码被终止。
+
+Do you want to continue deleting files?
+继续删除文件？
+
+Are you sure you want to DELETE the selected files?
+确认要删除所选的文件？
+
+Do you want to continue copying files?
+继续复制文件？
+
+You are about to copy over a newer file.\n\nOK to replace:\n%s\n\nwith:\n%s ?
+将要覆盖更新的文件。\n\n确认替换:\n%s\n\n用:\n%s
+
+Are you sure you want to copy the selected files?
+确认要复制所选文件？
+
+Are you sure you want to copy all %d items?
+确认要复制这 %d 个组件？
+
+---- %s Search Errors Encountered (%d) ----
+---- 出现 %s个 搜索错误 (%d) ----
+
+The replacement expression contains invalid groups or is too complex.
+替换表达式包含无效的组或者太复杂。
+
+The remote host is not connected.  Do you want to connect now and upload the selected files?
+未连接远程主机。立即连接并上传所选文件？
+
+Are you sure you want to delete the selected files from the remote host?
+确认要删除所选的远程文件？
+
+Continue renaming the remaining items?
+继续重命名剩余的组件？
+
+You must enter a host address.
+必须输入主机地址。
+
+You must enter a host name.
+必须输入主机名。
+
+File transfer modes set to %s.\n
+文件传输模式设为 %s。
+
+Cannot accept connection.
+无法接受连接。
+
+Cannot obtain a listen socket.
+无法获取监听套接字。
+
+FTP transfer interrupted.
+FTP传输被中断。
+
+Add External Symbols
+添加外部符号
+
+This will import symbols from external libraries and source files. Imported symbols are placed in a Source Insight Import Library project.\n\nPlease select the library symbols you want to import below.
+从外部库和源文件导入符号。导入的符号被放置在Source Insight导入库项目。\n\n请选择想要导入的库符号。
+
+Import from an INCLUDE path
+从头文件路径导入
+
+Import from a source code tree
+从源码树导入
+
+Import a directory tree of .NET assemblies
+从.NET assemblies的目录树导入
+
+Import a Java jar file
+从java jar文件导入
+
+Import a directory tree of Java classes
+从Java类的目录树导入
+
+Import from another Source Insight project
+从另一个Source Insight项目导入
+
+Import single file - .NET dll or exe, Java jar or class file
+导入单个文件 - .NET dll或exe，Java jar或类文件
+
+Locate the directory containing source files
+指定包含源文件的目录
+
+Import Tree of .NET Assemblies
+导入.NET Assemblies树
+
+Import Java JAR file
+导入Java JAR文件
+
+Import Tree of Java Classes
+导入Java类树
+
+Import Source Insight Project Symbols
+导入Source Insight项目符号
+
+Import Library File Symbols
+导入库文件符号
+
+Source Insight was unable to launch the library reflection tool.\n\nCommand Line = %s
+Source Insight无法启动库反射工具。\n\n命令行 = %s
+
+There was an error creating the import project: %s\n\nPlease exit any other instances of Source Insight and try again.
+创建导入项目时发生错误: %s\n\n请退出Source Insight的其他实例并重试。
+
+There already is an import library project with the same name: %s\n\nDo you want to replace it?
+存在同名导入库项目: %s。\n\n替换它？
+
+You are trying to import into the current project. Please close the current project before importing.
+正在尝试导入到当前库。请关闭当前库再导入。
+
+The import library will be removed from the list:\n%s\n\nDo you want to also delete the Source Insight library data files?
+导入库将从列表移除:\n%s\n\n同时删除Source Insight库道具文件？
+
+A file I/O error occured while loading the .NET assembly. Make sure the file is unblocked if it came from a remote source.
+载入.NET assembly时发生文件IO错误。如果是远程文件，请确认它没有被锁定。
+
+java.exe could not be found. Make sure your PATH environment variable points to java.exe.
+未找到java.exe。确认环境变量PATH包含java.exe。
+
+Checkmark the directories you wish to scan for files containing symbol declarations.
+标记想要扫描的目录，目录里的文件包含符号描述。
+
+Please enter or paste the INCLUDE path. This can be any path list delimited with semi-colons. Source files in the path will be scanned for symbols.
+请输入或粘贴包含路径。路径之间用分号分隔。将扫码路径里的源文件的符号。
+
+Are you sure you want to import symbols from ALL versions of the Framework? Some symbols may be duplicated. If not, click 'No' and select a specific version subdirectory.
+确认要从全部版本的Framework导入符号？一些符号可能会重复。如果不是，请单击"No"，然后在子目录里选择一个特定的版本。
+
+Are you sure you want to import symbols from ALL versions of the JRE? Some symbols may be duplicated. If not, click 'No' and select a specific version subdirectory.
+确认要从全部版本的JRE导入符号？一些符号可能会重复。如果不是，请单击"No"，然后在子目录里选择一个特定的版本。
+
+Symbols were imported from a single library file.\n\nOriginal library file: %s\n\nImport-Project location: %s\n\nContains %d files and %d symbols.
+从库文件导入的符号。\n\n原库文件: %s\n\n导入项目位置: %s\n\n包含 %d 个文件和 %d 个符号。
+
+Symbols were imported from a directory tree.\n\nSource directory: %s\n\nImport-Project location: %s\n\nContains %d files and %d symbols.
+从目录树导入的符号。\n\n源目录: %s\n\n导入项目位置: %s\n\n包含 %d 个文件和 %d 个符号。
+
+You can <A HREF="www.sourceinsight.com">purchase an new serial number online</A>, or <A HREF=".">load a new license file</A>.
+你可以<A HREF="www.sourceinsight.com">在线购买一个新序列号</A>，或者<A HREF=".">载入新许可文件</A>。
+
+&Enter a purchased serial number to activate a license on this machine.
+输入购买的序列号以激活许可。
+
+Choose this option if a license file was sent to you.
+如果你收到许可文件请选择该项。
+
+A Trial license will be activated immediately and will run for 30 days.
+将激活试用许可，可以使用30天。
+
+You can <A HREF="www.sourceinsight.com">purchase an new serial number online</A>.
+你可以<A HREF="www.sourceinsight.com">在线购买一个新序列号</A>。
+
+Choose this option if you have a serial number for a purchased license. This will permanently activate your license.
+如果你有序列号请选择该项。这将永久激活许可。
+
+&Import a new license file.
+导入新许可文件。
+
+&Begin a 30-day Free Trial of Source Insight.
+开始试用 Source Insight 30天。
+
+&Enter your purchased serial number to activate a license on this machine.
+输入你购买的序列号。
+
+Please select an option to enable your license.
+请选择一个选项。
+
+Welcome to Source Insight.
+欢迎使用 Source Insight
+
+Exit Program
+退出程序
+
+Please confirm the information below. When you continue, a Trial license will be activated on your machine. This requires Internet access.
+请确认以下消息。接下来，将激活本机的试用许可。这需要网络接入。
+
+Please confirm the information below. When you continue, Source Insight will verify the license and activate it on your machine. This requires Internet access.
+请确认以下消息。接下来，Source Insight将验证本机的许可并激活它。这需要网络接入。
+
+Please enter your information below. When you continue, a Trial license will be activated on your machine. This requires Internet access.
+请输入以下消息。接下来，将激活本机的试用许可。这需要网络接入。
+
+Please enter your information below. When you continue, Source Insight will verify the license and activate it on your machine. This requires Internet access.
+请输入以下消息。接下来，Source Insight将验证本机的许可并激活它。这需要网络接入。
+
+Source Insight License Activation
+Source Insight 许可激活
+
+Please enter your Source Insight 4.x serial number. If you purchased your license online, then a serial number was emailed to you.
+请输入你的 Source Insight 4.x 序列号。如果是在线购买，那么序列号已经用E-mail发给你。
+
+&Serial Number (including dashes, eg. S4XX-XXXX-XXXX-XXXX)
+序列号 (包含横线，如S4XX-XXXX-XXXX-XXXX)
+
+There is no Internet connection.\n\nTo activate your license, Source Insight requires Internet access. Please check your Internet connection and try again.
+没有网络连接。\n\n为激活许可，Source Insight需要接入网络。请检查网络连接并重试。
+
+The two email addresses do not match.
+两次E-mail地址不匹配。
+
+Please enter a valid email address.
+请输入有效的E-mail地址。
+
+You must enter a user name to continue.
+你必须输入用户名。
+
+The Source Insight license has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+The Source Insight Beta license has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight Beta版许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+The Source Insight Trial has expired.\n\nTo purchase a license, please visit www.sourceinsight.com, or email sales@sourceinsight.com.\n\nThank you for using Source Insight!
+Source Insight试用许可已过期。\n\n想要购买许可，请拜访www.sourceinsight.com，或者给sales@sourceinsight.com发邮件。\n\n感谢使用Source Insight！
+
+There was an error processing the license, or the license file is invalid. Error code: %d\n\nPlease provide a serial number and re-activate the license on this machine.
+处理许可时发生错误，或者许可文件无效。错误码: %d\n\n请提供序列号，再次激活本机的许可。
+
+The license file does not work with this version of Source Insight.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件不能用于这个版本的Source Insight。\n\n请提供序列号，再次激活本机的许可。
+
+There was a network error while trying to connect to the licensing server. The certificate is not valid or missing. Code: %d\n\nPlease make sure the DigiCert Global Root CA and DigiCert SHA2 Secure Server CA certificates are installed in order to trust sls.sourceinsight.com.
+尝试链接许可系统时发生网络错误。证书无效或丢失。代码:%d\n\n为了信任sls.sourceinsight.com，请确认安装了DigiCert Global Root CA和DigiCert SHA2 Secure Server CA证书。
+
+There was a network error while trying to connect to the licensing system. Code: %d\n\nPlease make sure you have an Internet connection.
+尝试链接许可系统时发生网络错误。代码:%d\n\n确认右网络连接。
+
+The license file is not valid for this machine.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件无效。\n\n请提供序列号，再次激活本机的许可。
+
+The license file is not correct, or it is not a Source Insight license file.\n\nPlease provide a serial number and re-activate the license on this machine.
+许可文件不正确，或者不是Source Insight许可文件。\n\n请提供序列号，再次激活本机的许可。
+
+The Trial license could not be activated because a trial license was already activated on this machine.
+不能激活使用许可，因为本机已经激活了试用许可。
+
+The license could not be activated because the serial number you provided has been disabled or revoked.\n\nPlease check the serial number that was provided to you, and re-enter it.
+无法激活许可，因为你输入的序列号已经被注销。\n\n请确认你的序列号，并重输。
+
+The license could not be activated because the serial number you provided is not valid.\n\nPlease check the serial number that was provided to you, and re-enter it. If you do not have a serial number, you can do one of the following on the next screen:\n\n1) Purchase a license and a serial number will be sent to you.\n2) Begin a 30-Day Trial.
+无法激活许可，因为你输入的序列号无效。\n\n请确认你的序列号，并重输。如果你没有序列号，可以选择如下操作:\n\n1) 购买许可，序列号将被发送给你。\n2) 开始30天试用。
+
+The old Source Insight version 3.x serial number you entered is not valid. Please try again.
+输入的旧版Source Insight 3.x版序列号无效。请重输。
+
+You have entered a serial number for an Upgrade license, however we were not able to find an old license for Source Insight on this machine.\n\nPlease have ready your old version 3.x serial number to enter at the next prompt.\n\nIf your old version of Source Insight is running, you can see the serial number by selecting Help > About Source Insight. Otherwise, the serial number was typically provided in an email activation message when you purchased the old license.
+你输入了升级许可序列号，但是在本机没有发现旧许可。\n\n请在下一个对话框输入旧版3.x序列号。\n\n如果旧版软件坐在运行，你可以通过"帮助 > 关于Source Insight"查看序列号。另外，序列号通常在你购买旧版许可时通过邮件发送给你。
+
+The trial is not available because your license activation is pending.
+无法开始试用，因为你的许可激活正挂起。
+
+Your license has been deactivated on this machine.
+你的许可已经被冻结。
+
+Your license has been temporarily activated to allow you to run Source Insight.\n\nThere was a network error, or the licensing system did not respond. Source Insight will continue to authenticate with the licensing system.
+你的许可已经临时激活，可以运行Source Insight。\n\n出现网络错误，或者许可系统无响应。Source Insight将继续认证。
+
+Your %s of Source Insight is now activated.\n\nThank you for using Source Insight!
+你的 Source Insight %s已经激活。\n\n感谢使用Source Insight！
+
+Sorry, but we could not validate your previous license. Please make sure you have the correct serial number for version 3.x.\n\nIf your old version of Source Insight is running, you can see the serial number by selecting Help > About Source Insight. Otherwise, the serial number was typically provided in an email activation message when you purchased the old license.
+抱歉，我们无法验证你先前的许可。请确认你拥有正确的3.x版序列号。\n\n如果旧版软件正在运行，你可以通过"帮助 > 关于..."查看序列号。另外，序列号通常在你购买旧版许可时通过邮件发送给你。
+
+The serial number cannot be used with the 'release' version of Source Insight.
+该序列号无法用于release版Source Insight。
+
+The serial number you entered is for a different version of Source Insight.\n\nThis version requires a version 4.x serial number.
+输入的序列号适用于其他版本。\n\n需要4.x版本序列号。
+
+The serial number you entered is not correct. A serial number for Source Insight version 4.x is required.\n\nPlease check the number and re-enter it.
+输入的序列号不正确。需要4.x版本序列号。\n\n请确认并重输。
+
+The serial number you entered is for version 3.x of Source Insight.\n\nThis version requires a version 4.x serial number.
+输入的是3.x版序列号。\n\n需要4.x版本序列号。
+
+The license is already activated.
+许可已经激活。
+
+The license could not be registered with the Source Insight license server. This could be a network problem.
+无法在Source Insight许可服务器上注册。可能是网络问题。
+
+The license is not valid or could have too many activations. Please consult your support staff or activation@sourceinsight.com.
+许可无效或激活次数太多。请联系技术支持或activation@sourceinsight.com。
+
+The license was successfully registered with the Source Insight license server.
+在Source Insight许可服务器上注册成功。
+
+Your license was activated on %s.
+许可激活于 %s。
+
+Your license expired on %s.
+你的许可激活于 %s。
+
+Your %s was activated on %s.
+你的 %s 激活于 %s。
+
+Your %s expired on %s.
+你的%s过期于 %s。
+
+Continue with the Source Insight Trial.
+继续试用Source Insight？
+
+You have %d days remaining in your trial.
+你还可以试用 %d 天。
+
+You must puchase a serial number to continue using Source Insight.
+你必须购买一个序列号才能继续使用Source Insight。
+
+Trial License Expired.
+使用许可过期。
+
+Deferred Activation license file loaded.
+延迟载入许可文件。
+
+The license file is for a Beta version of Source Insight, and cannot be used with the release version.
+该许可文件用于Beta版Source Insight，不能用于release版。
+
+A local license has been activated temporarily to allow you to run Source Insight.\n\nThere were network errors, or the licensing system did not respond. Source Insight will continue to authenticate with the licensing system.
+已临时激活本地许可，你可以运行Source Insight。\n\n发生网络错误，或者许可系统无响应。Source Insight将继续认证。
+
+An invalid serial number was given on the command line. It will be ignored.
+输入了一个无效的序列号，将被忽略。
+
+The license on this machine is for a Beta version of Source Insight. Do you want to remove the Beta license and continue with a new license?\n\nClick Yes to continue, or No to exit Source Insight and keep the old license.
+本机的许可用于Beta版Source Insight。移除Beta许可使用新许可？\n\n单击"Yes"继续，或者"No"退出Source Insight，继续使用旧许可。
+
+Expired License loaded.
+载入过期许可。
+
+Your trial version will expire soon in %d days.\n\nWe hope Source Insight has been helpful. Thank you for trying it out!
+你的试用许可即将在 %d 天后过期。\n\n希望Source Insight对你有帮助。感谢试用！
+
+Expired License detected.
+检测到过期许可。
+
+Unable to open "%s".
+无法打开 %s。
+
+Enabling event handlers can pose a security risk. Do you want to enable event handlers?
+启用时间处理器会造成安全隐患。启用事件处理器？
+
+Event Handlers cannot be enabled from an executing macro.
+事件处理器不能在执行宏里启用。
+
+Macro procedure not implemented.
+宏处理没有实现。
+
+Event handlers have been disabled for now. You can enable them again by restarting Source Insight.
+事件处理器已经禁用。你可以通过重启Source Insight再试启用它。
+
+Macro Error%s: %s\n\n%s at line %d:\n\n-> %s\n\nDo you want to dump variables?
+宏错误 %s : %s\n\n%s 在第 %d 行:\n\n-> %s\n\n导出变量？
+
+There is a new installed version of %s.\n\nDo you want to copy that over your personal copy?  A backup version of your file will be saved in the same folder.
+发现已安装的新版 %s。\n\n覆盖你的个人副本？你的文件备份将保存在相同文件夹。
+
+Unable to open or create the project directory file: %s.
+无法创建项目目录文件: %s。
+
+Marking %s files for reparsing in project: %s.
+标记 %s 文件以便在项目 %s 里解析。
+
+Project cannot be opened: %s.\n\nUse a newer version of Source Insight to open it
+无法打开项目: %s。\n\n使用新版Source Insight打开它。
+
+%s is not a valid directory.
+%s 是无效目录。
+
+Unable to import project %s : It appears to be corrupted.\n\nOpen it in version 3.5 and rebuild it using Project > Rebuild Project. Then try importing again.
+无法导入项目 %s:它似乎损坏了。\n\n在3.5版里打开并重构它，团购尝试重新导入。
+
+Unable to open project %s for import.
+无法打开项目 %s，不能导入。
+
+Project: %s is corrupted and needs rebuilding.  Do you want to rebuild it now?
+项目 %s 损坏需要重构。立即重构？
+
+Converting to relative file paths in project %s.\n\nPlease wait...
+转换为文件相对路径，相对于项目 %s。\n\n请稍候...
+
+Cannot rename project to %s.\n\n The project is already open.
+无法重命名项目为 %s。\n\n项目已经打开。
+
+Project: %s has been rebuilt.
+项目 %s 已经重构。
+
+Project: %s has NOT been rebuilt.
+项目 %s 还没有重构。
+
+Project: %s is no longer open.
+项目% s 没有打开。
+
+The project has been converted successfully.
+成功转换项目。
+
+There was an error converting the project. The project has not been created.
+转换项目时发生错误。项目没有被创建。
+
+Do you want to convert project %s to the new version 4 format?  This may take a few minutes.\n\nClicking No will leave the project unopened.\n\nClicking Yes will make a copy and convert it.
+转换项目 %s 为新的v4版本格式。这将花几分钟。\n\n单击"No"将不会打开项目。\n\n单击"Yes"生成副本，然后转换它。
+
+File "%s" is not saved on disk.
+文件 %s 还没有保存。
+
+Error opening project: "%s".
+打开项目 %s 错误。
+
+There was an error opening project: "%s".
+打开项目 %s 发生错误。
+
+Project %s is busy and cannot be opened. Another instance of Source Insight may be modifying it.
+项目 %s 繁忙不能打开。可能另一个Source Insight在编辑它。
+
+Cannot continue because the project is read-only.\n\n%s
+无法继续，因为项目是只读。\n\n%s
+
+%s project needs to be re-indexed due to updates.\n\nDo you want to do that now?
+因为更新需要重新索引项目 %s。\n\n立即执行吗？
+
+%s project needs to be automatically rebuilt due to updates.\n\nDo you want to do that now?
+因为更新需要自动重构项目 %s。\n\n立即执行吗？
+
+Unsupported project version: %s; it cannot be opened.
+项目版本不支持: %s，无法打开。
+
+Are you sure you to print all %d files?
+确认要打印这 %d 个文件？
+
+Cannot rename directory in this view.
+无法在该视图重命名目录。
+
+Are you sure you want to remove the selected files and directories from the project?
+确认要从项目移除所选的文件和目录？
+
+%s could not be deleted.
+无法删除 %s。
+
+No files were deleted.
+没有删除文件。
+
+%s is a directory.\n\nDo you want to remove all selected directory trees?
+%s 是目录。\n\n移除所选的目录树？
+
+Are you sure you to DELETE all %d files from disk? This cannot be undone.
+确认要从硬盘上删除这 %d 个文件？该操作不能撤销。
+
+Are you sure you want to permanently DELETE the selected files? This cannot be undone.
+确认要永久删除所选文件？该操作不能撤销？
+
+Cannot create %s because it is already open.
+无法创建 %s，因为已经打开。
+
+Are you sure you to open all %d files?
+确认要打开这 %d 个文件？
+
+Are you sure you want to open all %d items?
+确认要打开这 %d 个组件？
+
+Do you want to add the files you dropped to the project?
+添加拖拽到项目的文件？
+
+While synchronizing %s, the file could not be opened.
+同步 %s 时，不能打开文件。
+
+You've changed conditional parsing settings.\n\nDo you want to re-parse your whole project now?
+你修改了条件解析设置。\n\n立即重新解析整个项目？
+
+Recording will be stopped.  Continue?
+将会停止记录。继续？
+
+--End Relation Window lookup-------
+--结束关联窗查找-------
+
+--Relation Window lookup-----------
+--关联窗查找-------
+
+Number of levels to expand?
+展开该层级？
+
+Continue searching for any reference to %s?
+继续搜索对 %s 的引用？
+
+An old version of Source Insight was found. Do you want to import configuration settings from it?\n\nYou can import it at any time by using Options > Load Configuration.
+发现旧版Source Insight。想要导入配置文件吗？\n\n你可以随时导入，见"选项 > 载入配置"。
+
+Would you like to create a new source code project now?
+立即新建源码项目？
+
+You can import symbols at any time by using Options > Preferences: Symbol Lookups.
+你可以随时导入符号，见"项目 > 首选项:符号查找"。
+
+This file contains Source Insight themes for visual settings.
+该文件包含 Source Insight 主题设置。
+
+You did not select any themes to import. Please checkmark at least 1 theme.
+你没有选择如何主题。请至少选择一个主题。
+
+Select which themes you want to import from the file. Existing themes with the same name will be replaced by the imported theme.
+选择一个想要导入的主题。以存在的同名主题将被导入的主题替换。
+
+A theme named %s already exists. Do you want to replace it?
+名为 %s 的主题已经存在。想要覆盖它？
+
+Are you sure you want to redefine the %s theme?
+确认要重定义主题 %s？
+
+You cannot redefine the Default Theme because it is preset.
+无法重定义预设的默认主题。
+
+There are new or updated default visual themes.\n\nDo you want to import the updated themes? You will get to pick which themes to import. A backup version of your old theme file will be saved in the same folder.
+发现新的主题。\n\n导入新主题？你可以选择导入主题。旧主题文件的备份将被保存在相同文件夹。
+
+Symbol relationship hiearchy is too deep for complete calculation.
+符号关联层次太深不能完成计算。
+
+%s contains lines longer than the maximum.\nOne or more lines were truncated.
+%s 包含的行长度超限。\n至少一行被截断。
+
+You must select two symbols to compare.
+为比较必须选择两个符号。
+
+Are you sure you to DELETE all %d files from DISK?
+确认要从硬盘上删除这 %d 个文件？
+
+Are you sure you want to permanently DELETE the selected files?
+确认要永久删除所选文件？
+
+Are you sure you want to remove the selected files from the project?
+确认要从项目移除所选的文件？
+
+Not enough memory for Windows Clipboard.
+系统剪切板所需内存不足。
+
+There are new installed snippets.\n\nDo you want to import the new snippets? A backup version of your old snippet file will be saved in the same folder.
+发现新的代码段。\n\n导入新的代码段？旧代码段文件的备份将被保存在相同文件。
+
+Please enter a valid snippet name. The name can be a combination of alpha-numeric or underscores, but must start with an alpha or underscore character.
+请收入有效的代码段名称。名称可以包含字母数字和下划线，必须以字母或下划线开头。
+
+Please enter a snippet name.
+请输入代码段名称
+
+Is it OK to delete the selected snippet?
+删除所选代码段？
+
+Are you sure you want to delete %d snippets?
+确认要删除这 %d 个代码段？
+
+Are you sure you want to delete all global snippets and set them to defaults? This is cannot be undone.
+确认要删除所有全局代码段，并设置为默认值？该操作不能撤销。
+
+Project data file is corrupted or missing.
+项目数据文件损坏或丢失。
+
+The Tab Tray can be enabled again by selecting Options > Preferences: Display, and clicking 'Tab Tray'.
+标签盘可以再次开启，在"选项 > 首选项"，单击"标签盘"。
+
+Can't find all files needed to recover.
+无法找到所有要恢复的文件。
+
+Could not open the recovery file: %s.
+无法打开恢复文件: %s。
+
+Warning: "%s" is required for recovery, but it cannot be opened. If it was on a network drive, reconnect that drive now and click Try Again.\n\nClick Continue to proceed without it.
+警告: %s 请求恢复，但无法打开它。如果它是网盘，请重连网盘并单击重试。\n\n单击"继续"忽略它。
+
+The Recovery File format has changed.  Recovery cannot be performed with this version of the software.
+恢复文件格式改变。该版本软件无法进行恢复。
+
+Recovery was not performed.
+恢复没有执行。
+
+Warning: "%s" does not exist and cannot be opened.
+警告: %s 不存在无法打开。
+
+The original file: "%s" has changed since the recovery file was updated.  The recovered file will possibly be an older version.\n\nContinue with recovery?
+原文件 %s 已经改变。恢复文件可能是旧的。\n\n继续恢复？
+
+The Workspace File format has changed.  You must use a newer version of this software to open it.\n\nFile: %s
+工作区文件格式改板。必须使用新版软件打开它。\n\n文件: %s
+
+Out of Undo space for %s.  Do you want to empty the Undo list and continue?
+撤销区空间不足。清空撤销列表并继续？
+
+You are about to undo changes that have already been saved to disk.\n\nDo you want to continue?
+你想要撤销已保存到硬盘的修改。\n\n继续？
+
+Recovery was successful.  %s unsaved changes.\n\nBe sure to check over the files that you changed to make double sure that the recovery was correct.
+恢复成功。%s未保存的改动。\n\n请再三确认你修改的文件被正确恢复。
+
+No files contain
+没有文件包含
+
+One file contains
+一个文件包含
+
+There are %d files containing
+%d 个文件包含
+
+Do you want to retry the recovery process?
+希望尝试恢复？
+
+The workspace file %s could not be written.  Do you want to continue to close all files?
+无法写入工作区文件 %s。继续关闭所有文件？
+
+There are captured Custom Commands still running.  Do you want to continue?
+已有自定义命令在运行。继续？
+
+Window Tabs can be enabled again by selecting View > Window Tabs.
+通过"视图 > 窗口标签"可以再次启用窗口标签。
+
+Symbol Name (%s)
+符号名 (%s)
+
+Project Files
+项目文件
+
+Project Symbols
+项目符号
+
+Symbol Categories
+符号分类
+
+Modified
+日期
+
+Metrics
+度量
+
+Symbol Name
+符号名
+
+//Symbol
+//符号
+//
+Open file in a window
+在窗口打开文件
+
+Load Layout A
+载入布局A
+
+Load Layout B
+载入布局B
+
+Load Layout C
+载入布局C
+
+Load Layout D
+载入布局D
+
+Activate Project Symbol List
+激活项目符号列表
+
+Activate Edit Menu
+激活编辑菜单
+
+Activate File Menu
+激活文件菜单
+
+Activate Help Menu
+激活帮助菜单
+
+Activate Menu Bar
+激活菜单栏
+
+Activate Options Menu
+激活选项菜单
+
+Activate Project Menu
+激活项目菜单
+
+Activate Search Menu
+激活搜索菜单
+
+Activate Symbol Window
+激活符号窗
+
+Activate System Doc Menu
+激活系统文档菜单
+
+Activate System Menu
+激活系统菜单
+
+Activate Tools Menu
+激活工具菜单
+
+Activate View Menu
+激活视图菜单
+
+Activate Window Menu
+激活窗口菜单
+
+Activate Work Menu
+激活工作菜单
+
+Add File...
+添文件
+
+Back Tab
+退tab
+
+Backspace
+退格
+
+Beginning Of Line
+行开头
+
+Beginning Of Selection
+选区开头
+
+Block Down
+下块
+
+Block Up
+上块
+
+Bottom Of File
+文件底部
+
+Bottom Of Window
+窗口底部
+
+Complete Snippet
+完成代码段
+
+Complete Symbol
+完成符号
+
+Copy Line
+复制行
+
+Copy Line Right
+复制行右
+
+Cursor Down
+光标下
+
+Cursor Left
+光标左
+
+Cursor Right
+光标右
+
+Cursor Up
+光标上
+
+Cut Line
+剪切行
+
+Cut Line Right
+剪切行右
+
+Cut Word
+剪切词
+
+Delete Character
+删除字符
+
+Drag Line Down
+拖拽线下移
+
+Drag Line Up
+拖拽线上移
+
+End Of Line
+行结尾
+
+End Of Selection
+选区结尾
+
+Function Down
+下函数
+
+Function Up
+上函数
+
+Go Back Toggle
+回退切换
+
+Go To First Link
+前往首个链接
+
+Go To Next Change
+前往下个修改
+
+Go To Previous Change
+前往上个修改
+
+Incremental Search...
+增量搜索...
+
+Insert Line
+插入行
+
+Insert Line Before Next
+之前插入行
+
+Insert New Line
+插入新行
+
+Join Lines
+加入行
+
+Jump To Match
+跳转到匹配
+
+Last Window
+最后窗
+
+Make Column Selection
+栏选择
+
+Next File...
+下个文件...
+
+Page Down
+下页
+
+Page Up
+上页
+
+Paren Left
+左括号
+
+Paren Right
+右括号
+
+Paste Line
+粘贴行
+
+Redraw Screen
+重绘屏幕
+
+Remove File...
+移动文件...
+
+Repeat Typing
+重复输入
+
+Restore Lines
+恢复行
+
+Scroll Half Page Down
+下滚半页
+
+Scroll Half Page Up
+上滚半页
+
+Scroll Left
+左滚动
+
+Scroll Line Down
+下滚行
+
+Scroll Line Up
+上滚行
+
+Scroll Right
+右滚动
+
+SDK Help...
+SDK帮助
+
+Search Backward for Selection
+在选区内向上搜索
+
+Select Char Left
+选择左字符
+
+Select Char Right
+选择右字符
+
+Select Line
+选择行
+
+Select Line Down
+选择下行
+
+Select Line Up
+选择上行
+
+Select Match
+选择匹配
+
+Select Next Snippet Placeholder
+选择下个代码段占位符
+
+Select Next Window
+选择下个窗口
+
+Select Page Down
+选择下页
+
+Select Page Up
+选择上页
+
+Select Previous Window
+选择前个窗口
+
+Select Sentence
+选择句子
+
+Select To
+选到
+
+Select To End Of File
+选到文件结尾
+
+Select To Start Of Line
+选到行开头
+
+Select To End Of Line
+选到行结尾
+
+Select To Top Of File
+选到文件顶
+
+Select Word
+选择词
+
+Select Word Left
+选择词左
+
+Select Word Right
+选择词右
+
+Show File Status
+显示文件状态
+
+Simple Tab
+简易tab
+
+Sort Symbol Window
+排序符号窗
+
+Tab
+Tab
+
+Toggle Insert Mode
+切换插入模式
+
+Top Of File
+文件顶
+
+Top Of Window
+窗口顶
+
+Word Left
+左词
+
+Word Right
+右词
+
+Zoom Window
+窗缩放
+
+Reformat Source Code
+格式化源码
+
+Create Bookmarks from Relation Items
+从关联组件创建书签
+
+Overview Options...
+鸟瞰图选项...
+
+<Previous Settings>
+<前个设置>
+
+<Current Settings>
+<当前设置>
+
+Scroll Bar Options...
+滚动条选项...
+
+File Types
+文件类
+
+  Col %d  
+  %d 列  
+
+Line %d
+%d 行
+
+Search List
+搜索
+
+String to find in the list:
+在列表里搜索:
+
+Start at Beginning
+从头开始
+
+Match Case
+大小写
+
+Regular Expressions
+正则表达式
+
+Multiple Locations
+多处定义
+
+%s - %d locations
+%s - %d 处定义
+
+Synchronizing %s
+同步 %s
+
+(No Project) - %s
+(无项目) - %s
+
+Comments and Ranges
+注释和范围
+
+Range Definitions:
+定义范围:
+
+Last column:
+尾列:
+
+First column:
+首列:
+
+Only valid in the following columns:
+只作用于以下列:
+
+Include delimiters in style
+包含分隔符
+
+Skip symbol parsing
+跳过符号解析
+
+Allow nesting
+允许嵌套
+
+Escape sequence:
+转义字符:
+
+Range &ends with:
+范围结束于:
+
+Range &begins with:
+范围起始于:
+
+&Syntax Formatting Style:
+语法风格:
+
+&Type of range:
+范围类型:
+
+Confirm Replacements
+确认替换
+
+New:
+新:
+
+Old:
+旧:
+
+Preserve Old Case
+保留大小写
+
+One Occurrence/Line
+每行替换首个
+
+< word under cursor >
+<光标处文本>
+
+Files...
+文件...
+
+&Advanced...
+高级...
+
+Word Fragments
+单词片段
+
+Word Variations
+单词变换
+
+Search Project:
+搜索项目:
+
+Search Project
+搜索项目
+
+Minimizes the panel window to the Tab Tray
+最小化面板到标签托盘
+
+Maximizes and Restores panel window size
+最大化和恢复面板尺寸
+
+Closes the panel window
+关闭面板
+
+Press Enter to add new bookmark
+按回车添加新书签
+
+Bookmark Item or Line Number
+书签或行号
+
+Bookmark Options
+书签选项
+
+Bookmark Options...
+书签选项...
+
+Confirm when deleting bookmarks
+删除书签时确认
+
+When a file closes, delete its bookmarks
+文件关闭时删除书签
+
+Preserve bookmarks between sessions
+会话期间保持书签
+
+New Bookmark
+新书签
+
+Delete Bookmark
+删除书签
+
+Go To Bookmark
+跳转到书签
+
+Load Bookmarks
+加载书签
+
+Save Bookmarks
+保存书签
+
+Load Bookmarks...
+加载书签...
+
+Save Bookmarks...
+保存书签...
+
+Bookmark Comment:
+书签注释:
+
+Go to Line:
+跳到行:
+
+Go To Line
+跳到行
+
+Searches for text in the current file
+在当前文件搜索文本
+
+Snippet: %s
+片段: %s
+
+Clip: %s
+剪辑: %s
+
+Snippet Name
+片段名
+
+New Snippet...
+新片段...
+
+Delete Snippet
+删除片段
+
+Edit Snippet Text in Editor
+用编辑器编辑片段
+
+Edit Snippet...
+编辑片段...
+
+Paste from Snippet
+从片段粘贴
+
+Snippet Window Options...
+片段窗选项...
+
+Clipboard
+剪贴板
+
+Paste From
+粘贴自
+
+Copy To
+拷到
+
+Cut To
+剪到
+
+System Clipboard
+系统剪贴板
+
+Text
+文本
+
+%s from %s
+%s,源自%s
+
+Clip Name
+剪辑名
+
+Clip Name:
+剪辑名:
+
+New Clip...
+新剪辑
+
+New Clip
+新剪辑
+
+New Clip Name?
+新剪辑名?
+
+Delete Clip
+删除
+
+Edit Clip
+编辑
+
+Cut To Clip
+剪切
+
+Copy To Clip
+复制到剪辑
+
+Paste From Clip
+从剪辑粘贴
+
+Clip Window Options
+剪辑窗选项
+
+Clip Window Options...
+剪辑窗选项...
+
+Process text variables when pasting from clips
+从剪辑粘贴时处理文本变量
+
+Always paste at the start of a line
+总是粘贴在行首
+
+Always keep source text when dropped on clip window
+拖拽进剪辑窗后保留原文本
+
+Delete clip after clip is dragged out
+拖拽出后删除剪辑
+
+Prompt for new clip name when text is dropped
+拖拽入文本后询问新剪辑名
+
+Preserve clips between sessions
+会话期间保持剪辑
+
+Clip Properties
+剪辑属性
+
+Activate Search Results
+激活搜索结果
+
+Toggle Expansions
+切换展开
+
+Selects the enclosing code block
+选择闭合代码块。
+
+File &2:
+文件2:
+
+File &1:
+文件1:
+
+Compare with a Backup Version...
+和备份文件比较...
+
+Or, you can compare the current file with a previous version in the Backup directory.
+或者，可以和备份文件夹里的旧版本文件比较。
+
+Compare
+比较
+
+//Show Folder
+//开目录
+//
+Directory path
+文件夹路径
+
+Choose Right Directory for Comparison
+选择要比较的右侧文件夹
+
+Choose Left Directory for Comparison
+选择要比较的左侧文件夹
+
+Right File
+右文件
+
+Left File
+左文件
+
+Compare Files
+比较文件
+
+Open Both Files
+两边都打开
+
+Open Right File
+打开右文件
+
+Open Left File
+打开左文件
+
+Copy File to Right
+复制到右侧
+
+Copy File to Left
+复制到左侧
+
+Next Difference
+下一个差异
+
+Previous Difference
+前一个差异
+
+Delete Right File
+删除右侧文件
+
+Delete Left File
+删除左侧文件
+
+Directory Compare Options
+文件夹比较选项
+
+Hides the window.
+隐藏窗口。
+
+Compare File
+比较文件
+
+Confirm before copying or deleting files
+复制或删除文件前确认
+
+Other Options
+其他选项
+
+Ignore differences in end-of-line characters
+忽略行结束符差异
+
+Ignore differences in white space
+忽略空格差异
+
+When Comparing File Contents
+比较文件内容时
+
+Compare file contents (slower)
+比较文件内容(较慢)
+
+Only compare file sizes and modification dates
+只比较文件大小和修改时间
+
+Only compare file modification dates
+只比较文件修改时间
+
+Comparison Method
+比较规则
+
+Refresh
+刷新
+
+Compare Directories
+比较目录
+
+Toggles Comparison Window locking. Its contents do not change when locked.
+切换比较窗锁。锁定后内容不会改变。
+
+Lock File Compare Window
+锁定文件比较窗
+
+Copy Text to Right
+往右复制文本
+
+Copy Text to Left
+往左复制文本
+
+File Compare Window Options
+文件比较窗选项
+
+File Compare Window Options...
+文件比较窗选项
+
+Edit File
+编辑
+
+Nesting Lines
+嵌套线
+
+Show Difference List
+显示差异列表
+
+Display in 'Mono Font View'
+显示等宽字体视图
+
+Show difference list
+显示差异列表
+
+Diff Command...
+Diif命令...
+
+Show vertical scroll bar
+显示垂直滚动条
+
+Diff Command Line
+Diff命令行
+
+Enter the path and command line for the diff program:
+输入diff程序的路径和命令行:
+
+Allow edits
+可编辑
+
+Reformat Source Code Options
+格式化源码选项
+
+Current Preset:
+当前预设:
+
+Edit Preset...
+编辑预设...
+
+Restore Defaults
+恢复默认
+
+Export All...
+全部导出...
+
+To use a preset, select it in the list above and click Format. To edit the preset's settings, select it in the list, then click on Edit Preset...
+使用预设，在上方列表选择然后单击"格式化"。编辑预设，在上方列表选择然后单击"编辑预设..."
+
+Add Preset
+添加
+
+New preset name:
+新预设名:
+
+Reformat Source Code - %s Preset
+格式化源码 - %s
+
+Layout and Flow
+布局和流程
+
+Blank line below labels
+标签后空行
+
+Blank line above labels
+标签前空行
+
+One indent level less than statements
+比语句少一个缩进等级
+
+At leftmost column
+顶格
+
+Indent with statements
+和语句对齐
+
+Indentation for Goto Labels
+Goto 标签缩进
+
+Indent width:
+缩进宽度:
+
+Convert spaces to tabs
+空格改为制表符
+
+Indentation
+缩进
+
+Outermost braces at column 1
+最外层括号定格
+
+Extra indent of statements inside braces
+括号内的语句缩进
+
+Indent the close } brace
+缩进 }
+
+Indent the open { brace
+缩进 {
+
+Open { brace on new line
+{ 另起一行
+
+Brace Style
+大括号
+
+Space after keywords: if, while, for, etc.
+关键词后加空格: if, while, for 等
+
+Add braces around single statement bodies
+为单行语句加括号
+
+Force single line bodies onto next line
+强制单行语句另起一行
+
+Keep else-if on same line
+else-if 在同一行
+
+Blank line after control statements
+控制语句后空行
+
+Blank line before control statements
+控制语句前空行
+
+Control statements start a new line
+控制语句另起一行
+
+Control Statements - if, while, for, etc.
+控制语句 - if, while, for 等
+
+Wrap lines at column:
+行宽列数:
+
+Line Width
+行宽
+
+Align macro continuation (\) at column:
+按列对齐宏换行 (\):
+
+Align macro values at column:
+按列对齐宏值:
+
+Align macro names at column:
+按列对齐宏名:
+
+Preprocessor Macros (#defines)
+预处理宏 (#defines)
+
+Blank lines between functions:
+函数前加空行:
+
+Preserve blank lines in source
+保留源码的空行
+
+Line Spacing
+空行
+
+Align assignments at column:
+按列对齐分配
+
+Align variables at column:
+按列对齐变量
+
+Remove extra white space at end of lines
+删除行尾多余空格
+
+Spaces inside parentheses like '( this )'
+圆括号内侧空格如 ( this )
+
+Spaces around operators
+操作符前后空格
+
+Spaces between function parameters
+函数参数间空格
+
+Space between function name and parentheses
+函数名和圆括号间空格
+
+White Space
+空格
+
+Indent namespace contents
+对齐命名空间内容
+
+Align right-hand comments at column:
+按列对齐右侧注释:
+
+Preserve text formatting in lines that contain only comments
+保留只有注释的行的文本格式
+
+Blank line above comment blocks
+注释前空行
+
+Preserve blank lines in comments
+保留注释的空行
+
+One indent level less than other declarations
+比其他声明少一个缩进等级
+
+Indent same as other declarations
+和其他声明相同
+
+Indentation for Member Access Specifiers (private/public/etc)
+缩进成员访问限定符 (private/public/etc)
+
+Align bit-field sizes at column:
+按列对齐 bit-field:
+
+Align field members at column:
+按列对齐成员:
+
+Blank line below public/private labels
+public/private 标签后空行
+
+Blank line above public/private labels
+public/private 标签前空行
+
+Indent members
+缩进成员
+
+Classes and Structs
+类和结构体
+
+Classes and Comments
+类和注释
+
+&Find:
+搜索:
+
+Find:
+搜索:
+
+Search File
+搜文件
+
+Search File (%s)
+搜索文件 (%s)
+
+&Search Files...
+搜索文件...
+
+&Options...
+选项...
+
+&Previous
+后退
+
+&Next
+前进
+
+Context Sensitive
+上下文相关
+
+Use regular expressions
+使用正则表达式
+
+Use context sensitive symbol search
+使用上下文符号搜索
+
+Load word at cursor when buttons are pressed
+按下前后键时搜索光标处词
+
+Search while typing
+递进式搜索
+
+Match only whole words
+匹配完整词
+
+Wrap around to beginning or end of file
+循环查找
+
+Case sensitive
+大小写敏感
+
+Select text when found
+找到时选中文本
+
+Basic Options
+基本选项
+
+File Search Bar Options
+文件搜索栏选项
+
+Files Selected in Project File Panel
+项目文件面板里选中的文件
+
+The Current File
+当前文件
+
+All Project Files
+所有项目文件
+
+%s in %s at line %d
+%s 在 %s 第%d行
+
+ (%d lines)
+ (共%d行)
+
+(%d lines) 
+(共%d行)
+
+Edit List...
+编辑列表...
+
+Edit Condition
+编辑条件
+
+Edit Condition Set:
+条件作用域:
+
+Project-Specific
+项目相关
+
+Global Conditions
+全局条件
+
+//Untitled Project
+//无名工程
+//
+List Settings...
+列表设置...
+
+Connect To Host...
+连接主机...
+
+Disconnect
+断开
+
+Refresh List
+刷新列表
+
+Upload File...
+上传文件...
+
+Download File...
+下载文件...
+
+New File Name?
+新文件名？
+
+Remote Session
+远程会话
+
+Replace ? 
+替换？
+
+Search Web
+搜网页
+
+Search Engines
+搜索引擎
+
+Search Engine
+搜索引擎
+
+Search Engine Name:
+搜索引擎名称:
+
+Edit Web Search Engine
+编辑网页搜索引擎
+
+New Web Search Engine
+新网页搜索引擎
+
+Search Files
+搜索文件
+
+New File
+新文件
+
+%d bytes; modified on %s
+%d bytes; 修改于 %s
+
+Save Snippets...
+保存代码段...
+
+Load Snippets...
+加载代码段...
+
+Load Snippets
+加载代码段
+
+Project snippet storage
+项目片段库
+
+Global snippet storage
+全局片段库
+
+Load snippets into:
+加载到:
+
+Replace
+替换
+
+Replace Files
+替换文件
+
+Add New Language
+添加新语言
+
+New language name:
+新语言名称:
+
+Language Name:
+语言名称:
+
+Comment:
+注释:
+
+$nnnn Hex (Motorola)
+$nnnn 16进制
+
+nnnnh Hex (Intel)
+nnnnh 16进制
+
+&&Hnnnn Hex (Basic)
+&&Hnnnn 16进制
+
+0xnnnn Hex (C)
+0xnnnn 16进制
+
+nnnQ Octal (Intel)
+nnnQ 8进制
+
+nnnO Octal (Intel)
+nnnO 8进制
+
+&&Onnn Octal (Basic)
+&&Onnn 8进制
+
+Detect numbers
+检测数值
+
+Non-AlphaNum identifier chars:
+非字母数字标识符:
+
+Detect comment styles
+检测注释风格
+
+Use Syntax Formatting
+使用语法格式化
+
+Syntax
+语法
+
+Allow smart tab
+允许智能tab
+
+Uses C preprocessor
+使用C预处理
+
+Case sensitive text
+区分大小写
+
+Contains program source code
+包含程序源码
+
+New...
+新建
+
+Append
+追加
+
+inside %s at line %d
+被 %s 调用, 第%d行
+
+Searching Options...
+搜索选项...
+
+N&o to All
+全否
+
+Yes to &All
+全是
+
+&No
+否
+
+&Yes
+是
+
+Yes
+是
+
+No
+否
+
+Source Insight - Reload File
+Source Insight - 重载文件
+
+Activate Window
+激活窗口
+
+Tile Windows Vertically
+纵向平铺窗口
+
+Tile Windows Horizontal
+横向平铺窗口
+
+Restore Windows
+还原窗口
+
+Minimize Windows
+最小化窗口
+
+Save File As...
+另存文件...
+
+Save File
+保存
+
+Window List Options...
+窗口列表选项...
+
+Window List Options
+窗口列表选项
+
+Show current symbol
+显示当前符号
+
+Include open files without windows
+包含无窗口的打开文件
+
+Sort List By
+排序
+
+Window Name
+窗口名
+
+Source Insight Trial Activation
+Source Insight 试用版激活
+
+Re-type email:
+再输入Emali:
+
+Your &email: *
+你的Email: *
+
+&Company or Organization:
+公司或者组织:
+
+&Your Name: *
+你的名字: *
+
+Now activating your license... Please wait...
+正在激活许可... 请稍候...
+
+Trial version
+试用版
+
+BETA version
+BETA测试版
+
+Source Insight Update Notice
+Source Insight 更新通知
+
+This version: %s  %s\nNew version: %s  %s\n\n
+当前版本: %s  %s\n新的版本: %s  %s\n\n
+
+Please choose an option below:
+请选择一个:
+
+Synchronizing %s
+同步 %s
+
+Checking file list...
+检查文件列表...
+
+Go To
+跳转
+
+Position:
+位置:
+
+Selection History
+选择记录
+
+Parse Source Links
+解析源链接
+
+Project Symbol List Options
+项目符号列表选项
+
+Symbol Type Filter
+符号类型过滤
+
+Project Symbol Category Window Options
+项目符号分类窗选项
+
+Project File Type Window Options
+项目文件类型窗选项
+
+Pick...
+选择
+
+//Snippets
+//片段
+//
+//Clips
+//剪辑
+//
+Delete All Clips
+删除所有剪辑
+
+Show Clipboard
+显示剪切板
+
+Clip Properties...
+剪辑属性...
+
+Delete All Bookmarks...
+删除所有书签...
+
+Set Bookmark to Current Line
+为当前行设置书签
+
+Edit Bookmark...
+编辑书签...
+
+Name:
+名称:
+
+the currently selected text before the snippet is inserted
+插入代码段前选中的文本
+
+the current UTC year
+当前UTC年份
+
+the current UTC time
+当前UTC时间
+
+the current UTC date
+当前UTC日期
+
+the current local year
+当前本地年份
+
+the current local time
+当前本地时间
+
+the current local date
+当前本地日期
+
+the system user name that is logged in
+登录系统的用户名
+
+name of the type declared before the current line
+当前行之前声明的类型名
+
+name of the type declared after the current line
+当前行之后声明的类型名
+
+name of the current enclosing struct, class or data type
+当前的结构体、类数据类型名
+
+name of the function declared before the current line
+当前行之前声明的函数名
+
+name of the function declared after the current line
+当前行之后声明的函数名
+
+name of the current enclosing function
+当前的函数名
+
+name of the package declared before the current line
+当前行之前声明的包名
+
+name of package declared after the current line
+当前行之后声明的包名
+
+name of the current enclosing package
+当前的包名
+
+name of the namespace declared before the current line
+当前行之前声明的命名空间
+
+name of the namespace declared after the current line
+当前行之后声明的命名空间
+
+name of the current enclosing namespace
+当前的命名空间
+
+name of the symbol declared before the current line
+当前行之前声明的符号名
+
+name of the symbol declared after the current line
+当前行之后声明的符号名
+
+name of symbol declared or enclosing the cursor position
+光标处的符号名
+
+name of the function, class, or symbol that encloses the cursor
+光标处的函数、类或符号名
+
+return type of the current function
+当前函数的返回类型
+
+the current word at the cursor position
+光标处单词
+
+current file name without path
+无路径的文件名
+
+current file name relative to project root
+相对项目根目录的文件名
+
+current file name with path
+带路径的当前文件名
+
+dollar sign ($)
+美元符号$
+
+Line Number:
+行号:
+
+File Path:
+路径:
+
+Edit Bookmark
+编辑书签
+
+Open As Encoding
+用该编码打开
+
+Reload As Encoding
+用该编码重载
+
+Save As Encoding
+用该编码保存
+
+Encoding:
+编码:
+
+Encoding
+编码
+
+Code Page
+代码页
+
+Start at
+起始于
+
+Visible Spaces
+显示空格
+
+Visible Tabs
+显示Tab
+
+Vertical Enhanced Scroll Bar
+增强垂直滚动条
+
+Show Relations
+显示关联
+
+Clear Highlights
+清除高亮
+
+Activate Window List
+激活窗口列表
+
+Activate Relation Window
+激活关联窗
+
+Activate Project Window
+激活项目窗
+
+Activate Clip Window
+激活剪辑窗
+
+Activate Project File List
+激活项目文件列表
+
+Activate FTP Browser
+激活FTP浏览器
+
+Add File List...
+添加文件列表
+
+Parsing Test
+解析测试
+
+Rename Project...
+重命名项目...
+
+Trim Whitespace
+去除空白
+
+Smart Tab
+智能Tab
+
+Insert Class Function Prototypes
+插入类函数原型
+
+Expand Text Variables
+展开文本变量
+
+Drag Line Down More
+下移几行
+
+Drag Line Up More
+上移几行
+
+Delete Line
+删除行
+
+Cut Line Left
+剪切行左侧
+
+Cut Word Left
+剪切词左边
+
+Cut Selection or Paste
+剪切选区或粘贴
+
+Sync File Windows
+同步文件窗
+
+Split Window
+分割窗口
+
+Remove Special Window Color
+移除特殊窗颜色
+
+Setup WinHelp File
+设置Win帮助
+
+Setup HTML Help
+设置HTM帮助
+
+HTML Help...
+HTML帮助...
+
+Help Mode
+协助式
+
+Save Declaration File
+保存声明文件
+
+Project Symbols Dialog...
+项目符号对话框...
+
+Parse File Now
+解析文件
+
+Generate Call Tree...
+生成调用树...
+
+Search Results Options...
+搜索结果选项...
+
+Search Engines...
+搜索引擎...
+
+Load Search String
+载入搜索字符串
+
+Incremental Search Backward...
+向上增量搜索...
+
+Advanced Options...
+高级选项...
+
+Color Options...
+颜色选项...
+
+File Options...
+文件选项...
+
+Folder Options...
+文件夹选项...
+
+General Options...
+常规选项...
+
+Typing Options...
+输入选项...
+
+Window Options...
+窗口选项...
+
+Remote Options...
+远程选项...
+
+Enable Event Handlers
+启用事件处理
+
+Next Relation Window View
+下一个关联窗视图
+
+Project File Type Window Options...
+项目文件类型窗选项...
+
+Reset Scaling
+重置缩放
+
+Symbol Lookup Options...
+符号查找选项...
+
+Syntax Color...
+语法颜色...
+
+Syntax Decorations...
+语法修饰...
+
+Syntax Formatting...
+语法格式化...
+
+Deactivate License...
+冻结授权...
+
+Exit and Suspend
+退出并挂起
+
+Exit Windows
+退出Windows
+
+Ordering Information...
+订购信息...
+
+Restart Windows
+重启Windows
+
+Run Macro
+运行宏
+
+Setup Common Projects...
+设置一般项目...
+
+Unimplemented Command
+未知命令
+
+Activate Bookmark Window
+激活书签窗口
+
+Blank Line Down
+下一空行
+
+Blank Line Up
+上一空行
+
+Go To Next Reference Highlight
+下一个引用高亮
+
+Go To Previous Reference Highlight
+上一个引用高亮
+
+Select Paragraph
+选择段落
+
+Smart Beginning Of Line
+智能行首
+
+Smart End Of Line
+智能行尾
+
+Toggle Extend Mode
+切换扩展模式
+
+Word Fragment Left
+单词左移
+
+Word Fragment Right
+单词右移
+
+Opens and selects the Project Window
+打开并选择项目窗。
+
+Shows or hides the Help toolbar
+显示或隐藏帮助栏。
+
+Sets options for the Window Tabs.
+设置窗口标签
+
+Scrolls up by one page
+往上滚动一页。
+
+Displays the Work menu.
+显示附加菜单。
+
+Activate Context Menu
+激活菜单
+
+Right-click context menu
+右键菜单
+
+Save All Quietly
+静默保存全部
+
+Restore File
+恢复文件
+
+Open Last
+打开末
+
+Load File...
+载入文件...
+
+Export File As HTML...
+到处文件为HTML...
+
+Checkpoint All
+所有检查点
+
+Checkpoint
+检查点
+
+Link to %s at line %d
+链接到 %s 第 %d 行
+
+Link to %s at line %d in %s
+链接到 %s 第%d 行, %s
+
+Application
+应用
+
+Custom Cmd: 
+自定命令: 
+
+Navigation
+导航
+
+Source Control
+源码控制
+
+Check In
+检入
+
+Check Out
+检出
+
+Undo Check Out
+撤销检出
+
+Sync to Source Control Project
+从源码控制系统同步
+
+Sync File to Source Control Project
+从源码控制系统同步文件
+
+Build Project
+构建
+
+Clean Build
+清理
+
+Compile File
+编译文件
+
+Run Project
+运行
+
+Explore Project Folder
+浏览项目文件夹
+
+Preview in Web Browser
+用浏览器预览
+
+Search In Folder
+在目录里搜索
+
+Sort File
+排序
+
+Sort Selection
+排序所选
+
+Command Shell
+命令行
+
+Windows Explorer
+资源管理器
+
+regex to parse output into source links
+正则式把输出解析为源链接
+
+Outline
+折叠
+
+Build
+构建
+
+<end of menu>
+<菜单结束>
+
+Global 
+全局
+
+Local 
+局部
+
+Variable
+变量
+
+Type Definition
+类型定义
+
+Function Prototype
+函数原型
+
+Enum Constant
+枚举常量
+
+Member Function
+成员函数
+
+Enumeration
+枚举
+
+Class Template
+类模板
+
+Function Template
+函数模板
+
+Constant
+常量
+
+External Variable
+外部变量
+
+Member Function Prototype
+成员函数原型
+
+Locals inside functions
+局部内部函数
+
+Structure
+结构体
+
+Macro: 
+宏: 
+
+VHDL Configuration
+VHDL配置
+
+VHDL Process
+VHDL进程
+
+VHDL Component
+VHDL组件
+
+VHDL Architecture
+VHDL架构
+
+VHDL Entity
+VHDL实体
+
+C# Event
+C#事件
+
+C# Indexer
+C#索引器
+
+C# Class Property
+C#类属性
+
+IDL Interface
+IDL接口
+
+IDL Library
+IDL库
+
+IDL Module
+IDL模块
+
+//HTML Title
+//HTML标题
+//
+//HTML or XML Element
+//HTML/XML元素
+//
+Editor Macro
+编辑器宏
+
+Custom Tag
+自定Tag
+
+Parsing Error
+解析错误
+
+Token Macro
+令牌宏
+
+CSS Rule Selector
+CSS规则选择器
+
+Macro Event
+宏事件
+
+Editor Macro Function
+编辑器宏函数
+
+Code Block
+代码块
+
+Scroll To Here
+滚动到此
+
+\n<i>Style: 
+\n风格: 
+
+Derived Classes
+派生类
+
+Inheritance
+继承
+
+Properties
+属性
+
+Type of
+类型
+
+Base Classes
+基类
+
+Member Types
+成员类型
+
+Member Classes
+成员类
+
+File Type
+类型
+
+No Custom Parser
+无自定解析器
+
+Font & Color
+字体和颜色
+
+Status
+状态
+
+decreasing metrics
+按度量降序
+
+increasing metrics
+按度量升序
+
+newest first
+新在前
+
+oldest first
+旧在前
+
+decreasing size
+按大小降序
+
+increasing size
+按大小升序
+
+descending dir order
+按目录逆序
+
+directory order
+按目录顺序
+
+descending order
+逆序
+
+ascending order
+顺序
+
+Name (occurrence order)
+名称(按出现顺序)
+
+Name (descending order)
+名称(按出现逆序)
+
+Name (increasing metrics)
+名称(按度量升序)
+
+Name (decreasing metrics)
+名称(按度量降序)
+
+Name (file order)
+名称(顺序)
+
+Name (descending file order)
+名称(逆序)
+
+//Line
+//行号
+//
+%d. line %d
+%d.第%d行
+
+Open Backup File
+打开备份文件
+
+Time
+时间
+
+Delete File
+删文件
+
+Page Setup
+页设置
+
+Open Workspace File
+打开工作区
+
+Save Workspace
+保存工作区
+
+Rename %s
+改名 %s
+
+Insert File
+插文件
+
+Renumber
+重编号
+
+Smart Rename
+智能改名
+
+Pattern:
+样式:
+
+Export Project File List
+导出项目文件列表
+
+Load Configuration File
+载入配置文件
+
+Compare with Backup File
+和备份文件比较
+
+Load Layout
+读布局
+
+Checking for modified files...
+检查文件修改...
+
+Error: %s
+错误: %s
+
+FTP: Unable to connect to host
+FTP: 无法连接到主机
+
+FTP: Not connected to host
+FTP: 未连接主机
+
+FTP: Connected, but unable to logon to host
+FTP: 已连接主机，但无法登录
+
+FTP: Access denied
+FTP: 拒绝访问
+
+FTP: Transfer was aborted
+FTP: 传输被终止
+
+FTP: Socket error
+FTP: Socket错误
+
+FTP: Unable to enter Passive mode
+FTP: 无法进入被动模式
+
+FTP: Cannot open file
+FTP: 无法打开文件
+
+FTP: File is not accessable
+FTP: 文件不可访问
+
+Low Memory
+缺内存
+
+Low System Resources
+系统资源不足
+
+Operation Canceled
+操作取消
+
+Unknown general error
+未知的一般错误
+
+Cannot create font
+无法创建字体
+
+Cannot create DC
+无法创建DC
+
+Cannot create system window
+无法创建系统窗口
+
+Cannot load bitmap
+无法载入位图
+
+Recovery Aborted
+终止恢复
+
+Cannot open file: %s
+无法打开文件: %s
+
+Cannot create file: %s
+无法创建文件: %s
+
+Error closing file
+关闭文件错误
+
+File read error
+读文件错误
+
+File write error
+写文件错误
+
+File is too large
+文件太大
+
+File seeking error
+文件定位错误
+
+File write error for %s
+写文件错误: %s
+
+File read error for %s
+读文件错误: %s
+
+Too many files are open.
+文件打开太多。
+
+File is corrupted: %s.
+文件损坏: %s
+
+File path is too long: %s.
+文件路径太长: %s
+
+System resources are too low.
+系统资源不足。
+
+Long file name support is required: %s
+需要长文件名支持: %s
+
+Network access was forbidden. Error code: %d\n\nThis can happen if you are behind a proxy server or firewall. It can be resolved by not using a proxy/firewall, or adding the following URL in the proxy server/firewall settings:\nsls.sourceinsight.com (port 443).
+网络接入被拒绝。错误码: %d\n\n可能你处于代理服务器或防火墙内。尝试禁用代理和防火墙，或者将以下地址添加到代理服务器和防火墙设置里:\nsls.sourceinsight.com (port 443)
+
+A proxy server returned 'Proxy Authentication Required' when connecting to the license server. Error code: %d\n\nIt can be resolved by not using a proxy, or adding the following domain in the proxy server setting:\nsls.sourceinsight.com (port 443).
+在连接到授权服务器时，代理服务器返回"代理认证请求"。错误码: %d\n\n尝试禁用代理和防火墙，或者将以下地址添加到代理服务器设置里:\nsls.sourceinsight.com (port 443)
+
+The license server encountered an error processing the license. Error code: %d
+授权服务器发生错误。错误码: %d
+
+The license activation failed because there are too many machines activated with this serial number: %s
+激活许可失败，因为这个序列号激活了太多设备: %s
+
+Please enter your old Source Insight version 3.x serial number. Example: SI3US-123456-54321
+请输入旧版 Source Insight 3.x 序列号，例如: SI3US-123456-54321
+
+Checking for Source Insight updates...  Please wait...
+检查更新... 请稍候...
+
+copy
+副本
+
+Editor Macro Functions
+编辑器宏函数
+
+Captured Variables
+截取变量
+
+Lambda Functions
+Lambda 函数
+
+Macro Events
+宏事件
+
+Type Parameters
+类型参数
+
+Alias Targets
+别名目标
+
+Aliases
+别名
+
+External Variables
+外部变量
+
+Type References
+类型引用
+
+VHDL Configurations
+VHDL配置
+
+VHDL Processes
+VHDL进程
+
+VHDL Components
+VHDL组件
+
+VHDL Architectures
+VHDL架构
+
+VHDL Entities
+VHDL实体
+
+C# Events
+C#事件
+
+C# Indexers
+C#索引器
+
+C# Class Properties
+C#类原型
+
+CSS Rule Selectors
+CSS规则选择器
+
+Imported Packages
+导入包
+
+Template Parameters
+模板参数
+
+C++ Templates
+C++模板
+
+IDL Interfaces
+IFL接口
+
+IDL Libraries
+IDL库
+
+IDL Modules
+IDL模块
+
+Member Function Prototypes
+成员函数原型
+
+HTML Titles
+HTML标题
+
+HTML or XML Elements
+HTML/XML元素
+
+Parsing Errors
+解析错误
+
+Code Blocks
+代码块
+
+//Token Macros
+//令牌宏
+//
+//Namespaces
+//名空间
+//
+Packages
+包
+
+Class Template Placeholders
+类模板占位符
+
+Class Templates
+类模板
+
+Function Templates
+函数模板
+
+Directories
+目录
+
+Base Class References
+基类引用
+
+Inline Type References
+内联类型引用
+
+Class Placeholders
+类占位符
+
+Resources
+资源
+
+Interfaces
+接口
+
+Data Members
+数据成员
+
+Labels
+标签
+
+Function Prototypes
+函数原型
+
+Enum Constants
+枚举常量
+
+Member Functions
+成员函数
+
+Classes
+类
+
+Editor Macros
+编辑器宏
+
+Custom Tags
+自定Tags
+
+Enumerations
+枚举
+
+Constants
+常量
+
+Variables
+变量
+
+Type Definitions
+类型定义
+
+Unions
+联合
+
+Structures
+结构体
+
+Macros
+宏
+
+Functions
+函数
+
+Switch to Insertion Mode
+切换到插入模式
+
+Switch to Overstrike Mode
+切换到改写模式
+
+Enable Browser Mode
+启用浏览模式
+
+Disable Browser Mode
+禁用浏览模式
+
+Cannot save to read-only file: %s
+无法保存只读文件:\n%s
+
+Are you sure you want to overwrite a read-only file: %s
+确认要覆写只读文件？\n%s
+
+Check &Out...
+检出...
+
+Over&write!
+覆写!
+
+&Cancel
+取消
+
+&Skip File
+跳过
+
+&Try Again
+重试
+
+Read Only File
+只读文件
+
+The line endings are not consistent in the following file. Do you want to normalize the file?\n\n%s
+该文件行结束符不统一。需要修正吗？\n\n%s
+
+Always show this prompt
+一直显示该提示
+
+Converts all end-of-line characters to match the default setting from File Options.
+根据文件选项转换所有行结束符为默认设置。
+
+Toggles the display of visible end-of-line characters.
+切换是否显示行结束符。
+
+Visible end-of-line
+显示行结束符
+
+Turn on visible end-of-line characters. Also set in File Type Options.
+显示行结束符，也可在文件类型选项里设置。
+
+Save this as the default line ending format. Also set in Preferences > Files.
+保存为默认行结束符格式，也可在"首选项 > 文件"里设置。
+
+Mac pre-OSX line ending (CR)
+Mac pre-OSX 行结束符(CR)
+
+Unix line ending (LF)
+Unix 行结束符(LF)
+
+Windows line ending (CR/LF)
+Windows 行结束符(CR/LF)
+
+Apply this line ending format to all lines in the file buffer:
+将该行结束符格式应用到文件的所有行：
+
+Normalize End of Lines
+修正行结束符
+
+working...
+处理中
+
+Highlight current symbol
+高亮当前符号
+
+Keep } else on same line
+保持 } else 同一行
+
+Yes and &Compare
+是并且比较
+
+Yes and &View It
+是并且查看
+
+No difference found
+未找到差异
+
+open lines
+差异行
+
+Char %d  Byte %ld	
+%d字符 %ld字节	
+
+Display project information and statistics.
+显示项目信息和统计数据。
+
+Project Info...
+项目信息...
+
+Project Info
+项目信息
+
+Project: %s\r\nSymbol records: %s\r\nIndex entries: %s\r\nFiles: %s\r\nSymbol file size: %s\r\nDatabase memory mapped: %s
+项目: %s\r\n符号记录: %s\r\n索引项: %s\r\n文件: %s\r\n符号文件大小: %s\r\n数据库内存映射: %s
+
+Global Imported Libraries: 
+全局导入库:
+
+Imported Libraries: 
+导入库:
+
+Index name fragments: %s
+索引名分段: %s
+
+Index members: %s
+索引成员: %s
+
+Master File List: %s
+主文件列表: %s
+
+Source Directory: %s
+源目录: %s
+
+Data Directory: %s
+数据目录: %s
+
+All Files in Current Directory
+当前目录的所有文件
+
+Select
+选择
+
+Maximize Window
+最大化
+
+Minimize
+最小化
+
+OFF
+关
+
+ON
+开
+
+Expand Cap Words
+增大大写单词
+
+Partial First Upper
+部分首大写
+
+First Upper
+首大写
+
+All Lower
+全小写
+
+All Upper
+全大小
+
+Thick
+粗线
+
+Dotted
+点线
+
+Single
+单线
+
+Double
+双线
+
+%u Matches in %d files (%d searched)
+匹配 %u处 %d文件,已搜索%d个
+
+Searching %s...\n%u Matches in %d files
+搜索 %s...\n匹配 %u处 %d文件
+
+Searching %s ...\n
+搜索 %s ...\n
+
+Searching...\n
+搜索...\n
+
+%u Matches in %d files
+匹配 %u处 %d文件
+
+&Recursively add lower sub-directories
+递归添加子目录
+
+&Include top level sub-directories
+包含顶级子目录
+
+Add to Project
+添加到项目
+
+Directory Compare
+比较目录...
+
+Normalize End Of Line Characters...
+修正行结束符...
+
+Work
+附加
+
+Reset Toolbar Layout
+重置工具栏布局
+
+Resets the main toolbar layout to the default.
+重置主工具栏为默认布局。
+
+Activates the File Compare window.
+激活文件比较窗。
+
+Activate File Compare
+激活文件比较
+
+Second file %s does not exist
+第二个文件不存在：%s
+
+First file %s does not exist
+第一个文件不存在：%s
+
+Second File to Compare
+第二个比较文件
+
+First File to Compare
+第一个比较文件
+
+Known File Types
+已知文件类型
+
+Import Formatting Presets
+导入格式化配置
+
+Export Formatting Presets
+导出格式化配置
+
+Export Formatting Preset
+导出格式化配置
+
+Delimiters
+分隔符
+
+Export Language Keywords
+导出语言关键词
+
+Parameter
+参数
+
+Copy All Differences to Right
+复制所有差异到右边
+
+Copy All Differences to Left
+复制所有差异到左边
+
+Copies all the differences from the left file to the right file so both files are the same as the the left file.
+从左往右复制所有差异，这样两边都和左边文件一样。
+
+Copies all the differences from the right file to the left file, so both files are the same as the right file.
+从右往左复制所有差异，这样两边都和右边文件一样。
+
+Scale %d%%
+缩放 %d%%
+
+Source Insight Recovery Alert
+Source Insight 异常恢复
+
+   (currently open)
+   (当前打开)
+
+Jump To Reference
+跳转到引用
+
+Fix Corrupted Projects...
+修复损坏项目...
+
+Reports and fixes project errors in background projects.
+报告和修复项目错误。
+
+Zoom In
+放大
+
+Zoom Out
+缩小
+
+Enlarges the font size of the current window.
+加大当前窗口字号。
+
+Decreases the font size of the current window.
+减小当前窗口字号。
+
+Toggles comments on each line of the selection.
+切换所选行的注释。
+
+Support old-style C function definitions
+支持旧式 C 函数定义
+
+Jumps to references to the selected function or identifier.
+跳转到所选函数或标识的引用。
+
+Jumps to the caller of the selected function.
+跳转到所选函数的调用者。
+
+Import Language
+导入语言
+
+Import Themes
+导入主题
+
+Range Definition
+范围定义
+

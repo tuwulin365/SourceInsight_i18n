@@ -1,0 +1,585 @@
+//menu File
+//New
+//新
+//
+&New
+新建
+
+Open...
+打开
+
+Browse Files...
+浏览文件...
+
+Recent Files
+最近
+
+Open Backup File...
+打开备份...
+
+Open As Encoding...
+用编码打开...
+
+Close All
+全关闭
+
+Reload File
+重载文件
+
+Rename or Move...
+改名或移动...
+
+Delete File...
+删除文件...
+
+Reload Modified Files
+重载已修改文件
+
+Reload As Encoding...
+用编码重载...
+
+Save
+保存
+
+&Save
+保存
+
+Save As...
+另存...
+
+Save As
+另存
+
+Save &As...
+另存...
+
+Save All
+全保存
+
+Save A Copy...
+保存为副本...
+
+Save Selection...
+保存所选...
+
+Save As Encoding...
+用编码保存...
+
+Save New Backup File
+保存新备份
+
+Print...
+打印...
+
+Page Setup...
+页面设置...
+
+Load Workspace...
+载入工作区...
+
+Save Workspace...
+保存工作区...
+
+E&xit
+退出
+
+Exit
+退出
+
+//menu Edit
+Undo
+撤销
+
+Redo
+重做
+
+Undo All
+全撤销
+
+Redo All
+全重做
+
+//Cut
+//剪
+//
+Cu&t
+剪切
+
+Copy
+复制
+
+Paste
+粘贴
+
+Duplicate
+复写
+
+Cut To Clip...
+剪到剪辑...
+
+Copy To Clip...
+拷到剪辑...
+
+Paste From Clip...
+从剪辑粘贴...
+
+Insert Snippet
+插入片段
+
+Activate Snippet Window
+片段窗口
+
+Insert File...
+插入文件...
+
+Renumber...
+重编号..
+
+Smart Rename...
+智能改名...
+
+Select All
+全选
+
+Select Function or Symbol
+选择函数或符号
+
+Select Block
+选择块
+
+Special Edit
+特殊编辑
+
+Toggle Comment Lines
+切换行注释
+
+Comment Lines
+行注释
+
+Un-Comment Lines
+取消行注释
+
+Uppercase
+转大写
+
+Lowercase
+转小写
+
+Toggle Case
+互转
+
+Spaces To Tabs
+空格转Tab
+
+Tabs To Spaces
+Tab转空格
+
+Normalize End Of Line Characters
+修正行结束符
+
+Insert GUID
+插入GUID
+
+Insert ASCII...
+插入ASCII
+
+Slide In Text...
+每行首插入...
+
+Reform Paragraph
+重组段落
+
+Calculate
+计算
+
+Indent Right
+右缩进
+
+Indent Left
+左缩进
+
+Browser Mode
+浏览模式
+
+Start Recording
+开始记录
+
+Stop Recording
+停止记录
+
+Play Recording
+播放记录
+
+//menu Search
+Search...
+搜索...
+
+Search Files...
+搜索文件...
+
+Search Project...
+搜索项目...
+
+Search Web...
+搜索网页...
+
+Activate Search Bar
+搜索栏
+
+Activate Project Search Bar
+项目搜索栏
+
+Lookup References...
+查找引用...
+
+Search Forward
+向下搜索
+
+Search Backward
+向上搜索
+
+Replace...
+替换...
+
+Replace Files...
+替换文件...
+
+Bookmark...
+书签...
+
+Selection History...
+选择记录...
+
+Go To Line...
+跳到行...
+
+Go Back
+后退
+
+Go Forward
+前进
+
+Jump To Link
+跳转到链接
+
+Go To Previous Link
+上一个链接
+
+Go To Next Link
+下一个链接
+
+Parse Source Links...
+解析源链接...
+
+Browse Project Symbols...
+浏览项目符号...
+
+Jump To Definition
+跳转到定义
+
+//menu Project
+New Project...
+新建项目...
+
+Open Project...
+打开项目...
+
+Recent Projects
+最近项目
+
+Close Project
+关闭项目
+
+Remove Project...
+移除项目...
+
+Copy Project...
+复制项目...
+
+Export Project to HTML...
+导出项目到HTML
+
+Add and Remove Project Files...
+添加和移除项目文件...
+
+Synchronize Files...
+同步文件...
+
+Open Project Master File List...
+打开项目主文件列表...
+
+Export Project File List...
+导出项目文件列表...
+
+Project Report...
+项目报告...
+
+Rebuild Project...
+重构项目...
+
+Default Project Settings...
+默认项目设置...
+
+Project Settings...
+项目设置...
+
+Import External Symbols...
+导入外部符号...
+
+Import External Symbols for Current Project...
+为当前项目导入外部符号...
+
+//menu Options
+Preferences...
+首选项...
+
+File Type Options...
+文件选项...
+
+Style Properties...
+风格选项...
+
+Visual Theme
+主题...
+
+Manage Visual Themes...
+管理主题...
+
+Default Theme
+默认主题
+
+Key Assignments...
+按键分配...
+
+Menu Assignments...
+菜单分配...
+
+Load Configuration...
+载入配置...
+
+Save Configuration...
+保存配置...
+
+//menu Tools
+Compare Files...
+比较文件...
+
+Compare with Backup File...
+和备份文件比较...
+
+Compare Directories...
+比较目录...
+
+Reformat Source Code with %s Preset
+用 %s 设置格式化源码
+
+Reformat Source Code Options...
+格式化源码选项...
+
+Custom Commands...
+自定义命令...
+
+//menu View
+//Toolbars
+//工具栏
+//
+Main Toolbar
+主工具栏
+
+Browse Toolbar
+浏览栏
+
+File Toolbar
+文件栏
+
+Edit Toolbar
+编辑栏
+
+Search Toolbar
+搜索栏
+
+Navigation Toolbar
+导航栏
+
+Symbols Toolbar
+符号栏
+
+Arrangement Toolbar
+布置栏
+
+View Toolbar
+视图栏
+
+Help Toolbar
+帮助栏
+
+Source Control Toolbar
+源码控制栏
+
+Build Toolbar
+构建栏
+
+Outline Toolbar
+折叠栏
+
+Layout Toolbar
+布局栏
+
+Lock Toolbar
+锁定布局
+
+Clip Window
+剪辑窗
+
+Bookmark Window
+书签窗
+
+Context Window
+上下文窗
+
+Relation Window
+关联窗
+
+Window List
+窗列表
+
+FTP Browser
+FTP
+
+Snippet Window
+片段窗
+
+File Compare
+比较文件
+
+Project Window
+项目窗
+
+Project Folder Browser
+项目目录浏览器
+
+Project File List
+项目文件列表
+
+Project File Types
+项目文件类型
+
+Project Symbol List
+项目符号列表
+
+Project Symbol Categories
+项目符号分类
+
+Full Screen
+全屏
+
+Window Tabs
+窗标签
+
+Tab Tray
+标签盘
+
+Status Bar
+状态栏
+
+Horizontal Scroll Bar
+水平滚动条
+
+Vertical Scroll Bar 
+垂直滚动条
+
+File Search Bar
+文件搜索栏
+
+Project Search Bar
+项目搜索栏
+
+Line Numbers
+行号
+
+Show Outlining
+显示折叠点
+
+Show Nesting Lines
+显示嵌套线
+
+Symbol Window
+符号窗
+
+Overview
+鸟瞰图
+
+//Mono Font View
+//等宽体视图
+//
+//Visible Tabs and Spaces
+//显示Tab和空格
+//
+Visible End Of Line
+显示行结束符
+
+Load Layout...
+载入布局...
+
+Save Layout...
+保存布局...
+
+Reset Layout...
+重置布局...
+
+//menu Window
+New Window
+新窗口
+
+Close Window
+关闭窗口
+
+Arrange Windows
+排列窗口
+
+Cascade Windows
+层叠窗口
+
+Tile Horizontal
+横向平铺
+
+Tile Vertical
+纵向平铺
+
+Tile One Window
+平铺单窗口
+
+Tile Two Windows
+平铺双窗口
+
+Link Window...
+链接窗口...
+
+Link All Windows
+链接所有窗口
+
+Pick Window...
+选择窗口...
+
+//menu Help
+Help...
+帮助
+
+Create Key List
+按键列表
+
+Create Command List
+命令列表
+
+Check for Updates...
+检查更新...
+
+Manage License...
+管理授权...
+
+Source Insight Website
+主页
+
+About Source Insight...
+关于...
+

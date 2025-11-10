@@ -1,0 +1,102 @@
+Custom Commands
+自定义命令
+
+Custom Commands are external commands that can be invoked from inside Source Insight.
+自定义命令是外部命令，可以在Source Insight里调用。
+
+Command:
+命令:
+
+Run:
+运行:
+
+external command line
+外部命令行
+
+Dir:
+目录:
+
+initial directory path (blank for project root)
+初始路径(留空表示项目根目录)
+
+Output
+输出
+
+Iconic Window
+独立窗口
+
+Capture Output
+捕获输出
+
+Paste Output
+粘贴输出
+
+//Control
+//控制
+//
+Save Files First
+先保存文件
+
+Pause When Done
+完成后暂停
+
+Beep When Done
+完成后鸣响
+
+Wait Until Done
+阻塞式等待
+
+Close Files
+关文件
+
+Exit to Windows
+退出窗口
+
+Source Links in Output
+输出的源链接
+
+Parse Links in Output
+解析输出的链接
+
+Pattern Contains:
+样式包含:
+
+File, then Line
+文件，行号
+
+Line, then File
+行号，文件
+
+//Pattern
+//样式
+//
+Regular Expression Syntax:
+正则表达式语法:
+
+Source Insight multi-line
+Source Insight multi-line
+
+Perl Compatible
+Perl Compatible
+
+Perl Compatible multi-line
+Perl Compatible multi-line
+
+Add...
+添加
+
+Remove
+移除
+
+Run
+Run
+
+Keys...
+按键
+
+Add New Custom Command
+添加新命令
+
+New command name:
+新命令名:
+

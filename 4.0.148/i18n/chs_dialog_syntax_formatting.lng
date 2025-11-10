@@ -1,0 +1,51 @@
+Syntax Formatting
+语法格式化
+
+Basics
+基本
+
+&Use Syntax Formatting
+使用语法格式化
+
+Use only &color formatting
+只使用颜色
+
+Use no color formatting (monochrome)
+不使用颜色(黑白单色)
+
+Apply Styles for Language Elements
+应用风格到语言元素
+
+Symbol &declarations
+符号声明
+
+Function local symbol d&eclarations
+函数局部符号声明
+
+References to function-&local symbols
+对局部符号的引用
+
+References to &non-function-local symbols
+对非函数局部符号的引用
+
+References to &members
+对成员的引用
+
+Special comment styles
+特别注释风格
+
+Inactive conditional code blocks
+非激活的条件代码块
+
+Symbol Reference Lookups
+符号引用查找
+
+Use &Project Symbol Path and Imported Libaries (slower)
+使用项目符号路径和导入的库(更慢)
+
+&Qualify references to members (slower)
+限定对成员的引用(更慢)
+
+Qualify references to &functions (slower)
+限定对函数的引用(更慢)
+

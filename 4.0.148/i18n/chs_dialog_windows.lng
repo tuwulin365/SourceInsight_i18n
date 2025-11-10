@@ -1,0 +1,186 @@
+Windows
+窗口
+
+Window Positioning
+窗口位置
+
+Reuse window position for new windows
+新窗口复用窗口位置
+
+Maximize new windows
+最大化新窗口
+
+Window Display
+窗口显示
+
+Horizontal scroll bars for each new window
+显示水平滚动条
+
+Vertical scroll bars for each new window
+显示垂直滚动条
+
+Show line revision marks in left margin
+在左边界显示修改标记
+
+Show current-line indicator
+显示当前行指示
+
+Show bookmarks in left margin
+在左边界显示书签
+
+Smooth scrolling windows
+平滑滚动窗口
+
+Accelerate smooth scrolling when paging quickly
+快速翻页时加速平滑滚动
+
+Sort Window Menu
+排序窗口菜单
+
+Sort by usage
+按使用频率
+
+Sort by title
+按标题
+
+Outlining and Nesting
+折叠和嵌套线
+
+Show outlining
+显示折叠点
+
+Include code blocks inside functions
+包含函数内的代码块
+
+Show potential collapse points when hovering with the mouse
+鼠标悬停时显示折叠点
+
+Show code block nesting lines
+显示代码块嵌套线
+
+Outlining Position:
+折叠点位置:
+
+In the left margin
+左边界内
+
+Indent the outline marks with the source code
+和源码对齐
+
+Spacing Options
+间距选项
+
+Horizontal Spacing
+水平间距
+
+These options affect the width of characters drawn when a proportionally spaced font is used AND the 'Line up white space' option is turned on in the File Types dialog box.
+如果使用比例字体且文件类型对话框的"对齐空格"选项打开，则这些选项将影响字符显示宽度。
+
+Spaces are the same width as this character in the current font:\n(Note: tab widths are based on this width also):
+空格和所用字体的这个字符等宽\n(注意:tab宽度也受此影响):
+
+Common delimiters are the same width as this character in the current font:
+普通分隔符和所用字体的这个字符等宽:
+
+Layout tabstops using monospace calculations
+使用等宽字体布局制表符
+
+Layout spaces using monospace calculations
+使用等宽字体布局空格
+
+Window Tab Options
+窗口标签选项
+
+Window tabs appear above the source window area and always show tabs for the most recently activated windows.
+窗口标签出现在源码窗口上方。
+
+Use window tabs
+使用窗口标签
+
+Show path information in tabs
+标签上显示路径信息
+
+Tab Sorting
+排序
+
+&Most recent on the left
+最近使用
+
+&Tab name
+标签名
+
+Scroll Bar Options
+滚动条选项
+
+Use enhanced vertical scroll bar
+使用增强垂直滚动条
+
+Waveform View
+波状图
+
+Show symbol boundaries
+显示符号边界
+
+Show text representation
+显示文本内容
+
+Show inactive lines
+显示非激活行
+
+Show change marks
+显示修改标记
+
+Show active selection
+显示选择
+
+Show bookmarks
+显示书签
+
+Enable hover messages
+启用浮动消息
+
+Enable scaling handles
+启用缩放柄
+
+Width in percent:
+宽度(%):
+
+Colors
+颜色
+
+Text...
+文本
+
+Back...
+背景
+
+Markings...
+标记
+
+Use color of source window
+使用源窗口颜色
+
+Overview Options
+鸟瞰选项
+
+Show all function boundaries
+显示所有函数边界
+
+Show only current function boundary
+值显示当前函数边界
+
+Text scaling: (%)
+文本缩放(%)：
+
+Use regular text colors of source window
+使用源窗口的常规文本颜色
+
+Use background color of source window
+使用源窗口的背景色
+
+Line Spacing:
+行间距：
+
+Text Scaling:
+文本缩放：
+

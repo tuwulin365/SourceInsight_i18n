@@ -1,0 +1,63 @@
+Syntax Decorations
+语法修饰
+
+Source Insight can substitute decorative symbols for certain operators, and automatically add some display elements.
+Source Insight可以把某些操作符替换为修饰符，或者自动添加一些显示元素。
+
+Display Substitutions
+显示替换
+
+&Use operator substitutions listed below:
+使用下面的操作符替换列表:
+                               
+&Pointer field reference (->) uses right arrow →
+ -> 改为 →
+
+&Not Equal (!=) uses ≠
+ != 改为 ≠
+
+&Equal (==) uses ≍
+ == 改为 ≍
+
+&Less Than or Equal (<=) uses ≤
+ <= 改为 ≤
+
+&Greater Than or Equal (>=) uses ≥
+ >= 改为 ≥
+
+A&ssignment (=) uses ←
+ = 改为 ←
+
+Division (/) uses ÷
+ / 改为 ÷
+
+Logical &AND (&&&&) uses ∧
+ &&&& 改为 ∩
+
+Logical &OR (||) uses ∨
+ || 改为 ∪
+
+Scale nested parentheses
+缩放嵌套的括号
+
+//Auto Annotations
+//自动标记
+//
+Show ↑ and ↓ arrows at goto statements
+goto指令处显示↑或↓
+
+Annotate closing braces with end-comments
+用结束注释来标记括号闭合
+
+Annotate closing braces only for long blocks
+只为长代码块标记括号闭合
+
+← and ↓
+← 和 ↓
+
+CR and LF
+CR 和 LF
+
+Visible end-of-line characters:
+显示行结束符:
+

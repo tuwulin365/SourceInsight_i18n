@@ -1,0 +1,51 @@
+Project File List Options
+项目文件列表选项
+
+Show Columns
+显示栏
+
+File Directory
+目录
+
+File Size
+大小
+
+File Date
+日期
+
+Code Metrics:
+代码度量:
+
+Composite Score
+综合分数
+
+Decision + Branch Density
+判断+分支密度
+
+Branch Density (% of branches / line)
+分支密度(分支数/行数)
+
+Decision Density (% of decisions / line)
+判断密度(判断数/行数)
+
+Decision x Branch Count
+判断x分支数
+
+Decision + Branch + LOC
+判断+分支+LOC
+
+Decision + Branch Count
+判断+分支数
+
+Branch/Goto Count
+分支数
+
+Decision Count
+判断数
+
+Lines of Code
+代码行数
+
+Font & Color...
+字体和颜色
+
